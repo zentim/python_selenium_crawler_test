@@ -1,0 +1,7410 @@
+[
+    {
+        "code": "I",
+        "name": "Certain infectious and parasitic diseases"
+    },
+    {
+        "code": "A00-A09",
+        "name": "Intestinal infectious diseases"
+    },
+    {
+        "code": "A00",
+        "name": "Cholera"
+    },
+    {
+        "code": "A01",
+        "name": "Typhoid and paratyphoid fevers"
+    },
+    {
+        "code": "A02",
+        "name": "Other salmonella infections"
+    },
+    {
+        "code": "A03",
+        "name": "Shigellosis"
+    },
+    {
+        "code": "A04",
+        "name": "Other bacterial intestinal infections"
+    },
+    {
+        "code": "A05",
+        "name": "Other bacterial foodborne intoxications, not elsewhere classified"
+    },
+    {
+        "code": "A06",
+        "name": "Amoebiasis"
+    },
+    {
+        "code": "A07",
+        "name": "Other protozoal intestinal diseases"
+    },
+    {
+        "code": "A08",
+        "name": "Viral and other specified intestinal infections"
+    },
+    {
+        "code": "A09",
+        "name": "Other gastroenteritis and colitis of infectious and unspecified origin"
+    },
+    {
+        "code": "A15-A19",
+        "name": "Tuberculosis"
+    },
+    {
+        "code": "A15",
+        "name": "Respiratory tuberculosis, bacteriologically and histologically confirmed"
+    },
+    {
+        "code": "A16",
+        "name": "Respiratory tuberculosis, not confirmed bacteriologically or histologically"
+    },
+    {
+        "code": "A17",
+        "name": "Tuberculosis of nervous system"
+    },
+    {
+        "code": "A18",
+        "name": "Tuberculosis of other organs"
+    },
+    {
+        "code": "A19",
+        "name": "Miliary tuberculosis"
+    },
+    {
+        "code": "A20-A28",
+        "name": "Certain zoonotic bacterial diseases"
+    },
+    {
+        "code": "A20",
+        "name": "Plague"
+    },
+    {
+        "code": "A21",
+        "name": "Tularaemia"
+    },
+    {
+        "code": "A22",
+        "name": "Anthrax"
+    },
+    {
+        "code": "A23",
+        "name": "Brucellosis"
+    },
+    {
+        "code": "A24",
+        "name": "Glanders and melioidosis"
+    },
+    {
+        "code": "A25",
+        "name": "Rat-bite fevers"
+    },
+    {
+        "code": "A26",
+        "name": "Erysipeloid"
+    },
+    {
+        "code": "A27",
+        "name": "Leptospirosis"
+    },
+    {
+        "code": "A28",
+        "name": "Other zoonotic bacterial diseases, not elsewhere classified"
+    },
+    {
+        "code": "A30-A49",
+        "name": "Other bacterial diseases"
+    },
+    {
+        "code": "A30",
+        "name": "Leprosy [Hansen disease]"
+    },
+    {
+        "code": "A31",
+        "name": "Infection due to other mycobacteria"
+    },
+    {
+        "code": "A32",
+        "name": "Listeriosis"
+    },
+    {
+        "code": "A33",
+        "name": "Tetanus neonatorum"
+    },
+    {
+        "code": "A34",
+        "name": "Obstetrical tetanus"
+    },
+    {
+        "code": "A35",
+        "name": "Other tetanus"
+    },
+    {
+        "code": "A36",
+        "name": "Diphtheria"
+    },
+    {
+        "code": "A37",
+        "name": "Whooping cough"
+    },
+    {
+        "code": "A38",
+        "name": "Scarlet fever"
+    },
+    {
+        "code": "A39",
+        "name": "Meningococcal infection"
+    },
+    {
+        "code": "A40",
+        "name": "Streptococcal sepsis"
+    },
+    {
+        "code": "A41",
+        "name": "Other sepsis"
+    },
+    {
+        "code": "A42",
+        "name": "Actinomycosis"
+    },
+    {
+        "code": "A43",
+        "name": "Nocardiosis"
+    },
+    {
+        "code": "A44",
+        "name": "Bartonellosis"
+    },
+    {
+        "code": "A46",
+        "name": "Erysipelas"
+    },
+    {
+        "code": "A48",
+        "name": "Other bacterial diseases, not elsewhere classified"
+    },
+    {
+        "code": "A49",
+        "name": "Bacterial infection of unspecified site"
+    },
+    {
+        "code": "A50-A64",
+        "name": "Infections with a predominantly sexual mode of transmission"
+    },
+    {
+        "code": "A50",
+        "name": "Congenital syphilis"
+    },
+    {
+        "code": "A51",
+        "name": "Early syphilis"
+    },
+    {
+        "code": "A52",
+        "name": "Late syphilis"
+    },
+    {
+        "code": "A53",
+        "name": "Other and unspecified syphilis"
+    },
+    {
+        "code": "A54",
+        "name": "Gonococcal infection"
+    },
+    {
+        "code": "A55",
+        "name": "Chlamydial lymphogranuloma (venereum)"
+    },
+    {
+        "code": "A56",
+        "name": "Other sexually transmitted chlamydial diseases"
+    },
+    {
+        "code": "A57",
+        "name": "Chancroid"
+    },
+    {
+        "code": "A58",
+        "name": "Granuloma inguinale"
+    },
+    {
+        "code": "A59",
+        "name": "Trichomoniasis"
+    },
+    {
+        "code": "A60",
+        "name": "Anogenital herpesviral [herpes simplex] infection"
+    },
+    {
+        "code": "A63",
+        "name": "Other predominantly sexually transmitted diseases, not elsewhere classified"
+    },
+    {
+        "code": "A64",
+        "name": "Unspecified sexually transmitted disease"
+    },
+    {
+        "code": "A65-A69",
+        "name": "Other spirochaetal diseases"
+    },
+    {
+        "code": "A65",
+        "name": "Nonvenereal syphilis"
+    },
+    {
+        "code": "A66",
+        "name": "Yaws"
+    },
+    {
+        "code": "A67",
+        "name": "Pinta [carate]"
+    },
+    {
+        "code": "A68",
+        "name": "Relapsing fevers"
+    },
+    {
+        "code": "A69",
+        "name": "Other spirochaetal infections"
+    },
+    {
+        "code": "A70-A74",
+        "name": "Other diseases caused by chlamydiae"
+    },
+    {
+        "code": "A70",
+        "name": "Chlamydia psittaci infection"
+    },
+    {
+        "code": "A71",
+        "name": "Trachoma"
+    },
+    {
+        "code": "A74",
+        "name": "Other diseases caused by chlamydiae"
+    },
+    {
+        "code": "A75-A79",
+        "name": "Rickettsioses"
+    },
+    {
+        "code": "A75",
+        "name": "Typhus fever"
+    },
+    {
+        "code": "A77",
+        "name": "Spotted fever [tick-borne rickettsioses]"
+    },
+    {
+        "code": "A78",
+        "name": "Q fever"
+    },
+    {
+        "code": "A79",
+        "name": "Other rickettsioses"
+    },
+    {
+        "code": "A80-A89",
+        "name": "Viral infections of the central nervous system"
+    },
+    {
+        "code": "A80",
+        "name": "Acute poliomyelitis"
+    },
+    {
+        "code": "A81",
+        "name": "Atypical virus infections of central nervous system"
+    },
+    {
+        "code": "A82",
+        "name": "Rabies"
+    },
+    {
+        "code": "A83",
+        "name": "Mosquito-borne viral encephalitis"
+    },
+    {
+        "code": "A84",
+        "name": "Tick-borne viral encephalitis"
+    },
+    {
+        "code": "A85",
+        "name": "Other viral encephalitis, not elsewhere classified"
+    },
+    {
+        "code": "A86",
+        "name": "Unspecified viral encephalitis"
+    },
+    {
+        "code": "A87",
+        "name": "Viral meningitis"
+    },
+    {
+        "code": "A88",
+        "name": "Other viral infections of central nervous system, not elsewhere classified"
+    },
+    {
+        "code": "A89",
+        "name": "Unspecified viral infection of central nervous system"
+    },
+    {
+        "code": "A92-A99",
+        "name": "Arthropod-borne viral fevers and viral haemorrhagic fevers"
+    },
+    {
+        "code": "A92",
+        "name": "Other mosquito-borne viral fevers"
+    },
+    {
+        "code": "A93",
+        "name": "Other arthropod-borne viral fevers, not elsewhere classified"
+    },
+    {
+        "code": "A94",
+        "name": "Unspecified arthropod-borne viral fever"
+    },
+    {
+        "code": "A95",
+        "name": "Yellow fever"
+    },
+    {
+        "code": "A96",
+        "name": "Arenaviral haemorrhagic fever"
+    },
+    {
+        "code": "A97",
+        "name": "Dengue"
+    },
+    {
+        "code": "A98",
+        "name": "Other viral haemorrhagic fevers, not elsewhere classified"
+    },
+    {
+        "code": "A99",
+        "name": "Unspecified viral haemorrhagic fever"
+    },
+    {
+        "code": "B00-B09",
+        "name": "Viral infections characterized by skin and mucous membrane lesions"
+    },
+    {
+        "code": "B00",
+        "name": "Herpesviral [herpes simplex] infections"
+    },
+    {
+        "code": "B01",
+        "name": "Varicella [chickenpox]"
+    },
+    {
+        "code": "B02",
+        "name": "Zoster [herpes zoster]"
+    },
+    {
+        "code": "B03",
+        "name": "Smallpox"
+    },
+    {
+        "code": "B04",
+        "name": "Monkeypox"
+    },
+    {
+        "code": "B05",
+        "name": "Measles"
+    },
+    {
+        "code": "B06",
+        "name": "Rubella [German measles]"
+    },
+    {
+        "code": "B07",
+        "name": "Viral warts"
+    },
+    {
+        "code": "B08",
+        "name": "Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified"
+    },
+    {
+        "code": "B09",
+        "name": "Unspecified viral infection characterized by skin and mucous membrane lesions"
+    },
+    {
+        "code": "B15-B19",
+        "name": "Viral hepatitis"
+    },
+    {
+        "code": "B15",
+        "name": "Acute hepatitis A"
+    },
+    {
+        "code": "B16",
+        "name": "Acute hepatitis B"
+    },
+    {
+        "code": "B17",
+        "name": "Other acute viral hepatitis"
+    },
+    {
+        "code": "B18",
+        "name": "Chronic viral hepatitis"
+    },
+    {
+        "code": "B19",
+        "name": "Unspecified viral hepatitis"
+    },
+    {
+        "code": "B20-B24",
+        "name": "Human immunodeficiency virus [HIV] disease"
+    },
+    {
+        "code": "B20",
+        "name": "Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases"
+    },
+    {
+        "code": "B21",
+        "name": "Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms"
+    },
+    {
+        "code": "B22",
+        "name": "Human immunodeficiency virus [HIV] disease resulting in other specified diseases"
+    },
+    {
+        "code": "B23",
+        "name": "Human immunodeficiency virus [HIV] disease resulting in other conditions"
+    },
+    {
+        "code": "B24",
+        "name": "Unspecified human immunodeficiency virus [HIV] disease"
+    },
+    {
+        "code": "B25-B34",
+        "name": "Other viral diseases"
+    },
+    {
+        "code": "B25",
+        "name": "Cytomegaloviral disease"
+    },
+    {
+        "code": "B26",
+        "name": "Mumps"
+    },
+    {
+        "code": "B27",
+        "name": "Infectious mononucleosis"
+    },
+    {
+        "code": "B30",
+        "name": "Viral conjunctivitis"
+    },
+    {
+        "code": "B33",
+        "name": "Other viral diseases, not elsewhere classified"
+    },
+    {
+        "code": "B34",
+        "name": "Viral infection of unspecified site"
+    },
+    {
+        "code": "B35-B49",
+        "name": "Mycoses"
+    },
+    {
+        "code": "B35",
+        "name": "Dermatophytosis"
+    },
+    {
+        "code": "B36",
+        "name": "Other superficial mycoses"
+    },
+    {
+        "code": "B37",
+        "name": "Candidiasis"
+    },
+    {
+        "code": "B38",
+        "name": "Coccidioidomycosis"
+    },
+    {
+        "code": "B39",
+        "name": "Histoplasmosis"
+    },
+    {
+        "code": "B40",
+        "name": "Blastomycosis"
+    },
+    {
+        "code": "B41",
+        "name": "Paracoccidioidomycosis"
+    },
+    {
+        "code": "B42",
+        "name": "Sporotrichosis"
+    },
+    {
+        "code": "B43",
+        "name": "Chromomycosis and phaeomycotic abscess"
+    },
+    {
+        "code": "B44",
+        "name": "Aspergillosis"
+    },
+    {
+        "code": "B45",
+        "name": "Cryptococcosis"
+    },
+    {
+        "code": "B46",
+        "name": "Zygomycosis"
+    },
+    {
+        "code": "B47",
+        "name": "Mycetoma"
+    },
+    {
+        "code": "B48",
+        "name": "Other mycoses, not elsewhere classified"
+    },
+    {
+        "code": "B49",
+        "name": "Unspecified mycosis"
+    },
+    {
+        "code": "B50-B64",
+        "name": "Protozoal diseases"
+    },
+    {
+        "code": "B50",
+        "name": "Plasmodium falciparum malaria"
+    },
+    {
+        "code": "B51",
+        "name": "Plasmodium vivax malaria"
+    },
+    {
+        "code": "B52",
+        "name": "Plasmodium malariae malaria"
+    },
+    {
+        "code": "B53",
+        "name": "Other parasitologically confirmed malaria"
+    },
+    {
+        "code": "B54",
+        "name": "Unspecified malaria"
+    },
+    {
+        "code": "B55",
+        "name": "Leishmaniasis"
+    },
+    {
+        "code": "B56",
+        "name": "African trypanosomiasis"
+    },
+    {
+        "code": "B57",
+        "name": "Chagas disease"
+    },
+    {
+        "code": "B58",
+        "name": "Toxoplasmosis"
+    },
+    {
+        "code": "B59",
+        "name": "Pneumocystosis"
+    },
+    {
+        "code": "B60",
+        "name": "Other protozoal diseases, not elsewhere classified"
+    },
+    {
+        "code": "B64",
+        "name": "Unspecified protozoal disease"
+    },
+    {
+        "code": "B65-B83",
+        "name": "Helminthiases"
+    },
+    {
+        "code": "B65",
+        "name": "Schistosomiasis [bilharziasis]"
+    },
+    {
+        "code": "B66",
+        "name": "Other fluke infections"
+    },
+    {
+        "code": "B67",
+        "name": "Echinococcosis"
+    },
+    {
+        "code": "B68",
+        "name": "Taeniasis"
+    },
+    {
+        "code": "B69",
+        "name": "Cysticercosis"
+    },
+    {
+        "code": "B70",
+        "name": "Diphyllobothriasis and sparganosis"
+    },
+    {
+        "code": "B71",
+        "name": "Other cestode infections"
+    },
+    {
+        "code": "B72",
+        "name": "Dracunculiasis"
+    },
+    {
+        "code": "B73",
+        "name": "Onchocerciasis"
+    },
+    {
+        "code": "B74",
+        "name": "Filariasis"
+    },
+    {
+        "code": "B75",
+        "name": "Trichinellosis"
+    },
+    {
+        "code": "B76",
+        "name": "Hookworm diseases"
+    },
+    {
+        "code": "B77",
+        "name": "Ascariasis"
+    },
+    {
+        "code": "B78",
+        "name": "Strongyloidiasis"
+    },
+    {
+        "code": "B79",
+        "name": "Trichuriasis"
+    },
+    {
+        "code": "B80",
+        "name": "Enterobiasis"
+    },
+    {
+        "code": "B81",
+        "name": "Other intestinal helminthiases, not elsewhere classified"
+    },
+    {
+        "code": "B82",
+        "name": "Unspecified intestinal parasitism"
+    },
+    {
+        "code": "B83",
+        "name": "Other helminthiases"
+    },
+    {
+        "code": "B85-B89",
+        "name": "Pediculosis, acariasis and other infestations"
+    },
+    {
+        "code": "B85",
+        "name": "Pediculosis and phthiriasis"
+    },
+    {
+        "code": "B86",
+        "name": "Scabies"
+    },
+    {
+        "code": "B87",
+        "name": "Myiasis"
+    },
+    {
+        "code": "B88",
+        "name": "Other infestations"
+    },
+    {
+        "code": "B89",
+        "name": "Unspecified parasitic disease"
+    },
+    {
+        "code": "B90-B94",
+        "name": "Sequelae of infectious and parasitic diseases"
+    },
+    {
+        "code": "B90",
+        "name": "Sequelae of tuberculosis"
+    },
+    {
+        "code": "B91",
+        "name": "Sequelae of poliomyelitis"
+    },
+    {
+        "code": "B92",
+        "name": "Sequelae of leprosy"
+    },
+    {
+        "code": "B94",
+        "name": "Sequelae of other and unspecified infectious and parasitic diseases"
+    },
+    {
+        "code": "B95-B98",
+        "name": "Bacterial, viral and other infectious agents"
+    },
+    {
+        "code": "B95",
+        "name": "Streptococcus and staphylococcus as the cause of diseases classified to other chapters"
+    },
+    {
+        "code": "B96",
+        "name": "Other specified bacterial agents as the cause of diseases classified to other chapters"
+    },
+    {
+        "code": "B97",
+        "name": "Viral agents as the cause of diseases classified to other chapters"
+    },
+    {
+        "code": "B98",
+        "name": "Other specified infectious agents as the cause of diseases classified to other chapters"
+    },
+    {
+        "code": "B99-B99",
+        "name": "Other infectious diseases"
+    },
+    {
+        "code": "B99",
+        "name": "Other and unspecified infectious diseases"
+    },
+    {
+        "code": "II",
+        "name": "Neoplasms"
+    },
+    {
+        "code": "C00-C97",
+        "name": "Malignant neoplasms"
+    },
+    {
+        "code": "C00-C75",
+        "name": "Malignant neoplasms, stated or presumed to be primary, of specified sites, except of lymphoid, haematopoietic and related tissue"
+    },
+    {
+        "code": "C76-C80",
+        "name": "Malignant neoplasms of ill-defined, secondary and unspecified sites"
+    },
+    {
+        "code": "C81-C96",
+        "name": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue"
+    },
+    {
+        "code": "C97-C97",
+        "name": "Malignant neoplasms of independent (primary) multiple sites"
+    },
+    {
+        "code": "D00-D09",
+        "name": "In situ neoplasms"
+    },
+    {
+        "code": "D00",
+        "name": "Carcinoma in situ of oral cavity, oesophagus and stomach"
+    },
+    {
+        "code": "D01",
+        "name": "Carcinoma in situ of other and unspecified digestive organs"
+    },
+    {
+        "code": "D02",
+        "name": "Carcinoma in situ of middle ear and respiratory system"
+    },
+    {
+        "code": "D03",
+        "name": "Melanoma in situ"
+    },
+    {
+        "code": "D04",
+        "name": "Carcinoma in situ of skin"
+    },
+    {
+        "code": "D05",
+        "name": "Carcinoma in situ of breast"
+    },
+    {
+        "code": "D06",
+        "name": "Carcinoma in situ of cervix uteri"
+    },
+    {
+        "code": "D07",
+        "name": "Carcinoma in situ of other and unspecified genital organs"
+    },
+    {
+        "code": "D09",
+        "name": "Carcinoma in situ of other and unspecified sites"
+    },
+    {
+        "code": "D10-D36",
+        "name": "Benign neoplasms"
+    },
+    {
+        "code": "D10",
+        "name": "Benign neoplasm of mouth and pharynx"
+    },
+    {
+        "code": "D11",
+        "name": "Benign neoplasm of major salivary glands"
+    },
+    {
+        "code": "D12",
+        "name": "Benign neoplasm of colon, rectum, anus and anal canal"
+    },
+    {
+        "code": "D13",
+        "name": "Benign neoplasm of other and ill-defined parts of digestive system"
+    },
+    {
+        "code": "D14",
+        "name": "Benign neoplasm of middle ear and respiratory system"
+    },
+    {
+        "code": "D15",
+        "name": "Benign neoplasm of other and unspecified intrathoracic organs"
+    },
+    {
+        "code": "D16",
+        "name": "Benign neoplasm of bone and articular cartilage"
+    },
+    {
+        "code": "D17",
+        "name": "Benign lipomatous neoplasm"
+    },
+    {
+        "code": "D18",
+        "name": "Haemangioma and lymphangioma, any site"
+    },
+    {
+        "code": "D19",
+        "name": "Benign neoplasm of mesothelial tissue"
+    },
+    {
+        "code": "D20",
+        "name": "Benign neoplasm of soft tissue of retroperitoneum and peritoneum"
+    },
+    {
+        "code": "D21",
+        "name": "Other benign neoplasms of connective and other soft tissue"
+    },
+    {
+        "code": "D22",
+        "name": "Melanocytic naevi"
+    },
+    {
+        "code": "D23",
+        "name": "Other benign neoplasms of skin"
+    },
+    {
+        "code": "D24",
+        "name": "Benign neoplasm of breast"
+    },
+    {
+        "code": "D25",
+        "name": "Leiomyoma of uterus"
+    },
+    {
+        "code": "D26",
+        "name": "Other benign neoplasms of uterus"
+    },
+    {
+        "code": "D27",
+        "name": "Benign neoplasm of ovary"
+    },
+    {
+        "code": "D28",
+        "name": "Benign neoplasm of other and unspecified female genital organs"
+    },
+    {
+        "code": "D29",
+        "name": "Benign neoplasm of male genital organs"
+    },
+    {
+        "code": "D30",
+        "name": "Benign neoplasm of urinary organs"
+    },
+    {
+        "code": "D31",
+        "name": "Benign neoplasm of eye and adnexa"
+    },
+    {
+        "code": "D32",
+        "name": "Benign neoplasm of meninges"
+    },
+    {
+        "code": "D33",
+        "name": "Benign neoplasm of brain and other parts of central nervous system"
+    },
+    {
+        "code": "D34",
+        "name": "Benign neoplasm of thyroid gland"
+    },
+    {
+        "code": "D35",
+        "name": "Benign neoplasm of other and unspecified endocrine glands"
+    },
+    {
+        "code": "D36",
+        "name": "Benign neoplasm of other and unspecified sites"
+    },
+    {
+        "code": "D37-D48",
+        "name": "Neoplasms of uncertain or unknown behaviour"
+    },
+    {
+        "code": "D37",
+        "name": "Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs"
+    },
+    {
+        "code": "D38",
+        "name": "Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs"
+    },
+    {
+        "code": "D39",
+        "name": "Neoplasm of uncertain or unknown behaviour of female genital organs"
+    },
+    {
+        "code": "D40",
+        "name": "Neoplasm of uncertain or unknown behaviour of male genital organs"
+    },
+    {
+        "code": "D41",
+        "name": "Neoplasm of uncertain or unknown behaviour of urinary organs"
+    },
+    {
+        "code": "D42",
+        "name": "Neoplasm of uncertain or unknown behaviour of meninges"
+    },
+    {
+        "code": "D43",
+        "name": "Neoplasm of uncertain or unknown behaviour of brain and central nervous system"
+    },
+    {
+        "code": "D44",
+        "name": "Neoplasm of uncertain or unknown behaviour of endocrine glands"
+    },
+    {
+        "code": "D45",
+        "name": "Polycythaemia vera"
+    },
+    {
+        "code": "D46",
+        "name": "Myelodysplastic syndromes"
+    },
+    {
+        "code": "D47",
+        "name": "Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue"
+    },
+    {
+        "code": "D48",
+        "name": "Neoplasm of uncertain or unknown behaviour of other and unspecified sites"
+    },
+    {
+        "code": "III",
+        "name": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism"
+    },
+    {
+        "code": "D50-D53",
+        "name": "Nutritional anaemias"
+    },
+    {
+        "code": "D50",
+        "name": "Iron deficiency anaemia"
+    },
+    {
+        "code": "D51",
+        "name": "Vitamin B 12 deficiency anaemia"
+    },
+    {
+        "code": "D52",
+        "name": "Folate deficiency anaemia"
+    },
+    {
+        "code": "D53",
+        "name": "Other nutritional anaemias"
+    },
+    {
+        "code": "D55-D59",
+        "name": "Haemolytic anaemias"
+    },
+    {
+        "code": "D55",
+        "name": "Anaemia due to enzyme disorders"
+    },
+    {
+        "code": "D56",
+        "name": "Thalassaemia"
+    },
+    {
+        "code": "D57",
+        "name": "Sickle-cell disorders"
+    },
+    {
+        "code": "D58",
+        "name": "Other hereditary haemolytic anaemias"
+    },
+    {
+        "code": "D59",
+        "name": "Acquired haemolytic anaemia"
+    },
+    {
+        "code": "D60-D64",
+        "name": "Aplastic and other anaemias"
+    },
+    {
+        "code": "D60",
+        "name": "Acquired pure red cell aplasia [erythroblastopenia]"
+    },
+    {
+        "code": "D61",
+        "name": "Other aplastic anaemias"
+    },
+    {
+        "code": "D62",
+        "name": "Acute posthaemorrhagic anaemia"
+    },
+    {
+        "code": "D63",
+        "name": "Anaemia in chronic diseases classified elsewhere"
+    },
+    {
+        "code": "D64",
+        "name": "Other anaemias"
+    },
+    {
+        "code": "D65-D69",
+        "name": "Coagulation defects, purpura and other haemorrhagic conditions"
+    },
+    {
+        "code": "D65",
+        "name": "Disseminated intravascular coagulation [defibrination syndrome]"
+    },
+    {
+        "code": "D66",
+        "name": "Hereditary factor VIII deficiency"
+    },
+    {
+        "code": "D67",
+        "name": "Hereditary factor IX deficiency"
+    },
+    {
+        "code": "D68",
+        "name": "Other coagulation defects"
+    },
+    {
+        "code": "D69",
+        "name": "Purpura and other haemorrhagic conditions"
+    },
+    {
+        "code": "D70-D77",
+        "name": "Other diseases of blood and blood-forming organs"
+    },
+    {
+        "code": "D70",
+        "name": "Agranulocytosis"
+    },
+    {
+        "code": "D71",
+        "name": "Functional disorders of polymorphonuclear neutrophils"
+    },
+    {
+        "code": "D72",
+        "name": "Other disorders of white blood cells"
+    },
+    {
+        "code": "D73",
+        "name": "Diseases of spleen"
+    },
+    {
+        "code": "D74",
+        "name": "Methaemoglobinaemia"
+    },
+    {
+        "code": "D75",
+        "name": "Other diseases of blood and blood-forming organs"
+    },
+    {
+        "code": "D76",
+        "name": "Other specified diseases with participation of lymphoreticular and reticulohistiocytic tissue"
+    },
+    {
+        "code": "D77",
+        "name": "Other disorders of blood and blood-forming organs in diseases classified elsewhere"
+    },
+    {
+        "code": "D80-D89",
+        "name": "Certain disorders involving the immune mechanism"
+    },
+    {
+        "code": "D80",
+        "name": "Immunodeficiency with predominantly antibody defects"
+    },
+    {
+        "code": "D81",
+        "name": "Combined immunodeficiencies"
+    },
+    {
+        "code": "D82",
+        "name": "Immunodeficiency associated with other major defects"
+    },
+    {
+        "code": "D83",
+        "name": "Common variable immunodeficiency"
+    },
+    {
+        "code": "D84",
+        "name": "Other immunodeficiencies"
+    },
+    {
+        "code": "D86",
+        "name": "Sarcoidosis"
+    },
+    {
+        "code": "D89",
+        "name": "Other disorders involving the immune mechanism, not elsewhere classified"
+    },
+    {
+        "code": "IV",
+        "name": "Endocrine, nutritional and metabolic diseases"
+    },
+    {
+        "code": "E00-E07",
+        "name": "Disorders of thyroid gland"
+    },
+    {
+        "code": "E00",
+        "name": "Congenital iodine-deficiency syndrome"
+    },
+    {
+        "code": "E01",
+        "name": "Iodine-deficiency-related thyroid disorders and allied conditions"
+    },
+    {
+        "code": "E02",
+        "name": "Subclinical iodine-deficiency hypothyroidism"
+    },
+    {
+        "code": "E03",
+        "name": "Other hypothyroidism"
+    },
+    {
+        "code": "E04",
+        "name": "Other nontoxic goitre"
+    },
+    {
+        "code": "E05",
+        "name": "Thyrotoxicosis [hyperthyroidism]"
+    },
+    {
+        "code": "E06",
+        "name": "Thyroiditis"
+    },
+    {
+        "code": "E07",
+        "name": "Other disorders of thyroid"
+    },
+    {
+        "code": "E10-E14",
+        "name": "Diabetes mellitus"
+    },
+    {
+        "code": "E10",
+        "name": "Type 1 diabetes mellitus"
+    },
+    {
+        "code": "E11",
+        "name": "Type 2 diabetes mellitus"
+    },
+    {
+        "code": "E12",
+        "name": "Malnutrition-related diabetes mellitus"
+    },
+    {
+        "code": "E13",
+        "name": "Other specified diabetes mellitus"
+    },
+    {
+        "code": "E14",
+        "name": "Unspecified diabetes mellitus"
+    },
+    {
+        "code": "E15-E16",
+        "name": "Other disorders of glucose regulation and pancreatic internal secretion"
+    },
+    {
+        "code": "E15",
+        "name": "Nondiabetic hypoglycaemic coma"
+    },
+    {
+        "code": "E16",
+        "name": "Other disorders of pancreatic internal secretion"
+    },
+    {
+        "code": "E20-E35",
+        "name": "Disorders of other endocrine glands"
+    },
+    {
+        "code": "E20",
+        "name": "Hypoparathyroidism"
+    },
+    {
+        "code": "E21",
+        "name": "Hyperparathyroidism and other disorders of parathyroid gland"
+    },
+    {
+        "code": "E22",
+        "name": "Hyperfunction of pituitary gland"
+    },
+    {
+        "code": "E23",
+        "name": "Hypofunction and other disorders of pituitary gland"
+    },
+    {
+        "code": "E24",
+        "name": "Cushing syndrome"
+    },
+    {
+        "code": "E25",
+        "name": "Adrenogenital disorders"
+    },
+    {
+        "code": "E26",
+        "name": "Hyperaldosteronism"
+    },
+    {
+        "code": "E27",
+        "name": "Other disorders of adrenal gland"
+    },
+    {
+        "code": "E28",
+        "name": "Ovarian dysfunction"
+    },
+    {
+        "code": "E29",
+        "name": "Testicular dysfunction"
+    },
+    {
+        "code": "E30",
+        "name": "Disorders of puberty, not elsewhere classified"
+    },
+    {
+        "code": "E31",
+        "name": "Polyglandular dysfunction"
+    },
+    {
+        "code": "E32",
+        "name": "Diseases of thymus"
+    },
+    {
+        "code": "E34",
+        "name": "Other endocrine disorders"
+    },
+    {
+        "code": "E35",
+        "name": "Disorders of endocrine glands in diseases classified elsewhere"
+    },
+    {
+        "code": "E40-E46",
+        "name": "Malnutrition"
+    },
+    {
+        "code": "E40",
+        "name": "Kwashiorkor"
+    },
+    {
+        "code": "E41",
+        "name": "Nutritional marasmus"
+    },
+    {
+        "code": "E42",
+        "name": "Marasmic kwashiorkor"
+    },
+    {
+        "code": "E43",
+        "name": "Unspecified severe protein-energy malnutrition"
+    },
+    {
+        "code": "E44",
+        "name": "Protein-energy malnutrition of moderate and mild degree"
+    },
+    {
+        "code": "E45",
+        "name": "Retarded development following protein-energy malnutrition"
+    },
+    {
+        "code": "E46",
+        "name": "Unspecified protein-energy malnutrition"
+    },
+    {
+        "code": "E50-E64",
+        "name": "Other nutritional deficiencies"
+    },
+    {
+        "code": "E50",
+        "name": "Vitamin A deficiency"
+    },
+    {
+        "code": "E51",
+        "name": "Thiamine deficiency"
+    },
+    {
+        "code": "E52",
+        "name": "Niacin deficiency [pellagra]"
+    },
+    {
+        "code": "E53",
+        "name": "Deficiency of other B group vitamins"
+    },
+    {
+        "code": "E54",
+        "name": "Ascorbic acid deficiency"
+    },
+    {
+        "code": "E55",
+        "name": "Vitamin D deficiency"
+    },
+    {
+        "code": "E56",
+        "name": "Other vitamin deficiencies"
+    },
+    {
+        "code": "E58",
+        "name": "Dietary calcium deficiency"
+    },
+    {
+        "code": "E59",
+        "name": "Dietary selenium deficiency"
+    },
+    {
+        "code": "E60",
+        "name": "Dietary zinc deficiency"
+    },
+    {
+        "code": "E61",
+        "name": "Deficiency of other nutrient elements"
+    },
+    {
+        "code": "E63",
+        "name": "Other nutritional deficiencies"
+    },
+    {
+        "code": "E64",
+        "name": "Sequelae of malnutrition and other nutritional deficiencies"
+    },
+    {
+        "code": "E65-E68",
+        "name": "Obesity and other hyperalimentation"
+    },
+    {
+        "code": "E65",
+        "name": "Localized adiposity"
+    },
+    {
+        "code": "E66",
+        "name": "Obesity"
+    },
+    {
+        "code": "E67",
+        "name": "Other hyperalimentation"
+    },
+    {
+        "code": "E68",
+        "name": "Sequelae of hyperalimentation"
+    },
+    {
+        "code": "E70-E90",
+        "name": "Metabolic disorders"
+    },
+    {
+        "code": "E70",
+        "name": "Disorders of aromatic amino-acid metabolism"
+    },
+    {
+        "code": "E71",
+        "name": "Disorders of branched-chain amino-acid metabolism and fatty-acid metabolism"
+    },
+    {
+        "code": "E72",
+        "name": "Other disorders of amino-acid metabolism"
+    },
+    {
+        "code": "E73",
+        "name": "Lactose intolerance"
+    },
+    {
+        "code": "E74",
+        "name": "Other disorders of carbohydrate metabolism"
+    },
+    {
+        "code": "E75",
+        "name": "Disorders of sphingolipid metabolism and other lipid storage disorders"
+    },
+    {
+        "code": "E76",
+        "name": "Disorders of glycosaminoglycan metabolism"
+    },
+    {
+        "code": "E77",
+        "name": "Disorders of glycoprotein metabolism"
+    },
+    {
+        "code": "E78",
+        "name": "Disorders of lipoprotein metabolism and other lipidaemias"
+    },
+    {
+        "code": "E79",
+        "name": "Disorders of purine and pyrimidine metabolism"
+    },
+    {
+        "code": "E80",
+        "name": "Disorders of porphyrin and bilirubin metabolism"
+    },
+    {
+        "code": "E83",
+        "name": "Disorders of mineral metabolism"
+    },
+    {
+        "code": "E84",
+        "name": "Cystic fibrosis"
+    },
+    {
+        "code": "E85",
+        "name": "Amyloidosis"
+    },
+    {
+        "code": "E86",
+        "name": "Volume depletion"
+    },
+    {
+        "code": "E87",
+        "name": "Other disorders of fluid, electrolyte and acid-base balance"
+    },
+    {
+        "code": "E88",
+        "name": "Other metabolic disorders"
+    },
+    {
+        "code": "E89",
+        "name": "Postprocedural endocrine and metabolic disorders, not elsewhere classified"
+    },
+    {
+        "code": "E90",
+        "name": "Nutritional and metabolic disorders in diseases classified elsewhere"
+    },
+    {
+        "code": "V",
+        "name": "Mental and behavioural disorders"
+    },
+    {
+        "code": "F00-F09",
+        "name": "Organic, including symptomatic, mental disorders"
+    },
+    {
+        "code": "F00",
+        "name": "Dementia in Alzheimer disease"
+    },
+    {
+        "code": "F01",
+        "name": "Vascular dementia"
+    },
+    {
+        "code": "F02",
+        "name": "Dementia in other diseases classified elsewhere"
+    },
+    {
+        "code": "F03",
+        "name": "Unspecified dementia"
+    },
+    {
+        "code": "F04",
+        "name": "Organic amnesic syndrome, not induced by alcohol and other psychoactive substances"
+    },
+    {
+        "code": "F05",
+        "name": "Delirium, not induced by alcohol and other psychoactive substances"
+    },
+    {
+        "code": "F06",
+        "name": "Other mental disorders due to brain damage and dysfunction and to physical disease"
+    },
+    {
+        "code": "F07",
+        "name": "Personality and behavioural disorders due to brain disease, damage and dysfunction"
+    },
+    {
+        "code": "F09",
+        "name": "Unspecified organic or symptomatic mental disorder"
+    },
+    {
+        "code": "F10-F19",
+        "name": "Mental and behavioural disorders due to psychoactive substance use"
+    },
+    {
+        "code": "F10",
+        "name": "Mental and behavioural disorders due to use of alcohol"
+    },
+    {
+        "code": "F11",
+        "name": "Mental and behavioural disorders due to use of opioids"
+    },
+    {
+        "code": "F12",
+        "name": "Mental and behavioural disorders due to use of cannabinoids"
+    },
+    {
+        "code": "F13",
+        "name": "Mental and behavioural disorders due to use of sedatives or hypnotics"
+    },
+    {
+        "code": "F14",
+        "name": "Mental and behavioural disorders due to use of cocaine"
+    },
+    {
+        "code": "F15",
+        "name": "Mental and behavioural disorders due to use of other stimulants, including caffeine"
+    },
+    {
+        "code": "F16",
+        "name": "Mental and behavioural disorders due to use of hallucinogens"
+    },
+    {
+        "code": "F17",
+        "name": "Mental and behavioural disorders due to use of tobacco"
+    },
+    {
+        "code": "F18",
+        "name": "Mental and behavioural disorders due to use of volatile solvents"
+    },
+    {
+        "code": "F19",
+        "name": "Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances"
+    },
+    {
+        "code": "F20-F29",
+        "name": "Schizophrenia, schizotypal and delusional disorders"
+    },
+    {
+        "code": "F20",
+        "name": "Schizophrenia"
+    },
+    {
+        "code": "F21",
+        "name": "Schizotypal disorder"
+    },
+    {
+        "code": "F22",
+        "name": "Persistent delusional disorders"
+    },
+    {
+        "code": "F23",
+        "name": "Acute and transient psychotic disorders"
+    },
+    {
+        "code": "F24",
+        "name": "Induced delusional disorder"
+    },
+    {
+        "code": "F25",
+        "name": "Schizoaffective disorders"
+    },
+    {
+        "code": "F28",
+        "name": "Other nonorganic psychotic disorders"
+    },
+    {
+        "code": "F29",
+        "name": "Unspecified nonorganic psychosis"
+    },
+    {
+        "code": "F30-F39",
+        "name": "Mood [affective] disorders"
+    },
+    {
+        "code": "F30",
+        "name": "Manic episode"
+    },
+    {
+        "code": "F31",
+        "name": "Bipolar affective disorder"
+    },
+    {
+        "code": "F32",
+        "name": "Depressive episode"
+    },
+    {
+        "code": "F33",
+        "name": "Recurrent depressive disorder"
+    },
+    {
+        "code": "F34",
+        "name": "Persistent mood [affective] disorders"
+    },
+    {
+        "code": "F38",
+        "name": "Other mood [affective] disorders"
+    },
+    {
+        "code": "F39",
+        "name": "Unspecified mood [affective] disorder"
+    },
+    {
+        "code": "F40-F48",
+        "name": "Neurotic, stress-related and somatoform disorders"
+    },
+    {
+        "code": "F40",
+        "name": "Phobic anxiety disorders"
+    },
+    {
+        "code": "F41",
+        "name": "Other anxiety disorders"
+    },
+    {
+        "code": "F42",
+        "name": "Obsessive-compulsive disorder"
+    },
+    {
+        "code": "F43",
+        "name": "Reaction to severe stress, and adjustment disorders"
+    },
+    {
+        "code": "F44",
+        "name": "Dissociative [conversion] disorders"
+    },
+    {
+        "code": "F45",
+        "name": "Somatoform disorders"
+    },
+    {
+        "code": "F48",
+        "name": "Other neurotic disorders"
+    },
+    {
+        "code": "F50-F59",
+        "name": "Behavioural syndromes associated with physiological disturbances and physical factors"
+    },
+    {
+        "code": "F50",
+        "name": "Eating disorders"
+    },
+    {
+        "code": "F51",
+        "name": "Nonorganic sleep disorders"
+    },
+    {
+        "code": "F52",
+        "name": "Sexual dysfunction, not caused by organic disorder or disease"
+    },
+    {
+        "code": "F53",
+        "name": "Mental and behavioural disorders associated with the puerperium, not elsewhere classified"
+    },
+    {
+        "code": "F54",
+        "name": "Psychological and behavioural factors associated with disorders or diseases classified elsewhere"
+    },
+    {
+        "code": "F55",
+        "name": "Abuse of non-dependence-producing substances"
+    },
+    {
+        "code": "F59",
+        "name": "Unspecified behavioural syndromes associated with physiological disturbances and physical factors"
+    },
+    {
+        "code": "F60-F69",
+        "name": "Disorders of adult personality and behaviour"
+    },
+    {
+        "code": "F60",
+        "name": "Specific personality disorders"
+    },
+    {
+        "code": "F61",
+        "name": "Mixed and other personality disorders"
+    },
+    {
+        "code": "F62",
+        "name": "Enduring personality changes, not attributable to brain damage and disease"
+    },
+    {
+        "code": "F63",
+        "name": "Habit and impulse disorders"
+    },
+    {
+        "code": "F64",
+        "name": "Gender identity disorders"
+    },
+    {
+        "code": "F65",
+        "name": "Disorders of sexual preference"
+    },
+    {
+        "code": "F66",
+        "name": "Psychological and behavioural disorders associated with sexual development and orientation"
+    },
+    {
+        "code": "F68",
+        "name": "Other disorders of adult personality and behaviour"
+    },
+    {
+        "code": "F69",
+        "name": "Unspecified disorder of adult personality and behaviour"
+    },
+    {
+        "code": "F70-F79",
+        "name": "Mental retardation"
+    },
+    {
+        "code": "F70",
+        "name": "Mild mental retardation"
+    },
+    {
+        "code": "F71",
+        "name": "Moderate mental retardation"
+    },
+    {
+        "code": "F72",
+        "name": "Severe mental retardation"
+    },
+    {
+        "code": "F73",
+        "name": "Profound mental retardation"
+    },
+    {
+        "code": "F78",
+        "name": "Other mental retardation"
+    },
+    {
+        "code": "F79",
+        "name": "Unspecified mental retardation"
+    },
+    {
+        "code": "F80-F89",
+        "name": "Disorders of psychological development"
+    },
+    {
+        "code": "F80",
+        "name": "Specific developmental disorders of speech and language"
+    },
+    {
+        "code": "F81",
+        "name": "Specific developmental disorders of scholastic skills"
+    },
+    {
+        "code": "F82",
+        "name": "Specific developmental disorder of motor function"
+    },
+    {
+        "code": "F83",
+        "name": "Mixed specific developmental disorders"
+    },
+    {
+        "code": "F84",
+        "name": "Pervasive developmental disorders"
+    },
+    {
+        "code": "F88",
+        "name": "Other disorders of psychological development"
+    },
+    {
+        "code": "F89",
+        "name": "Unspecified disorder of psychological development"
+    },
+    {
+        "code": "F90-F98",
+        "name": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence"
+    },
+    {
+        "code": "F90",
+        "name": "Hyperkinetic disorders"
+    },
+    {
+        "code": "F91",
+        "name": "Conduct disorders"
+    },
+    {
+        "code": "F92",
+        "name": "Mixed disorders of conduct and emotions"
+    },
+    {
+        "code": "F93",
+        "name": "Emotional disorders with onset specific to childhood"
+    },
+    {
+        "code": "F94",
+        "name": "Disorders of social functioning with onset specific to childhood and adolescence"
+    },
+    {
+        "code": "F95",
+        "name": "Tic disorders"
+    },
+    {
+        "code": "F98",
+        "name": "Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence"
+    },
+    {
+        "code": "F99-F99",
+        "name": "Unspecified mental disorder"
+    },
+    {
+        "code": "F99",
+        "name": "Mental disorder, not otherwise specified"
+    },
+    {
+        "code": "VI",
+        "name": "Diseases of the nervous system"
+    },
+    {
+        "code": "G00-G09",
+        "name": "Inflammatory diseases of the central nervous system"
+    },
+    {
+        "code": "G00",
+        "name": "Bacterial meningitis, not elsewhere classified"
+    },
+    {
+        "code": "G01",
+        "name": "Meningitis in bacterial diseases classified elsewhere"
+    },
+    {
+        "code": "G02",
+        "name": "Meningitis in other infectious and parasitic diseases classified elsewhere"
+    },
+    {
+        "code": "G03",
+        "name": "Meningitis due to other and unspecified causes"
+    },
+    {
+        "code": "G04",
+        "name": "Encephalitis, myelitis and encephalomyelitis"
+    },
+    {
+        "code": "G05",
+        "name": "Encephalitis, myelitis and encephalomyelitis in diseases classified elsewhere"
+    },
+    {
+        "code": "G06",
+        "name": "Intracranial and intraspinal abscess and granuloma"
+    },
+    {
+        "code": "G07",
+        "name": "Intracranial and intraspinal abscess and granuloma in diseases classified elsewhere"
+    },
+    {
+        "code": "G08",
+        "name": "Intracranial and intraspinal phlebitis and thrombophlebitis"
+    },
+    {
+        "code": "G09",
+        "name": "Sequelae of inflammatory diseases of central nervous system"
+    },
+    {
+        "code": "G10-G14",
+        "name": "Systemic atrophies primarily affecting the central nervous system"
+    },
+    {
+        "code": "G10",
+        "name": "Huntington disease"
+    },
+    {
+        "code": "G11",
+        "name": "Hereditary ataxia"
+    },
+    {
+        "code": "G12",
+        "name": "Spinal muscular atrophy and related syndromes"
+    },
+    {
+        "code": "G13",
+        "name": "Systemic atrophies primarily affecting central nervous system in diseases classified elsewhere"
+    },
+    {
+        "code": "G14",
+        "name": "Postpolio syndrome"
+    },
+    {
+        "code": "G20-G26",
+        "name": "Extrapyramidal and movement disorders"
+    },
+    {
+        "code": "G20",
+        "name": "Parkinson disease"
+    },
+    {
+        "code": "G21",
+        "name": "Secondary parkinsonism"
+    },
+    {
+        "code": "G22",
+        "name": "Parkinsonism in diseases classified elsewhere"
+    },
+    {
+        "code": "G23",
+        "name": "Other degenerative diseases of basal ganglia"
+    },
+    {
+        "code": "G24",
+        "name": "Dystonia"
+    },
+    {
+        "code": "G25",
+        "name": "Other extrapyramidal and movement disorders"
+    },
+    {
+        "code": "G26",
+        "name": "Extrapyramidal and movement disorders in diseases classified elsewhere"
+    },
+    {
+        "code": "G30-G32",
+        "name": "Other degenerative diseases of the nervous system"
+    },
+    {
+        "code": "G30",
+        "name": "Alzheimer disease"
+    },
+    {
+        "code": "G31",
+        "name": "Other degenerative diseases of nervous system, not elsewhere classified"
+    },
+    {
+        "code": "G32",
+        "name": "Other degenerative disorders of nervous system in diseases classified elsewhere"
+    },
+    {
+        "code": "G35-G37",
+        "name": "Demyelinating diseases of the central nervous system"
+    },
+    {
+        "code": "G35",
+        "name": "Multiple sclerosis"
+    },
+    {
+        "code": "G36",
+        "name": "Other acute disseminated demyelination"
+    },
+    {
+        "code": "G37",
+        "name": "Other demyelinating diseases of central nervous system"
+    },
+    {
+        "code": "G40-G47",
+        "name": "Episodic and paroxysmal disorders"
+    },
+    {
+        "code": "G40",
+        "name": "Epilepsy"
+    },
+    {
+        "code": "G41",
+        "name": "Status epilepticus"
+    },
+    {
+        "code": "G43",
+        "name": "Migraine"
+    },
+    {
+        "code": "G44",
+        "name": "Other headache syndromes"
+    },
+    {
+        "code": "G45",
+        "name": "Transient cerebral ischaemic attacks and related syndromes"
+    },
+    {
+        "code": "G46",
+        "name": "Vascular syndromes of brain in cerebrovascular diseases"
+    },
+    {
+        "code": "G47",
+        "name": "Sleep disorders"
+    },
+    {
+        "code": "G50-G59",
+        "name": "Nerve, nerve root and plexus disorders"
+    },
+    {
+        "code": "G50",
+        "name": "Disorders of trigeminal nerve"
+    },
+    {
+        "code": "G51",
+        "name": "Facial nerve disorders"
+    },
+    {
+        "code": "G52",
+        "name": "Disorders of other cranial nerves"
+    },
+    {
+        "code": "G53",
+        "name": "Cranial nerve disorders in diseases classified elsewhere"
+    },
+    {
+        "code": "G54",
+        "name": "Nerve root and plexus disorders"
+    },
+    {
+        "code": "G55",
+        "name": "Nerve root and plexus compressions in diseases classified elsewhere"
+    },
+    {
+        "code": "G56",
+        "name": "Mononeuropathies of upper limb"
+    },
+    {
+        "code": "G57",
+        "name": "Mononeuropathies of lower limb"
+    },
+    {
+        "code": "G58",
+        "name": "Other mononeuropathies"
+    },
+    {
+        "code": "G59",
+        "name": "Mononeuropathy in diseases classified elsewhere"
+    },
+    {
+        "code": "G60-G64",
+        "name": "Polyneuropathies and other disorders of the peripheral nervous system"
+    },
+    {
+        "code": "G60",
+        "name": "Hereditary and idiopathic neuropathy"
+    },
+    {
+        "code": "G61",
+        "name": "Inflammatory polyneuropathy"
+    },
+    {
+        "code": "G62",
+        "name": "Other polyneuropathies"
+    },
+    {
+        "code": "G63",
+        "name": "Polyneuropathy in diseases classified elsewhere"
+    },
+    {
+        "code": "G64",
+        "name": "Other disorders of peripheral nervous system"
+    },
+    {
+        "code": "G70-G73",
+        "name": "Diseases of myoneural junction and muscle"
+    },
+    {
+        "code": "G70",
+        "name": "Myasthenia gravis and other myoneural disorders"
+    },
+    {
+        "code": "G71",
+        "name": "Primary disorders of muscles"
+    },
+    {
+        "code": "G72",
+        "name": "Other myopathies"
+    },
+    {
+        "code": "G73",
+        "name": "Disorders of myoneural junction and muscle in diseases classified elsewhere"
+    },
+    {
+        "code": "G80-G83",
+        "name": "Cerebral palsy and other paralytic syndromes"
+    },
+    {
+        "code": "G80",
+        "name": "Cerebral palsy"
+    },
+    {
+        "code": "G81",
+        "name": "Hemiplegia"
+    },
+    {
+        "code": "G82",
+        "name": "Paraplegia and tetraplegia"
+    },
+    {
+        "code": "G83",
+        "name": "Other paralytic syndromes"
+    },
+    {
+        "code": "G90-G99",
+        "name": "Other disorders of the nervous system"
+    },
+    {
+        "code": "G90",
+        "name": "Disorders of autonomic nervous system"
+    },
+    {
+        "code": "G91",
+        "name": "Hydrocephalus"
+    },
+    {
+        "code": "G92",
+        "name": "Toxic encephalopathy"
+    },
+    {
+        "code": "G93",
+        "name": "Other disorders of brain"
+    },
+    {
+        "code": "G94",
+        "name": "Other disorders of brain in diseases classified elsewhere"
+    },
+    {
+        "code": "G95",
+        "name": "Other diseases of spinal cord"
+    },
+    {
+        "code": "G96",
+        "name": "Other disorders of central nervous system"
+    },
+    {
+        "code": "G97",
+        "name": "Postprocedural disorders of nervous system, not elsewhere classified"
+    },
+    {
+        "code": "G98",
+        "name": "Other disorders of nervous system, not elsewhere classified"
+    },
+    {
+        "code": "G99",
+        "name": "Other disorders of nervous system in diseases classified elsewhere"
+    },
+    {
+        "code": "VII",
+        "name": "Diseases of the eye and adnexa"
+    },
+    {
+        "code": "H00-H06",
+        "name": "Disorders of eyelid, lacrimal system and orbit"
+    },
+    {
+        "code": "H00",
+        "name": "Hordeolum and chalazion"
+    },
+    {
+        "code": "H01",
+        "name": "Other inflammation of eyelid"
+    },
+    {
+        "code": "H02",
+        "name": "Other disorders of eyelid"
+    },
+    {
+        "code": "H03",
+        "name": "Disorders of eyelid in diseases classified elsewhere"
+    },
+    {
+        "code": "H04",
+        "name": "Disorders of lacrimal system"
+    },
+    {
+        "code": "H05",
+        "name": "Disorders of orbit"
+    },
+    {
+        "code": "H06",
+        "name": "Disorders of lacrimal system and orbit in diseases classified elsewhere"
+    },
+    {
+        "code": "H10-H13",
+        "name": "Disorders of conjunctiva"
+    },
+    {
+        "code": "H10",
+        "name": "Conjunctivitis"
+    },
+    {
+        "code": "H11",
+        "name": "Other disorders of conjunctiva"
+    },
+    {
+        "code": "H13",
+        "name": "Disorders of conjunctiva in diseases classified elsewhere"
+    },
+    {
+        "code": "H15-H22",
+        "name": "Disorders of sclera, cornea, iris and ciliary body"
+    },
+    {
+        "code": "H15",
+        "name": "Disorders of sclera"
+    },
+    {
+        "code": "H16",
+        "name": "Keratitis"
+    },
+    {
+        "code": "H17",
+        "name": "Corneal scars and opacities"
+    },
+    {
+        "code": "H18",
+        "name": "Other disorders of cornea"
+    },
+    {
+        "code": "H19",
+        "name": "Disorders of sclera and cornea in diseases classified elsewhere"
+    },
+    {
+        "code": "H20",
+        "name": "Iridocyclitis"
+    },
+    {
+        "code": "H21",
+        "name": "Other disorders of iris and ciliary body"
+    },
+    {
+        "code": "H22",
+        "name": "Disorders of iris and ciliary body in diseases classified elsewhere"
+    },
+    {
+        "code": "H25-H28",
+        "name": "Disorders of lens"
+    },
+    {
+        "code": "H25",
+        "name": "Senile cataract"
+    },
+    {
+        "code": "H26",
+        "name": "Other cataract"
+    },
+    {
+        "code": "H27",
+        "name": "Other disorders of lens"
+    },
+    {
+        "code": "H28",
+        "name": "Cataract and other disorders of lens in diseases classified elsewhere"
+    },
+    {
+        "code": "H30-H36",
+        "name": "Disorders of choroid and retina"
+    },
+    {
+        "code": "H30",
+        "name": "Chorioretinal inflammation"
+    },
+    {
+        "code": "H31",
+        "name": "Other disorders of choroid"
+    },
+    {
+        "code": "H32",
+        "name": "Chorioretinal disorders in diseases classified elsewhere"
+    },
+    {
+        "code": "H33",
+        "name": "Retinal detachments and breaks"
+    },
+    {
+        "code": "H34",
+        "name": "Retinal vascular occlusions"
+    },
+    {
+        "code": "H35",
+        "name": "Other retinal disorders"
+    },
+    {
+        "code": "H36",
+        "name": "Retinal disorders in diseases classified elsewhere"
+    },
+    {
+        "code": "H40-H42",
+        "name": "Glaucoma"
+    },
+    {
+        "code": "H40",
+        "name": "Glaucoma"
+    },
+    {
+        "code": "H42",
+        "name": "Glaucoma in diseases classified elsewhere"
+    },
+    {
+        "code": "H43-H45",
+        "name": "Disorders of vitreous body and globe"
+    },
+    {
+        "code": "H43",
+        "name": "Disorders of vitreous body"
+    },
+    {
+        "code": "H44",
+        "name": "Disorders of globe"
+    },
+    {
+        "code": "H45",
+        "name": "Disorders of vitreous body and globe in diseases classified elsewhere"
+    },
+    {
+        "code": "H46-H48",
+        "name": "Disorders of optic nerve and visual pathways"
+    },
+    {
+        "code": "H46",
+        "name": "Optic neuritis"
+    },
+    {
+        "code": "H47",
+        "name": "Other disorders of optic [2nd] nerve and visual pathways"
+    },
+    {
+        "code": "H48",
+        "name": "Disorders of optic [2nd] nerve and visual pathways in diseases classified elsewhere"
+    },
+    {
+        "code": "H49-H52",
+        "name": "Disorders of ocular muscles, binocular movement, accommodation and refraction"
+    },
+    {
+        "code": "H49",
+        "name": "Paralytic strabismus"
+    },
+    {
+        "code": "H50",
+        "name": "Other strabismus"
+    },
+    {
+        "code": "H51",
+        "name": "Other disorders of binocular movement"
+    },
+    {
+        "code": "H52",
+        "name": "Disorders of refraction and accommodation"
+    },
+    {
+        "code": "H53-H54",
+        "name": "Visual disturbances and blindness"
+    },
+    {
+        "code": "H53",
+        "name": "Visual disturbances"
+    },
+    {
+        "code": "H54",
+        "name": "Visual impairment including blindness (binocular or monocular)"
+    },
+    {
+        "code": "H55-H59",
+        "name": "Other disorders of eye and adnexa"
+    },
+    {
+        "code": "H55",
+        "name": "Nystagmus and other irregular eye movements"
+    },
+    {
+        "code": "H57",
+        "name": "Other disorders of eye and adnexa"
+    },
+    {
+        "code": "H58",
+        "name": "Other disorders of eye and adnexa in diseases classified elsewhere"
+    },
+    {
+        "code": "H59",
+        "name": "Postprocedural disorders of eye and adnexa, not elsewhere classified"
+    },
+    {
+        "code": "VIII",
+        "name": "Diseases of the ear and mastoid process"
+    },
+    {
+        "code": "H60-H62",
+        "name": "Diseases of external ear"
+    },
+    {
+        "code": "H60",
+        "name": "Otitis externa"
+    },
+    {
+        "code": "H61",
+        "name": "Other disorders of external ear"
+    },
+    {
+        "code": "H62",
+        "name": "Disorders of external ear in diseases classified elsewhere"
+    },
+    {
+        "code": "H65-H75",
+        "name": "Diseases of middle ear and mastoid"
+    },
+    {
+        "code": "H65",
+        "name": "Nonsuppurative otitis media"
+    },
+    {
+        "code": "H66",
+        "name": "Suppurative and unspecified otitis media"
+    },
+    {
+        "code": "H67",
+        "name": "Otitis media in diseases classified elsewhere"
+    },
+    {
+        "code": "H68",
+        "name": "Eustachian salpingitis and obstruction"
+    },
+    {
+        "code": "H69",
+        "name": "Other disorders of Eustachian tube"
+    },
+    {
+        "code": "H70",
+        "name": "Mastoiditis and related conditions"
+    },
+    {
+        "code": "H71",
+        "name": "Cholesteatoma of middle ear"
+    },
+    {
+        "code": "H72",
+        "name": "Perforation of tympanic membrane"
+    },
+    {
+        "code": "H73",
+        "name": "Other disorders of tympanic membrane"
+    },
+    {
+        "code": "H74",
+        "name": "Other disorders of middle ear and mastoid"
+    },
+    {
+        "code": "H75",
+        "name": "Other disorders of middle ear and mastoid in diseases classified elsewhere"
+    },
+    {
+        "code": "H80-H83",
+        "name": "Diseases of inner ear"
+    },
+    {
+        "code": "H80",
+        "name": "Otosclerosis"
+    },
+    {
+        "code": "H81",
+        "name": "Disorders of vestibular function"
+    },
+    {
+        "code": "H82",
+        "name": "Vertiginous syndromes in diseases classified elsewhere"
+    },
+    {
+        "code": "H83",
+        "name": "Other diseases of inner ear"
+    },
+    {
+        "code": "H90-H95",
+        "name": "Other disorders of ear"
+    },
+    {
+        "code": "H90",
+        "name": "Conductive and sensorineural hearing loss"
+    },
+    {
+        "code": "H91",
+        "name": "Other hearing loss"
+    },
+    {
+        "code": "H92",
+        "name": "Otalgia and effusion of ear"
+    },
+    {
+        "code": "H93",
+        "name": "Other disorders of ear, not elsewhere classified"
+    },
+    {
+        "code": "H94",
+        "name": "Other disorders of ear in diseases classified elsewhere"
+    },
+    {
+        "code": "H95",
+        "name": "Postprocedural disorders of ear and mastoid process, not elsewhere classified"
+    },
+    {
+        "code": "IX",
+        "name": "Diseases of the circulatory system"
+    },
+    {
+        "code": "I00-I02",
+        "name": "Acute rheumatic fever"
+    },
+    {
+        "code": "I00",
+        "name": "Rheumatic fever without mention of heart involvement"
+    },
+    {
+        "code": "I01",
+        "name": "Rheumatic fever with heart involvement"
+    },
+    {
+        "code": "I02",
+        "name": "Rheumatic chorea"
+    },
+    {
+        "code": "I05-I09",
+        "name": "Chronic rheumatic heart diseases"
+    },
+    {
+        "code": "I05",
+        "name": "Rheumatic mitral valve diseases"
+    },
+    {
+        "code": "I06",
+        "name": "Rheumatic aortic valve diseases"
+    },
+    {
+        "code": "I07",
+        "name": "Rheumatic tricuspid valve diseases"
+    },
+    {
+        "code": "I08",
+        "name": "Multiple valve diseases"
+    },
+    {
+        "code": "I09",
+        "name": "Other rheumatic heart diseases"
+    },
+    {
+        "code": "I10-I15",
+        "name": "Hypertensive diseases"
+    },
+    {
+        "code": "I10",
+        "name": "Essential (primary) hypertension"
+    },
+    {
+        "code": "I11",
+        "name": "Hypertensive heart disease"
+    },
+    {
+        "code": "I12",
+        "name": "Hypertensive renal disease"
+    },
+    {
+        "code": "I13",
+        "name": "Hypertensive heart and renal disease"
+    },
+    {
+        "code": "I15",
+        "name": "Secondary hypertension"
+    },
+    {
+        "code": "I20-I25",
+        "name": "Ischaemic heart diseases"
+    },
+    {
+        "code": "I20",
+        "name": "Angina pectoris"
+    },
+    {
+        "code": "I21",
+        "name": "Acute myocardial infarction"
+    },
+    {
+        "code": "I22",
+        "name": "Subsequent myocardial infarction"
+    },
+    {
+        "code": "I23",
+        "name": "Certain current complications following acute myocardial infarction"
+    },
+    {
+        "code": "I24",
+        "name": "Other acute ischaemic heart diseases"
+    },
+    {
+        "code": "I25",
+        "name": "Chronic ischaemic heart disease"
+    },
+    {
+        "code": "I26-I28",
+        "name": "Pulmonary heart disease and diseases of pulmonary circulation"
+    },
+    {
+        "code": "I26",
+        "name": "Pulmonary embolism"
+    },
+    {
+        "code": "I27",
+        "name": "Other pulmonary heart diseases"
+    },
+    {
+        "code": "I28",
+        "name": "Other diseases of pulmonary vessels"
+    },
+    {
+        "code": "I30-I52",
+        "name": "Other forms of heart disease"
+    },
+    {
+        "code": "I30",
+        "name": "Acute pericarditis"
+    },
+    {
+        "code": "I31",
+        "name": "Other diseases of pericardium"
+    },
+    {
+        "code": "I32",
+        "name": "Pericarditis in diseases classified elsewhere"
+    },
+    {
+        "code": "I33",
+        "name": "Acute and subacute endocarditis"
+    },
+    {
+        "code": "I34",
+        "name": "Nonrheumatic mitral valve disorders"
+    },
+    {
+        "code": "I35",
+        "name": "Nonrheumatic aortic valve disorders"
+    },
+    {
+        "code": "I36",
+        "name": "Nonrheumatic tricuspid valve disorders"
+    },
+    {
+        "code": "I37",
+        "name": "Pulmonary valve disorders"
+    },
+    {
+        "code": "I38",
+        "name": "Endocarditis, valve unspecified"
+    },
+    {
+        "code": "I39",
+        "name": "Endocarditis and heart valve disorders in diseases classified elsewhere"
+    },
+    {
+        "code": "I40",
+        "name": "Acute myocarditis"
+    },
+    {
+        "code": "I41",
+        "name": "Myocarditis in diseases classified elsewhere"
+    },
+    {
+        "code": "I42",
+        "name": "Cardiomyopathy"
+    },
+    {
+        "code": "I43",
+        "name": "Cardiomyopathy in diseases classified elsewhere"
+    },
+    {
+        "code": "I44",
+        "name": "Atrioventricular and left bundle-branch block"
+    },
+    {
+        "code": "I45",
+        "name": "Other conduction disorders"
+    },
+    {
+        "code": "I46",
+        "name": "Cardiac arrest"
+    },
+    {
+        "code": "I47",
+        "name": "Paroxysmal tachycardia"
+    },
+    {
+        "code": "I48",
+        "name": "Atrial fibrillation and flutter"
+    },
+    {
+        "code": "I49",
+        "name": "Other cardiac arrhythmias"
+    },
+    {
+        "code": "I50",
+        "name": "Heart failure"
+    },
+    {
+        "code": "I51",
+        "name": "Complications and ill-defined descriptions of heart disease"
+    },
+    {
+        "code": "I52",
+        "name": "Other heart disorders in diseases classified elsewhere"
+    },
+    {
+        "code": "I60-I69",
+        "name": "Cerebrovascular diseases"
+    },
+    {
+        "code": "I60",
+        "name": "Subarachnoid haemorrhage"
+    },
+    {
+        "code": "I61",
+        "name": "Intracerebral haemorrhage"
+    },
+    {
+        "code": "I62",
+        "name": "Other nontraumatic intracranial haemorrhage"
+    },
+    {
+        "code": "I63",
+        "name": "Cerebral infarction"
+    },
+    {
+        "code": "I64",
+        "name": "Stroke, not specified as haemorrhage or infarction"
+    },
+    {
+        "code": "I65",
+        "name": "Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction"
+    },
+    {
+        "code": "I66",
+        "name": "Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction"
+    },
+    {
+        "code": "I67",
+        "name": "Other cerebrovascular diseases"
+    },
+    {
+        "code": "I68",
+        "name": "Cerebrovascular disorders in diseases classified elsewhere"
+    },
+    {
+        "code": "I69",
+        "name": "Sequelae of cerebrovascular disease"
+    },
+    {
+        "code": "I70-I79",
+        "name": "Diseases of arteries, arterioles and capillaries"
+    },
+    {
+        "code": "I70",
+        "name": "Atherosclerosis"
+    },
+    {
+        "code": "I71",
+        "name": "Aortic aneurysm and dissection"
+    },
+    {
+        "code": "I72",
+        "name": "Other aneurysm and dissection"
+    },
+    {
+        "code": "I73",
+        "name": "Other peripheral vascular diseases"
+    },
+    {
+        "code": "I74",
+        "name": "Arterial embolism and thrombosis"
+    },
+    {
+        "code": "I77",
+        "name": "Other disorders of arteries and arterioles"
+    },
+    {
+        "code": "I78",
+        "name": "Diseases of capillaries"
+    },
+    {
+        "code": "I79",
+        "name": "Disorders of arteries, arterioles and capillaries in diseases classified elsewhere"
+    },
+    {
+        "code": "I80-I89",
+        "name": "Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+    },
+    {
+        "code": "I80",
+        "name": "Phlebitis and thrombophlebitis"
+    },
+    {
+        "code": "I81",
+        "name": "Portal vein thrombosis"
+    },
+    {
+        "code": "I82",
+        "name": "Other venous embolism and thrombosis"
+    },
+    {
+        "code": "I83",
+        "name": "Varicose veins of lower extremities"
+    },
+    {
+        "code": "I85",
+        "name": "Oesophageal varices"
+    },
+    {
+        "code": "I86",
+        "name": "Varicose veins of other sites"
+    },
+    {
+        "code": "I87",
+        "name": "Other disorders of veins"
+    },
+    {
+        "code": "I88",
+        "name": "Nonspecific lymphadenitis"
+    },
+    {
+        "code": "I89",
+        "name": "Other noninfective disorders of lymphatic vessels and lymph nodes"
+    },
+    {
+        "code": "I95-I99",
+        "name": "Other and unspecified disorders of the circulatory system"
+    },
+    {
+        "code": "I95",
+        "name": "Hypotension"
+    },
+    {
+        "code": "I97",
+        "name": "Postprocedural disorders of circulatory system, not elsewhere classified"
+    },
+    {
+        "code": "I98",
+        "name": "Other disorders of circulatory system in diseases classified elsewhere"
+    },
+    {
+        "code": "I99",
+        "name": "Other and unspecified disorders of circulatory system"
+    },
+    {
+        "code": "X",
+        "name": "Diseases of the respiratory system"
+    },
+    {
+        "code": "J00-J06",
+        "name": "Acute upper respiratory infections"
+    },
+    {
+        "code": "J00",
+        "name": "Acute nasopharyngitis [common cold]"
+    },
+    {
+        "code": "J01",
+        "name": "Acute sinusitis"
+    },
+    {
+        "code": "J02",
+        "name": "Acute pharyngitis"
+    },
+    {
+        "code": "J03",
+        "name": "Acute tonsillitis"
+    },
+    {
+        "code": "J04",
+        "name": "Acute laryngitis and tracheitis"
+    },
+    {
+        "code": "J05",
+        "name": "Acute obstructive laryngitis [croup] and epiglottitis"
+    },
+    {
+        "code": "J06",
+        "name": "Acute upper respiratory infections of multiple and unspecified sites"
+    },
+    {
+        "code": "J09-J18",
+        "name": "Influenza and pneumonia"
+    },
+    {
+        "code": "J09",
+        "name": "Influenza due to identified zoonotic or pandemic influenza virus"
+    },
+    {
+        "code": "J10",
+        "name": "influenza due to identified seasonal influenza virus"
+    },
+    {
+        "code": "J11",
+        "name": "Influenza, virus not identified"
+    },
+    {
+        "code": "J12",
+        "name": "Viral pneumonia, not elsewhere classified"
+    },
+    {
+        "code": "J13",
+        "name": "Pneumonia due to Streptococcus pneumoniae"
+    },
+    {
+        "code": "J14",
+        "name": "Pneumonia due to Haemophilus influenzae"
+    },
+    {
+        "code": "J15",
+        "name": "Bacterial pneumonia, not elsewhere classified"
+    },
+    {
+        "code": "J16",
+        "name": "Pneumonia due to other infectious organisms, not elsewhere classified"
+    },
+    {
+        "code": "J17",
+        "name": "Pneumonia in diseases classified elsewhere"
+    },
+    {
+        "code": "J18",
+        "name": "Pneumonia, organism unspecified"
+    },
+    {
+        "code": "J20-J22",
+        "name": "Other acute lower respiratory infections"
+    },
+    {
+        "code": "J20",
+        "name": "Acute bronchitis"
+    },
+    {
+        "code": "J21",
+        "name": "Acute bronchiolitis"
+    },
+    {
+        "code": "J22",
+        "name": "Unspecified acute lower respiratory infection"
+    },
+    {
+        "code": "J30-J39",
+        "name": "Other diseases of upper respiratory tract"
+    },
+    {
+        "code": "J30",
+        "name": "Vasomotor and allergic rhinitis"
+    },
+    {
+        "code": "J31",
+        "name": "Chronic rhinitis, nasopharyngitis and pharyngitis"
+    },
+    {
+        "code": "J32",
+        "name": "Chronic sinusitis"
+    },
+    {
+        "code": "J33",
+        "name": "Nasal polyp"
+    },
+    {
+        "code": "J34",
+        "name": "Other disorders of nose and nasal sinuses"
+    },
+    {
+        "code": "J35",
+        "name": "Chronic diseases of tonsils and adenoids"
+    },
+    {
+        "code": "J36",
+        "name": "Peritonsillar abscess"
+    },
+    {
+        "code": "J37",
+        "name": "Chronic laryngitis and laryngotracheitis"
+    },
+    {
+        "code": "J38",
+        "name": "Diseases of vocal cords and larynx, not elsewhere classified"
+    },
+    {
+        "code": "J39",
+        "name": "Other diseases of upper respiratory tract"
+    },
+    {
+        "code": "J40-J47",
+        "name": "Chronic lower respiratory diseases"
+    },
+    {
+        "code": "J40",
+        "name": "Bronchitis, not specified as acute or chronic"
+    },
+    {
+        "code": "J41",
+        "name": "Simple and mucopurulent chronic bronchitis"
+    },
+    {
+        "code": "J42",
+        "name": "Unspecified chronic bronchitis"
+    },
+    {
+        "code": "J43",
+        "name": "Emphysema"
+    },
+    {
+        "code": "J44",
+        "name": "Other chronic obstructive pulmonary disease"
+    },
+    {
+        "code": "J45",
+        "name": "Asthma"
+    },
+    {
+        "code": "J46",
+        "name": "Status asthmaticus"
+    },
+    {
+        "code": "J47",
+        "name": "Bronchiectasis"
+    },
+    {
+        "code": "J60-J70",
+        "name": "Lung diseases due to external agents"
+    },
+    {
+        "code": "J60",
+        "name": "Coalworker pneumoconiosis"
+    },
+    {
+        "code": "J61",
+        "name": "Pneumoconiosis due to asbestos and other mineral fibres"
+    },
+    {
+        "code": "J62",
+        "name": "Pneumoconiosis due to dust containing silica"
+    },
+    {
+        "code": "J63",
+        "name": "Pneumoconiosis due to other inorganic dusts"
+    },
+    {
+        "code": "J64",
+        "name": "Unspecified pneumoconiosis"
+    },
+    {
+        "code": "J65",
+        "name": "Pneumoconiosis associated with tuberculosis"
+    },
+    {
+        "code": "J66",
+        "name": "Airway disease due to specific organic dust"
+    },
+    {
+        "code": "J67",
+        "name": "Hypersensitivity pneumonitis due to organic dust"
+    },
+    {
+        "code": "J68",
+        "name": "Respiratory conditions due to inhalation of chemicals, gases, fumes and vapours"
+    },
+    {
+        "code": "J69",
+        "name": "Pneumonitis due to solids and liquids"
+    },
+    {
+        "code": "J70",
+        "name": "Respiratory conditions due to other external agents"
+    },
+    {
+        "code": "J80-J84",
+        "name": "Other respiratory diseases principally affecting the interstitium"
+    },
+    {
+        "code": "J80",
+        "name": "Adult respiratory distress syndrome"
+    },
+    {
+        "code": "J81",
+        "name": "Pulmonary oedema"
+    },
+    {
+        "code": "J82",
+        "name": "Pulmonary eosinophilia, not elsewhere classified"
+    },
+    {
+        "code": "J84",
+        "name": "Other interstitial pulmonary diseases"
+    },
+    {
+        "code": "J85-J86",
+        "name": "Suppurative and necrotic conditions of lower respiratory tract"
+    },
+    {
+        "code": "J85",
+        "name": "Abscess of lung and mediastinum"
+    },
+    {
+        "code": "J86",
+        "name": "Pyothorax"
+    },
+    {
+        "code": "J90-J94",
+        "name": "Other diseases of pleura"
+    },
+    {
+        "code": "J90",
+        "name": "Pleural effusion, not elsewhere classified"
+    },
+    {
+        "code": "J91",
+        "name": "Pleural effusion in conditions classified elsewhere"
+    },
+    {
+        "code": "J92",
+        "name": "Pleural plaque"
+    },
+    {
+        "code": "J93",
+        "name": "Pneumothorax"
+    },
+    {
+        "code": "J94",
+        "name": "Other pleural conditions"
+    },
+    {
+        "code": "J95-J99",
+        "name": "Other diseases of the respiratory system"
+    },
+    {
+        "code": "J95",
+        "name": "Postprocedural respiratory disorders, not elsewhere classified"
+    },
+    {
+        "code": "J96",
+        "name": "Respiratory failure, not elsewhere classified"
+    },
+    {
+        "code": "J98",
+        "name": "Other respiratory disorders"
+    },
+    {
+        "code": "J99",
+        "name": "Respiratory disorders in diseases classified elsewhere"
+    },
+    {
+        "code": "XI",
+        "name": "Diseases of the digestive system"
+    },
+    {
+        "code": "K00-K14",
+        "name": "Diseases of oral cavity, salivary glands and jaws"
+    },
+    {
+        "code": "K00",
+        "name": "Disorders of tooth development and eruption"
+    },
+    {
+        "code": "K01",
+        "name": "Embedded and impacted teeth"
+    },
+    {
+        "code": "K02",
+        "name": "Dental caries"
+    },
+    {
+        "code": "K03",
+        "name": "Other diseases of hard tissues of teeth"
+    },
+    {
+        "code": "K04",
+        "name": "Diseases of pulp and periapical tissues"
+    },
+    {
+        "code": "K05",
+        "name": "Gingivitis and periodontal diseases"
+    },
+    {
+        "code": "K06",
+        "name": "Other disorders of gingiva and edentulous alveolar ridge"
+    },
+    {
+        "code": "K07",
+        "name": "Dentofacial anomalies [including malocclusion]"
+    },
+    {
+        "code": "K08",
+        "name": "Other disorders of teeth and supporting structures"
+    },
+    {
+        "code": "K09",
+        "name": "Cysts of oral region, not elsewhere classified"
+    },
+    {
+        "code": "K10",
+        "name": "Other diseases of jaws"
+    },
+    {
+        "code": "K11",
+        "name": "Diseases of salivary glands"
+    },
+    {
+        "code": "K12",
+        "name": "Stomatitis and related lesions"
+    },
+    {
+        "code": "K13",
+        "name": "Other diseases of lip and oral mucosa"
+    },
+    {
+        "code": "K14",
+        "name": "Diseases of tongue"
+    },
+    {
+        "code": "K20-K31",
+        "name": "Diseases of oesophagus, stomach and duodenum"
+    },
+    {
+        "code": "K20",
+        "name": "Oesophagitis"
+    },
+    {
+        "code": "K21",
+        "name": "Gastro-oesophageal reflux disease"
+    },
+    {
+        "code": "K22",
+        "name": "Other diseases of oesophagus"
+    },
+    {
+        "code": "K23",
+        "name": "Disorders of oesophagus in diseases classified elsewhere"
+    },
+    {
+        "code": "K25",
+        "name": "Gastric ulcer"
+    },
+    {
+        "code": "K26",
+        "name": "Duodenal ulcer"
+    },
+    {
+        "code": "K27",
+        "name": "Peptic ulcer, site unspecified"
+    },
+    {
+        "code": "K28",
+        "name": "Gastrojejunal ulcer"
+    },
+    {
+        "code": "K29",
+        "name": "Gastritis and duodenitis"
+    },
+    {
+        "code": "K30",
+        "name": "Functional dyspepsia"
+    },
+    {
+        "code": "K31",
+        "name": "Other diseases of stomach and duodenum"
+    },
+    {
+        "code": "K35-K38",
+        "name": "Diseases of appendix"
+    },
+    {
+        "code": "K35",
+        "name": "Acute appendicitis"
+    },
+    {
+        "code": "K36",
+        "name": "Other appendicitis"
+    },
+    {
+        "code": "K37",
+        "name": "Unspecified appendicitis"
+    },
+    {
+        "code": "K38",
+        "name": "Other diseases of appendix"
+    },
+    {
+        "code": "K40-K46",
+        "name": "Hernia"
+    },
+    {
+        "code": "K40",
+        "name": "Inguinal hernia"
+    },
+    {
+        "code": "K41",
+        "name": "Femoral hernia"
+    },
+    {
+        "code": "K42",
+        "name": "Umbilical hernia"
+    },
+    {
+        "code": "K43",
+        "name": "Ventral hernia"
+    },
+    {
+        "code": "K44",
+        "name": "Diaphragmatic hernia"
+    },
+    {
+        "code": "K45",
+        "name": "Other abdominal hernia"
+    },
+    {
+        "code": "K46",
+        "name": "Unspecified abdominal hernia"
+    },
+    {
+        "code": "K50-K52",
+        "name": "Noninfective enteritis and colitis"
+    },
+    {
+        "code": "K50",
+        "name": "Crohn disease [regional enteritis]"
+    },
+    {
+        "code": "K51",
+        "name": "Ulcerative colitis"
+    },
+    {
+        "code": "K52",
+        "name": "Other noninfective gastroenteritis and colitis"
+    },
+    {
+        "code": "K55-K64",
+        "name": "Other diseases of intestines"
+    },
+    {
+        "code": "K55",
+        "name": "Vascular disorders of intestine"
+    },
+    {
+        "code": "K56",
+        "name": "Paralytic ileus and intestinal obstruction without hernia"
+    },
+    {
+        "code": "K57",
+        "name": "Diverticular disease of intestine"
+    },
+    {
+        "code": "K58",
+        "name": "Irritable bowel syndrome"
+    },
+    {
+        "code": "K59",
+        "name": "Other functional intestinal disorders"
+    },
+    {
+        "code": "K60",
+        "name": "Fissure and fistula of anal and rectal regions"
+    },
+    {
+        "code": "K61",
+        "name": "Abscess of anal and rectal regions"
+    },
+    {
+        "code": "K62",
+        "name": "Other diseases of anus and rectum"
+    },
+    {
+        "code": "K63",
+        "name": "Other diseases of intestine"
+    },
+    {
+        "code": "K64",
+        "name": "Haemorrhoids and perianal venous thrombosis"
+    },
+    {
+        "code": "K65-K67",
+        "name": "Diseases of peritoneum"
+    },
+    {
+        "code": "K65",
+        "name": "Peritonitis"
+    },
+    {
+        "code": "K66",
+        "name": "Other disorders of peritoneum"
+    },
+    {
+        "code": "K67",
+        "name": "Disorders of peritoneum in infectious diseases classified elsewhere"
+    },
+    {
+        "code": "K70-K77",
+        "name": "Diseases of liver"
+    },
+    {
+        "code": "K70",
+        "name": "Alcoholic liver disease"
+    },
+    {
+        "code": "K71",
+        "name": "Toxic liver disease"
+    },
+    {
+        "code": "K72",
+        "name": "Hepatic failure, not elsewhere classified"
+    },
+    {
+        "code": "K73",
+        "name": "Chronic hepatitis, not elsewhere classified"
+    },
+    {
+        "code": "K74",
+        "name": "Fibrosis and cirrhosis of liver"
+    },
+    {
+        "code": "K75",
+        "name": "Other inflammatory liver diseases"
+    },
+    {
+        "code": "K76",
+        "name": "Other diseases of liver"
+    },
+    {
+        "code": "K77",
+        "name": "Liver disorders in diseases classified elsewhere"
+    },
+    {
+        "code": "K80-K87",
+        "name": "Disorders of gallbladder, biliary tract and pancreas"
+    },
+    {
+        "code": "K80",
+        "name": "Cholelithiasis"
+    },
+    {
+        "code": "K81",
+        "name": "Cholecystitis"
+    },
+    {
+        "code": "K82",
+        "name": "Other diseases of gallbladder"
+    },
+    {
+        "code": "K83",
+        "name": "Other diseases of biliary tract"
+    },
+    {
+        "code": "K85",
+        "name": "Acute pancreatitis"
+    },
+    {
+        "code": "K86",
+        "name": "Other diseases of pancreas"
+    },
+    {
+        "code": "K87",
+        "name": "Disorders of gallbladder, biliary tract and pancreas in diseases classified elsewhere"
+    },
+    {
+        "code": "K90-K93",
+        "name": "Other diseases of the digestive system"
+    },
+    {
+        "code": "K90",
+        "name": "Intestinal malabsorption"
+    },
+    {
+        "code": "K91",
+        "name": "Postprocedural disorders of digestive system, not elsewhere classified"
+    },
+    {
+        "code": "K92",
+        "name": "Other diseases of digestive system"
+    },
+    {
+        "code": "K93",
+        "name": "Disorders of other digestive organs in diseases classified elsewhere"
+    },
+    {
+        "code": "XII",
+        "name": "Diseases of the skin and subcutaneous tissue"
+    },
+    {
+        "code": "L00-L08",
+        "name": "Infections of the skin and subcutaneous tissue"
+    },
+    {
+        "code": "L00",
+        "name": "Staphylococcal scalded skin syndrome"
+    },
+    {
+        "code": "L01",
+        "name": "Impetigo"
+    },
+    {
+        "code": "L02",
+        "name": "Cutaneous abscess, furuncle and carbuncle"
+    },
+    {
+        "code": "L03",
+        "name": "Cellulitis"
+    },
+    {
+        "code": "L04",
+        "name": "Acute lymphadenitis"
+    },
+    {
+        "code": "L05",
+        "name": "Pilonidal cyst"
+    },
+    {
+        "code": "L08",
+        "name": "Other local infections of skin and subcutaneous tissue"
+    },
+    {
+        "code": "L10-L14",
+        "name": "Bullous disorders"
+    },
+    {
+        "code": "L10",
+        "name": "Pemphigus"
+    },
+    {
+        "code": "L11",
+        "name": "Other acantholytic disorders"
+    },
+    {
+        "code": "L12",
+        "name": "Pemphigoid"
+    },
+    {
+        "code": "L13",
+        "name": "Other bullous disorders"
+    },
+    {
+        "code": "L14",
+        "name": "Bullous disorders in diseases classified elsewhere"
+    },
+    {
+        "code": "L20-L30",
+        "name": "Dermatitis and eczema"
+    },
+    {
+        "code": "L20",
+        "name": "Atopic dermatitis"
+    },
+    {
+        "code": "L21",
+        "name": "Seborrhoeic dermatitis"
+    },
+    {
+        "code": "L22",
+        "name": "Diaper [napkin] dermatitis"
+    },
+    {
+        "code": "L23",
+        "name": "Allergic contact dermatitis"
+    },
+    {
+        "code": "L24",
+        "name": "Irritant contact dermatitis"
+    },
+    {
+        "code": "L25",
+        "name": "Unspecified contact dermatitis"
+    },
+    {
+        "code": "L26",
+        "name": "Exfoliative dermatitis"
+    },
+    {
+        "code": "L27",
+        "name": "Dermatitis due to substances taken internally"
+    },
+    {
+        "code": "L28",
+        "name": "Lichen simplex chronicus and prurigo"
+    },
+    {
+        "code": "L29",
+        "name": "Pruritus"
+    },
+    {
+        "code": "L30",
+        "name": "Other dermatitis"
+    },
+    {
+        "code": "L40-L45",
+        "name": "Papulosquamous disorders"
+    },
+    {
+        "code": "L40",
+        "name": "Psoriasis"
+    },
+    {
+        "code": "L41",
+        "name": "Parapsoriasis"
+    },
+    {
+        "code": "L42",
+        "name": "Pityriasis rosea"
+    },
+    {
+        "code": "L43",
+        "name": "Lichen planus"
+    },
+    {
+        "code": "L44",
+        "name": "Other papulosquamous disorders"
+    },
+    {
+        "code": "L45",
+        "name": "Papulosquamous disorders in diseases classified elsewhere"
+    },
+    {
+        "code": "L50-L54",
+        "name": "Urticaria and erythema"
+    },
+    {
+        "code": "L50",
+        "name": "Urticaria"
+    },
+    {
+        "code": "L51",
+        "name": "Erythema multiforme"
+    },
+    {
+        "code": "L52",
+        "name": "Erythema nodosum"
+    },
+    {
+        "code": "L53",
+        "name": "Other erythematous conditions"
+    },
+    {
+        "code": "L54",
+        "name": "Erythema in diseases classified elsewhere"
+    },
+    {
+        "code": "L55-L59",
+        "name": "Radiation-related disorders of the skin and subcutaneous tissue"
+    },
+    {
+        "code": "L55",
+        "name": "Sunburn"
+    },
+    {
+        "code": "L56",
+        "name": "Other acute skin changes due to ultraviolet radiation"
+    },
+    {
+        "code": "L57",
+        "name": "Skin changes due to chronic exposure to nonionizing radiation"
+    },
+    {
+        "code": "L58",
+        "name": "Radiodermatitis"
+    },
+    {
+        "code": "L59",
+        "name": "Other disorders of skin and subcutaneous tissue related to radiation"
+    },
+    {
+        "code": "L60-L75",
+        "name": "Disorders of skin appendages"
+    },
+    {
+        "code": "L60",
+        "name": "Nail disorders"
+    },
+    {
+        "code": "L62",
+        "name": "Nail disorders in diseases classified elsewhere"
+    },
+    {
+        "code": "L63",
+        "name": "Alopecia areata"
+    },
+    {
+        "code": "L64",
+        "name": "Androgenic alopecia"
+    },
+    {
+        "code": "L65",
+        "name": "Other nonscarring hair loss"
+    },
+    {
+        "code": "L66",
+        "name": "Cicatricial alopecia [scarring hair loss]"
+    },
+    {
+        "code": "L67",
+        "name": "Hair colour and hair shaft abnormalities"
+    },
+    {
+        "code": "L68",
+        "name": "Hypertrichosis"
+    },
+    {
+        "code": "L70",
+        "name": "Acne"
+    },
+    {
+        "code": "L71",
+        "name": "Rosacea"
+    },
+    {
+        "code": "L72",
+        "name": "Follicular cysts of skin and subcutaneous tissue"
+    },
+    {
+        "code": "L73",
+        "name": "Other follicular disorders"
+    },
+    {
+        "code": "L74",
+        "name": "Eccrine sweat disorders"
+    },
+    {
+        "code": "L75",
+        "name": "Apocrine sweat disorders"
+    },
+    {
+        "code": "L80-L99",
+        "name": "Other disorders of the skin and subcutaneous tissue"
+    },
+    {
+        "code": "L80",
+        "name": "Vitiligo"
+    },
+    {
+        "code": "L81",
+        "name": "Other disorders of pigmentation"
+    },
+    {
+        "code": "L82",
+        "name": "Seborrhoeic keratosis"
+    },
+    {
+        "code": "L83",
+        "name": "Acanthosis nigricans"
+    },
+    {
+        "code": "L84",
+        "name": "Corns and callosities"
+    },
+    {
+        "code": "L85",
+        "name": "Other epidermal thickening"
+    },
+    {
+        "code": "L86",
+        "name": "Keratoderma in diseases classified elsewhere"
+    },
+    {
+        "code": "L87",
+        "name": "Transepidermal elimination disorders"
+    },
+    {
+        "code": "L88",
+        "name": "Pyoderma gangrenosum"
+    },
+    {
+        "code": "L89",
+        "name": "Decubitus ulcer and pressure area"
+    },
+    {
+        "code": "L90",
+        "name": "Atrophic disorders of skin"
+    },
+    {
+        "code": "L91",
+        "name": "Hypertrophic disorders of skin"
+    },
+    {
+        "code": "L92",
+        "name": "Granulomatous disorders of skin and subcutaneous tissue"
+    },
+    {
+        "code": "L93",
+        "name": "Lupus erythematosus"
+    },
+    {
+        "code": "L94",
+        "name": "Other localized connective tissue disorders"
+    },
+    {
+        "code": "L95",
+        "name": "Vasculitis limited to skin, not elsewhere classified"
+    },
+    {
+        "code": "L97",
+        "name": "Ulcer of lower limb, not elsewhere classified"
+    },
+    {
+        "code": "L98",
+        "name": "Other disorders of skin and subcutaneous tissue, not elsewhere classified"
+    },
+    {
+        "code": "L99",
+        "name": "Other disorders of skin and subcutaneous tissue in diseases classified elsewhere"
+    },
+    {
+        "code": "XIII",
+        "name": "Diseases of the musculoskeletal system and connective tissue"
+    },
+    {
+        "code": "M00-M25",
+        "name": "Arthropathies"
+    },
+    {
+        "code": "M00-M03",
+        "name": "Infectious arthropathies"
+    },
+    {
+        "code": "M05-M14",
+        "name": "Inflammatory polyarthropathies"
+    },
+    {
+        "code": "M15-M19",
+        "name": "Arthrosis"
+    },
+    {
+        "code": "M20-M25",
+        "name": "Other joint disorders"
+    },
+    {
+        "code": "M30-M36",
+        "name": "Systemic connective tissue disorders"
+    },
+    {
+        "code": "M30",
+        "name": "Polyarteritis nodosa and related conditions"
+    },
+    {
+        "code": "M31",
+        "name": "Other necrotizing vasculopathies"
+    },
+    {
+        "code": "M32",
+        "name": "Systemic lupus erythematosus"
+    },
+    {
+        "code": "M33",
+        "name": "Dermatopolymyositis"
+    },
+    {
+        "code": "M34",
+        "name": "Systemic sclerosis"
+    },
+    {
+        "code": "M35",
+        "name": "Other systemic involvement of connective tissue"
+    },
+    {
+        "code": "M36",
+        "name": "Systemic disorders of connective tissue in diseases classified elsewhere"
+    },
+    {
+        "code": "M40-M54",
+        "name": "Dorsopathies"
+    },
+    {
+        "code": "M40-M43",
+        "name": "Deforming dorsopathies"
+    },
+    {
+        "code": "M45-M49",
+        "name": "Spondylopathies"
+    },
+    {
+        "code": "M50-M54",
+        "name": "Other dorsopathies"
+    },
+    {
+        "code": "M60-M79",
+        "name": "Soft tissue disorders"
+    },
+    {
+        "code": "M60-M63",
+        "name": "Disorders of muscles"
+    },
+    {
+        "code": "M65-M68",
+        "name": "Disorders of synovium and tendon"
+    },
+    {
+        "code": "M70-M79",
+        "name": "Other soft tissue disorders"
+    },
+    {
+        "code": "M80-M94",
+        "name": "Osteopathies and chondropathies"
+    },
+    {
+        "code": "M80-M85",
+        "name": "Disorders of bone density and structure"
+    },
+    {
+        "code": "M86-M90",
+        "name": "Other osteopathies"
+    },
+    {
+        "code": "M91-M94",
+        "name": "Chondropathies"
+    },
+    {
+        "code": "M95-M99",
+        "name": "Other disorders of the musculoskeletal system and connective tissue"
+    },
+    {
+        "code": "M95",
+        "name": "Other acquired deformities of musculoskeletal system and connective tissue"
+    },
+    {
+        "code": "M96",
+        "name": "Postprocedural musculoskeletal disorders, not elsewhere classified"
+    },
+    {
+        "code": "M99",
+        "name": "Biomechanical lesions, not elsewhere classified"
+    },
+    {
+        "code": "XIV",
+        "name": "Diseases of the genitourinary system"
+    },
+    {
+        "code": "N00-N08",
+        "name": "Glomerular diseases"
+    },
+    {
+        "code": "N00",
+        "name": "Acute nephritic syndrome"
+    },
+    {
+        "code": "N01",
+        "name": "Rapidly progressive nephritic syndrome"
+    },
+    {
+        "code": "N02",
+        "name": "Recurrent and persistent haematuria"
+    },
+    {
+        "code": "N03",
+        "name": "Chronic nephritic syndrome"
+    },
+    {
+        "code": "N04",
+        "name": "Nephrotic syndrome"
+    },
+    {
+        "code": "N05",
+        "name": "Unspecified nephritic syndrome"
+    },
+    {
+        "code": "N06",
+        "name": "Isolated proteinuria with specified morphological lesion"
+    },
+    {
+        "code": "N07",
+        "name": "Hereditary nephropathy, not elsewhere classified"
+    },
+    {
+        "code": "N08",
+        "name": "Glomerular disorders in diseases classified elsewhere"
+    },
+    {
+        "code": "N10-N16",
+        "name": "Renal tubulo-interstitial diseases"
+    },
+    {
+        "code": "N10",
+        "name": "Acute tubulo-interstitial nephritis"
+    },
+    {
+        "code": "N11",
+        "name": "Chronic tubulo-interstitial nephritis"
+    },
+    {
+        "code": "N12",
+        "name": "Tubulo-interstitial nephritis, not specified as acute or chronic"
+    },
+    {
+        "code": "N13",
+        "name": "Obstructive and reflux uropathy"
+    },
+    {
+        "code": "N14",
+        "name": "Drug- and heavy-metal-induced tubulo-interstitial and tubular conditions"
+    },
+    {
+        "code": "N15",
+        "name": "Other renal tubulo-interstitial diseases"
+    },
+    {
+        "code": "N16",
+        "name": "Renal tubulo-interstitial disorders in diseases classified elsewhere"
+    },
+    {
+        "code": "N17-N19",
+        "name": "Renal failure"
+    },
+    {
+        "code": "N17",
+        "name": "Acute renal failure"
+    },
+    {
+        "code": "N18",
+        "name": "Chronic kidney disease"
+    },
+    {
+        "code": "N19",
+        "name": "Unspecified kidney failure"
+    },
+    {
+        "code": "N20-N23",
+        "name": "Urolithiasis"
+    },
+    {
+        "code": "N20",
+        "name": "Calculus of kidney and ureter"
+    },
+    {
+        "code": "N21",
+        "name": "Calculus of lower urinary tract"
+    },
+    {
+        "code": "N22",
+        "name": "Calculus of urinary tract in diseases classified elsewhere"
+    },
+    {
+        "code": "N23",
+        "name": "Unspecified renal colic"
+    },
+    {
+        "code": "N25-N29",
+        "name": "Other disorders of kidney and ureter"
+    },
+    {
+        "code": "N25",
+        "name": "Disorders resulting from impaired renal tubular function"
+    },
+    {
+        "code": "N26",
+        "name": "Unspecified contracted kidney"
+    },
+    {
+        "code": "N27",
+        "name": "Small kidney of unknown cause"
+    },
+    {
+        "code": "N28",
+        "name": "Other disorders of kidney and ureter, not elsewhere classified"
+    },
+    {
+        "code": "N29",
+        "name": "Other disorders of kidney and ureter in diseases classified elsewhere"
+    },
+    {
+        "code": "N30-N39",
+        "name": "Other diseases of urinary system"
+    },
+    {
+        "code": "N30",
+        "name": "Cystitis"
+    },
+    {
+        "code": "N31",
+        "name": "Neuromuscular dysfunction of bladder, not elsewhere classified"
+    },
+    {
+        "code": "N32",
+        "name": "Other disorders of bladder"
+    },
+    {
+        "code": "N33",
+        "name": "Bladder disorders in diseases classified elsewhere"
+    },
+    {
+        "code": "N34",
+        "name": "Urethritis and urethral syndrome"
+    },
+    {
+        "code": "N35",
+        "name": "Urethral stricture"
+    },
+    {
+        "code": "N36",
+        "name": "Other disorders of urethra"
+    },
+    {
+        "code": "N37",
+        "name": "Urethral disorders in diseases classified elsewhere"
+    },
+    {
+        "code": "N39",
+        "name": "Other disorders of urinary system"
+    },
+    {
+        "code": "N40-N51",
+        "name": "Diseases of male genital organs"
+    },
+    {
+        "code": "N40",
+        "name": "Hyperplasia of prostate"
+    },
+    {
+        "code": "N41",
+        "name": "Inflammatory diseases of prostate"
+    },
+    {
+        "code": "N42",
+        "name": "Other disorders of prostate"
+    },
+    {
+        "code": "N43",
+        "name": "Hydrocele and spermatocele"
+    },
+    {
+        "code": "N44",
+        "name": "Torsion of testis"
+    },
+    {
+        "code": "N45",
+        "name": "Orchitis and epididymitis"
+    },
+    {
+        "code": "N46",
+        "name": "Male infertility"
+    },
+    {
+        "code": "N47",
+        "name": "Redundant prepuce, phimosis and paraphimosis"
+    },
+    {
+        "code": "N48",
+        "name": "Other disorders of penis"
+    },
+    {
+        "code": "N49",
+        "name": "Inflammatory disorders of male genital organs, not elsewhere classified"
+    },
+    {
+        "code": "N50",
+        "name": "Other disorders of male genital organs"
+    },
+    {
+        "code": "N51",
+        "name": "Disorders of male genital organs in diseases classified elsewhere"
+    },
+    {
+        "code": "N60-N64",
+        "name": "Disorders of breast"
+    },
+    {
+        "code": "N60",
+        "name": "Benign mammary dysplasia"
+    },
+    {
+        "code": "N61",
+        "name": "Inflammatory disorders of breast"
+    },
+    {
+        "code": "N62",
+        "name": "Hypertrophy of breast"
+    },
+    {
+        "code": "N63",
+        "name": "Unspecified lump in breast"
+    },
+    {
+        "code": "N64",
+        "name": "Other disorders of breast"
+    },
+    {
+        "code": "N70-N77",
+        "name": "Inflammatory diseases of female pelvic organs"
+    },
+    {
+        "code": "N70",
+        "name": "Salpingitis and oophoritis"
+    },
+    {
+        "code": "N71",
+        "name": "Inflammatory disease of uterus, except cervix"
+    },
+    {
+        "code": "N72",
+        "name": "Inflammatory disease of cervix uteri"
+    },
+    {
+        "code": "N73",
+        "name": "Other female pelvic inflammatory diseases"
+    },
+    {
+        "code": "N74",
+        "name": "Female pelvic inflammatory disorders in diseases classified elsewhere"
+    },
+    {
+        "code": "N75",
+        "name": "Diseases of Bartholin gland"
+    },
+    {
+        "code": "N76",
+        "name": "Other inflammation of vagina and vulva"
+    },
+    {
+        "code": "N77",
+        "name": "Vulvovaginal ulceration and inflammation in diseases classified elsewhere"
+    },
+    {
+        "code": "N80-N98",
+        "name": "Noninflammatory disorders of female genital tract"
+    },
+    {
+        "code": "N80",
+        "name": "Endometriosis"
+    },
+    {
+        "code": "N81",
+        "name": "Female genital prolapse"
+    },
+    {
+        "code": "N82",
+        "name": "Fistulae involving female genital tract"
+    },
+    {
+        "code": "N83",
+        "name": "Noninflammatory disorders of ovary, fallopian tube and broad ligament"
+    },
+    {
+        "code": "N84",
+        "name": "Polyp of female genital tract"
+    },
+    {
+        "code": "N85",
+        "name": "Other noninflammatory disorders of uterus, except cervix"
+    },
+    {
+        "code": "N86",
+        "name": "Erosion and ectropion of cervix uteri"
+    },
+    {
+        "code": "N87",
+        "name": "Dysplasia of cervix uteri"
+    },
+    {
+        "code": "N88",
+        "name": "Other noninflammatory disorders of cervix uteri"
+    },
+    {
+        "code": "N89",
+        "name": "Other noninflammatory disorders of vagina"
+    },
+    {
+        "code": "N90",
+        "name": "Other noninflammatory disorders of vulva and perineum"
+    },
+    {
+        "code": "N91",
+        "name": "Absent, scanty and rare menstruation"
+    },
+    {
+        "code": "N92",
+        "name": "Excessive, frequent and irregular menstruation"
+    },
+    {
+        "code": "N93",
+        "name": "Other abnormal uterine and vaginal bleeding"
+    },
+    {
+        "code": "N94",
+        "name": "Pain and other conditions associated with female genital organs and menstrual cycle"
+    },
+    {
+        "code": "N95",
+        "name": "Menopausal and other perimenopausal disorders"
+    },
+    {
+        "code": "N96",
+        "name": "Habitual aborter"
+    },
+    {
+        "code": "N97",
+        "name": "Female infertility"
+    },
+    {
+        "code": "N98",
+        "name": "Complications associated with artificial fertilization"
+    },
+    {
+        "code": "N99-N99",
+        "name": "Other disorders of the genitourinary system"
+    },
+    {
+        "code": "N99",
+        "name": "Postprocedural disorders of genitourinary system, not elsewhere classified"
+    },
+    {
+        "code": "XV",
+        "name": "Pregnancy, childbirth and the puerperium"
+    },
+    {
+        "code": "O00-O08",
+        "name": "Pregnancy with abortive outcome"
+    },
+    {
+        "code": "O00",
+        "name": "Ectopic pregnancy"
+    },
+    {
+        "code": "O01",
+        "name": "Hydatidiform mole"
+    },
+    {
+        "code": "O02",
+        "name": "Other abnormal products of conception"
+    },
+    {
+        "code": "O03",
+        "name": "Spontaneous abortion"
+    },
+    {
+        "code": "O04",
+        "name": "Medical abortion"
+    },
+    {
+        "code": "O05",
+        "name": "Other abortion"
+    },
+    {
+        "code": "O06",
+        "name": "Unspecified abortion"
+    },
+    {
+        "code": "O07",
+        "name": "Failed attempted abortion"
+    },
+    {
+        "code": "O08",
+        "name": "Complications following abortion and ectopic and molar pregnancy"
+    },
+    {
+        "code": "O10-O16",
+        "name": "Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium"
+    },
+    {
+        "code": "O10",
+        "name": "Pre-existing hypertension complicating pregnancy, childbirth and the puerperium"
+    },
+    {
+        "code": "O11",
+        "name": "Pre-eclampsia superimposed on chronic hypertension"
+    },
+    {
+        "code": "O12",
+        "name": "Gestational [pregnancy-induced] oedema and proteinuria without hypertension"
+    },
+    {
+        "code": "O13",
+        "name": "Gestational [pregnancy-induced] hypertension"
+    },
+    {
+        "code": "O14",
+        "name": "Pre-eclampsia"
+    },
+    {
+        "code": "O15",
+        "name": "Eclampsia"
+    },
+    {
+        "code": "O16",
+        "name": "Unspecified maternal hypertension"
+    },
+    {
+        "code": "O20-O29",
+        "name": "Other maternal disorders predominantly related to pregnancy"
+    },
+    {
+        "code": "O20",
+        "name": "Haemorrhage in early pregnancy"
+    },
+    {
+        "code": "O21",
+        "name": "Excessive vomiting in pregnancy"
+    },
+    {
+        "code": "O22",
+        "name": "Venous complications and haemorrhoids in pregnancy"
+    },
+    {
+        "code": "O23",
+        "name": "Infections of genitourinary tract in pregnancy"
+    },
+    {
+        "code": "O24",
+        "name": "Diabetes mellitus in pregnancy"
+    },
+    {
+        "code": "O25",
+        "name": "Malnutrition in pregnancy"
+    },
+    {
+        "code": "O26",
+        "name": "Maternal care for other conditions predominantly related to pregnancy"
+    },
+    {
+        "code": "O28",
+        "name": "Abnormal findings on antenatal screening of mother"
+    },
+    {
+        "code": "O29",
+        "name": "Complications of anaesthesia during pregnancy"
+    },
+    {
+        "code": "O30-O48",
+        "name": "Maternal care related to the fetus and amniotic cavity and possible delivery problems"
+    },
+    {
+        "code": "O30",
+        "name": "Multiple gestation"
+    },
+    {
+        "code": "O31",
+        "name": "Complications specific to multiple gestation"
+    },
+    {
+        "code": "O32",
+        "name": "Maternal care for known or suspected malpresentation of fetus"
+    },
+    {
+        "code": "O33",
+        "name": "Maternal care for known or suspected disproportion"
+    },
+    {
+        "code": "O34",
+        "name": "Maternal care for known or suspected abnormality of pelvic organs"
+    },
+    {
+        "code": "O35",
+        "name": "Maternal care for known or suspected fetal abnormality and damage"
+    },
+    {
+        "code": "O36",
+        "name": "Maternal care for other known or suspected fetal problems"
+    },
+    {
+        "code": "O40",
+        "name": "Polyhydramnios"
+    },
+    {
+        "code": "O41",
+        "name": "Other disorders of amniotic fluid and membranes"
+    },
+    {
+        "code": "O42",
+        "name": "Premature rupture of membranes"
+    },
+    {
+        "code": "O43",
+        "name": "Placental disorders"
+    },
+    {
+        "code": "O44",
+        "name": "Placenta praevia"
+    },
+    {
+        "code": "O45",
+        "name": "Premature separation of placenta [abruptio placentae]"
+    },
+    {
+        "code": "O46",
+        "name": "Antepartum haemorrhage, not elsewhere classified"
+    },
+    {
+        "code": "O47",
+        "name": "False labour"
+    },
+    {
+        "code": "O48",
+        "name": "Prolonged pregnancy"
+    },
+    {
+        "code": "O60-O75",
+        "name": "Complications of labour and delivery"
+    },
+    {
+        "code": "O60",
+        "name": "Preterm labour and delivery"
+    },
+    {
+        "code": "O61",
+        "name": "Failed induction of labour"
+    },
+    {
+        "code": "O62",
+        "name": "Abnormalities of forces of labour"
+    },
+    {
+        "code": "O63",
+        "name": "Long labour"
+    },
+    {
+        "code": "O64",
+        "name": "Obstructed labour due to malposition and malpresentation of fetus"
+    },
+    {
+        "code": "O65",
+        "name": "Obstructed labour due to maternal pelvic abnormality"
+    },
+    {
+        "code": "O66",
+        "name": "Other obstructed labour"
+    },
+    {
+        "code": "O67",
+        "name": "Labour and delivery complicated by intrapartum haemorrhage, not elsewhere classified"
+    },
+    {
+        "code": "O68",
+        "name": "Labour and delivery complicated by fetal stress [distress]"
+    },
+    {
+        "code": "O69",
+        "name": "Labour and delivery complicated by umbilical cord complications"
+    },
+    {
+        "code": "O70",
+        "name": "Perineal laceration during delivery"
+    },
+    {
+        "code": "O71",
+        "name": "Other obstetric trauma"
+    },
+    {
+        "code": "O72",
+        "name": "Postpartum haemorrhage"
+    },
+    {
+        "code": "O73",
+        "name": "Retained placenta and membranes, without haemorrhage"
+    },
+    {
+        "code": "O74",
+        "name": "Complications of anaesthesia during labour and delivery"
+    },
+    {
+        "code": "O75",
+        "name": "Other complications of labour and delivery, not elsewhere classified"
+    },
+    {
+        "code": "O80-O84",
+        "name": "Delivery"
+    },
+    {
+        "code": "O80",
+        "name": "Single spontaneous delivery"
+    },
+    {
+        "code": "O81",
+        "name": "Single delivery by forceps and vacuum extractor"
+    },
+    {
+        "code": "O82",
+        "name": "Single delivery by caesarean section"
+    },
+    {
+        "code": "O83",
+        "name": "Other assisted single delivery"
+    },
+    {
+        "code": "O84",
+        "name": "Multiple delivery"
+    },
+    {
+        "code": "O85-O92",
+        "name": "Complications predominantly related to the puerperium"
+    },
+    {
+        "code": "O85",
+        "name": "Puerperal sepsis"
+    },
+    {
+        "code": "O86",
+        "name": "Other puerperal infections"
+    },
+    {
+        "code": "O87",
+        "name": "Venous complications and haemorrhoids in the puerperium"
+    },
+    {
+        "code": "O88",
+        "name": "Obstetric embolism"
+    },
+    {
+        "code": "O89",
+        "name": "Complications of anaesthesia during the puerperium"
+    },
+    {
+        "code": "O90",
+        "name": "Complications of the puerperium, not elsewhere classified"
+    },
+    {
+        "code": "O91",
+        "name": "Infections of breast associated with childbirth"
+    },
+    {
+        "code": "O92",
+        "name": "Other disorders of breast and lactation associated with childbirth"
+    },
+    {
+        "code": "O94-O99",
+        "name": "Other obstetric conditions, not elsewhere classified"
+    },
+    {
+        "code": "O94",
+        "name": "Sequelae of complication of pregnancy, childbirth and the puerperium"
+    },
+    {
+        "code": "O95",
+        "name": "Obstetric death of unspecified cause"
+    },
+    {
+        "code": "O96",
+        "name": "Death from any obstetric cause occurring more than 42 days but less than one year after delivery"
+    },
+    {
+        "code": "O97",
+        "name": "Death from sequelae of obstetric causes"
+    },
+    {
+        "code": "O98",
+        "name": "Maternal infectious and parasitic diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium"
+    },
+    {
+        "code": "O99",
+        "name": "Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium"
+    },
+    {
+        "code": "XVI",
+        "name": "Certain conditions originating in the perinatal period"
+    },
+    {
+        "code": "P00-P04",
+        "name": "Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery"
+    },
+    {
+        "code": "P00",
+        "name": "Fetus and newborn affected by maternal conditions that may be unrelated to present pregnancy"
+    },
+    {
+        "code": "P01",
+        "name": "Fetus and newborn affected by maternal complications of pregnancy"
+    },
+    {
+        "code": "P02",
+        "name": "Fetus and newborn affected by complications of placenta, cord and membranes"
+    },
+    {
+        "code": "P03",
+        "name": "Fetus and newborn affected by other complications of labour and delivery"
+    },
+    {
+        "code": "P04",
+        "name": "Fetus and newborn affected by noxious influences transmitted via placenta or breast milk"
+    },
+    {
+        "code": "P05-P08",
+        "name": "Disorders related to length of gestation and fetal growth"
+    },
+    {
+        "code": "P05",
+        "name": "Slow fetal growth and fetal malnutrition"
+    },
+    {
+        "code": "P07",
+        "name": "Disorders related to short gestation and low birth weight, not elsewhere classified"
+    },
+    {
+        "code": "P08",
+        "name": "Disorders related to long gestation and high birth weight"
+    },
+    {
+        "code": "P10-P15",
+        "name": "Birth trauma"
+    },
+    {
+        "code": "P10",
+        "name": "Intracranial laceration and haemorrhage due to birth injury"
+    },
+    {
+        "code": "P11",
+        "name": "Other birth injuries to central nervous system"
+    },
+    {
+        "code": "P12",
+        "name": "Birth injury to scalp"
+    },
+    {
+        "code": "P13",
+        "name": "Birth injury to skeleton"
+    },
+    {
+        "code": "P14",
+        "name": "Birth injury to peripheral nervous system"
+    },
+    {
+        "code": "P15",
+        "name": "Other birth injuries"
+    },
+    {
+        "code": "P20-P29",
+        "name": "Respiratory and cardiovascular disorders specific to the perinatal period"
+    },
+    {
+        "code": "P20",
+        "name": "Intrauterine hypoxia"
+    },
+    {
+        "code": "P21",
+        "name": "Birth asphyxia"
+    },
+    {
+        "code": "P22",
+        "name": "Respiratory distress of newborn"
+    },
+    {
+        "code": "P23",
+        "name": "Congenital pneumonia"
+    },
+    {
+        "code": "P24",
+        "name": "Neonatal aspiration syndromes"
+    },
+    {
+        "code": "P25",
+        "name": "Interstitial emphysema and related conditions originating in the perinatal period"
+    },
+    {
+        "code": "P26",
+        "name": "Pulmonary haemorrhage originating in the perinatal period"
+    },
+    {
+        "code": "P27",
+        "name": "Chronic respiratory disease originating in the perinatal period"
+    },
+    {
+        "code": "P28",
+        "name": "Other respiratory conditions originating in the perinatal period"
+    },
+    {
+        "code": "P29",
+        "name": "Cardiovascular disorders originating in the perinatal period"
+    },
+    {
+        "code": "P35-P39",
+        "name": "Infections specific to the perinatal period"
+    },
+    {
+        "code": "P35",
+        "name": "Congenital viral diseases"
+    },
+    {
+        "code": "P36",
+        "name": "Bacterial sepsis of newborn"
+    },
+    {
+        "code": "P37",
+        "name": "Other congenital infectious and parasitic diseases"
+    },
+    {
+        "code": "P38",
+        "name": "Omphalitis of newborn with or without mild haemorrhage"
+    },
+    {
+        "code": "P39",
+        "name": "Other infections specific to the perinatal period"
+    },
+    {
+        "code": "P50-P61",
+        "name": "Haemorrhagic and haematological disorders of fetus and newborn"
+    },
+    {
+        "code": "P50",
+        "name": "Fetal blood loss"
+    },
+    {
+        "code": "P51",
+        "name": "Umbilical haemorrhage of newborn"
+    },
+    {
+        "code": "P52",
+        "name": "Intracranial nontraumatic haemorrhage of fetus and newborn"
+    },
+    {
+        "code": "P53",
+        "name": "Haemorrhagic disease of fetus and newborn"
+    },
+    {
+        "code": "P54",
+        "name": "Other neonatal haemorrhages"
+    },
+    {
+        "code": "P55",
+        "name": "Haemolytic disease of fetus and newborn"
+    },
+    {
+        "code": "P56",
+        "name": "Hydrops fetalis due to haemolytic disease"
+    },
+    {
+        "code": "P57",
+        "name": "Kernicterus"
+    },
+    {
+        "code": "P58",
+        "name": "Neonatal jaundice due to other excessive haemolysis"
+    },
+    {
+        "code": "P59",
+        "name": "Neonatal jaundice from other and unspecified causes"
+    },
+    {
+        "code": "P60",
+        "name": "Disseminated intravascular coagulation of fetus and newborn"
+    },
+    {
+        "code": "P61",
+        "name": "Other perinatal haematological disorders"
+    },
+    {
+        "code": "P70-P74",
+        "name": "Transitory endocrine and metabolic disorders specific to fetus and newborn"
+    },
+    {
+        "code": "P70",
+        "name": "Transitory disorders of carbohydrate metabolism specific to fetus and newborn"
+    },
+    {
+        "code": "P71",
+        "name": "Transitory neonatal disorders of calcium and magnesium metabolism"
+    },
+    {
+        "code": "P72",
+        "name": "Other transitory neonatal endocrine disorders"
+    },
+    {
+        "code": "P74",
+        "name": "Other transitory neonatal electrolyte and metabolic disturbances"
+    },
+    {
+        "code": "P75-P78",
+        "name": "Digestive system disorders of fetus and newborn"
+    },
+    {
+        "code": "P75",
+        "name": "Meconium ileus in cystic fibrosis"
+    },
+    {
+        "code": "P76",
+        "name": "Other intestinal obstruction of newborn"
+    },
+    {
+        "code": "P77",
+        "name": "Necrotizing enterocolitis of fetus and newborn"
+    },
+    {
+        "code": "P78",
+        "name": "Other perinatal digestive system disorders"
+    },
+    {
+        "code": "P80-P83",
+        "name": "Conditions involving the integument and temperature regulation of fetus and newborn"
+    },
+    {
+        "code": "P80",
+        "name": "Hypothermia of newborn"
+    },
+    {
+        "code": "P81",
+        "name": "Other disturbances of temperature regulation of newborn"
+    },
+    {
+        "code": "P83",
+        "name": "Other conditions of integument specific to fetus and newborn"
+    },
+    {
+        "code": "P90-P96",
+        "name": "Other disorders originating in the perinatal period"
+    },
+    {
+        "code": "P90",
+        "name": "Convulsions of newborn"
+    },
+    {
+        "code": "P91",
+        "name": "Other disturbances of cerebral status of newborn"
+    },
+    {
+        "code": "P92",
+        "name": "Feeding problems of newborn"
+    },
+    {
+        "code": "P93",
+        "name": "Reactions and intoxications due to drugs administered to fetus and newborn"
+    },
+    {
+        "code": "P94",
+        "name": "Disorders of muscle tone of newborn"
+    },
+    {
+        "code": "P95",
+        "name": "Fetal death of unspecified cause"
+    },
+    {
+        "code": "P96",
+        "name": "Other conditions originating in the perinatal period"
+    },
+    {
+        "code": "XVII",
+        "name": "Congenital malformations, deformations and chromosomal abnormalities"
+    },
+    {
+        "code": "Q00-Q07",
+        "name": "Congenital malformations of the nervous system"
+    },
+    {
+        "code": "Q00",
+        "name": "Anencephaly and similar malformations"
+    },
+    {
+        "code": "Q01",
+        "name": "Encephalocele"
+    },
+    {
+        "code": "Q02",
+        "name": "Microcephaly"
+    },
+    {
+        "code": "Q03",
+        "name": "Congenital hydrocephalus"
+    },
+    {
+        "code": "Q04",
+        "name": "Other congenital malformations of brain"
+    },
+    {
+        "code": "Q05",
+        "name": "Spina bifida"
+    },
+    {
+        "code": "Q06",
+        "name": "Other congenital malformations of spinal cord"
+    },
+    {
+        "code": "Q07",
+        "name": "Other congenital malformations of nervous system"
+    },
+    {
+        "code": "Q10-Q18",
+        "name": "Congenital malformations of eye, ear, face and neck"
+    },
+    {
+        "code": "Q10",
+        "name": "Congenital malformations of eyelid, lacrimal apparatus and orbit"
+    },
+    {
+        "code": "Q11",
+        "name": "Anophthalmos, microphthalmos and macrophthalmos"
+    },
+    {
+        "code": "Q12",
+        "name": "Congenital lens malformations"
+    },
+    {
+        "code": "Q13",
+        "name": "Congenital malformations of anterior segment of eye"
+    },
+    {
+        "code": "Q14",
+        "name": "Congenital malformations of posterior segment of eye"
+    },
+    {
+        "code": "Q15",
+        "name": "Other congenital malformations of eye"
+    },
+    {
+        "code": "Q16",
+        "name": "Congenital malformations of ear causing impairment of hearing"
+    },
+    {
+        "code": "Q17",
+        "name": "Other congenital malformations of ear"
+    },
+    {
+        "code": "Q18",
+        "name": "Other congenital malformations of face and neck"
+    },
+    {
+        "code": "Q20-Q28",
+        "name": "Congenital malformations of the circulatory system"
+    },
+    {
+        "code": "Q20",
+        "name": "Congenital malformations of cardiac chambers and connections"
+    },
+    {
+        "code": "Q21",
+        "name": "Congenital malformations of cardiac septa"
+    },
+    {
+        "code": "Q22",
+        "name": "Congenital malformations of pulmonary and tricuspid valves"
+    },
+    {
+        "code": "Q23",
+        "name": "Congenital malformations of aortic and mitral valves"
+    },
+    {
+        "code": "Q24",
+        "name": "Other congenital malformations of heart"
+    },
+    {
+        "code": "Q25",
+        "name": "Congenital malformations of great arteries"
+    },
+    {
+        "code": "Q26",
+        "name": "Congenital malformations of great veins"
+    },
+    {
+        "code": "Q27",
+        "name": "Other congenital malformations of peripheral vascular system"
+    },
+    {
+        "code": "Q28",
+        "name": "Other congenital malformations of circulatory system"
+    },
+    {
+        "code": "Q30-Q34",
+        "name": "Congenital malformations of the respiratory system"
+    },
+    {
+        "code": "Q30",
+        "name": "Congenital malformations of nose"
+    },
+    {
+        "code": "Q31",
+        "name": "Congenital malformations of larynx"
+    },
+    {
+        "code": "Q32",
+        "name": "Congenital malformations of trachea and bronchus"
+    },
+    {
+        "code": "Q33",
+        "name": "Congenital malformations of lung"
+    },
+    {
+        "code": "Q34",
+        "name": "Other congenital malformations of respiratory system"
+    },
+    {
+        "code": "Q35-Q37",
+        "name": "Cleft lip and cleft palate"
+    },
+    {
+        "code": "Q35",
+        "name": "Cleft palate"
+    },
+    {
+        "code": "Q36",
+        "name": "Cleft lip"
+    },
+    {
+        "code": "Q37",
+        "name": "Cleft palate with cleft lip"
+    },
+    {
+        "code": "Q38-Q45",
+        "name": "Other congenital malformations of the digestive system"
+    },
+    {
+        "code": "Q38",
+        "name": "Other congenital malformations of tongue, mouth and pharynx"
+    },
+    {
+        "code": "Q39",
+        "name": "Congenital malformations of oesophagus"
+    },
+    {
+        "code": "Q40",
+        "name": "Other congenital malformations of upper alimentary tract"
+    },
+    {
+        "code": "Q41",
+        "name": "Congenital absence, atresia and stenosis of small intestine"
+    },
+    {
+        "code": "Q42",
+        "name": "Congenital absence, atresia and stenosis of large intestine"
+    },
+    {
+        "code": "Q43",
+        "name": "Other congenital malformations of intestine"
+    },
+    {
+        "code": "Q44",
+        "name": "Congenital malformations of gallbladder, bile ducts and liver"
+    },
+    {
+        "code": "Q45",
+        "name": "Other congenital malformations of digestive system"
+    },
+    {
+        "code": "Q50-Q56",
+        "name": "Congenital malformations of genital organs"
+    },
+    {
+        "code": "Q50",
+        "name": "Congenital malformations of ovaries, fallopian tubes and broad ligaments"
+    },
+    {
+        "code": "Q51",
+        "name": "Congenital malformations of uterus and cervix"
+    },
+    {
+        "code": "Q52",
+        "name": "Other congenital malformations of female genitalia"
+    },
+    {
+        "code": "Q53",
+        "name": "Undescended testicle"
+    },
+    {
+        "code": "Q54",
+        "name": "Hypospadias"
+    },
+    {
+        "code": "Q55",
+        "name": "Other congenital malformations of male genital organs"
+    },
+    {
+        "code": "Q56",
+        "name": "Indeterminate sex and pseudohermaphroditism"
+    },
+    {
+        "code": "Q60-Q64",
+        "name": "Congenital malformations of the urinary system"
+    },
+    {
+        "code": "Q60",
+        "name": "Renal agenesis and other reduction defects of kidney"
+    },
+    {
+        "code": "Q61",
+        "name": "Cystic kidney disease"
+    },
+    {
+        "code": "Q62",
+        "name": "Congenital obstructive defects of renal pelvis and congenital malformations of ureter"
+    },
+    {
+        "code": "Q63",
+        "name": "Other congenital malformations of kidney"
+    },
+    {
+        "code": "Q64",
+        "name": "Other congenital malformations of urinary system"
+    },
+    {
+        "code": "Q65-Q79",
+        "name": "Congenital malformations and deformations of the musculoskeletal system"
+    },
+    {
+        "code": "Q65",
+        "name": "Congenital deformities of hip"
+    },
+    {
+        "code": "Q66",
+        "name": "Congenital deformities of feet"
+    },
+    {
+        "code": "Q67",
+        "name": "Congenital musculoskeletal deformities of head, face, spine and chest"
+    },
+    {
+        "code": "Q68",
+        "name": "Other congenital musculoskeletal deformities"
+    },
+    {
+        "code": "Q69",
+        "name": "Polydactyly"
+    },
+    {
+        "code": "Q70",
+        "name": "Syndactyly"
+    },
+    {
+        "code": "Q71",
+        "name": "Reduction defects of upper limb"
+    },
+    {
+        "code": "Q72",
+        "name": "Reduction defects of lower limb"
+    },
+    {
+        "code": "Q73",
+        "name": "Reduction defects of unspecified limb"
+    },
+    {
+        "code": "Q74",
+        "name": "Other congenital malformations of limb(s)"
+    },
+    {
+        "code": "Q75",
+        "name": "Other congenital malformations of skull and face bones"
+    },
+    {
+        "code": "Q76",
+        "name": "Congenital malformations of spine and bony thorax"
+    },
+    {
+        "code": "Q77",
+        "name": "Osteochondrodysplasia with defects of growth of tubular bones and spine"
+    },
+    {
+        "code": "Q78",
+        "name": "Other osteochondrodysplasias"
+    },
+    {
+        "code": "Q79",
+        "name": "Congenital malformations of the musculoskeletal system, not elsewhere classified"
+    },
+    {
+        "code": "Q80-Q89",
+        "name": "Other congenital malformations"
+    },
+    {
+        "code": "Q80",
+        "name": "Congenital ichthyosis"
+    },
+    {
+        "code": "Q81",
+        "name": "Epidermolysis bullosa"
+    },
+    {
+        "code": "Q82",
+        "name": "Other congenital malformations of skin"
+    },
+    {
+        "code": "Q83",
+        "name": "Congenital malformations of breast"
+    },
+    {
+        "code": "Q84",
+        "name": "Other congenital malformations of integument"
+    },
+    {
+        "code": "Q85",
+        "name": "Phakomatoses, not elsewhere classified"
+    },
+    {
+        "code": "Q86",
+        "name": "Congenital malformation syndromes due to known exogenous causes, not elsewhere classified"
+    },
+    {
+        "code": "Q87",
+        "name": "Other specified congenital malformation syndromes affecting multiple systems"
+    },
+    {
+        "code": "Q89",
+        "name": "Other congenital malformations, not elsewhere classified"
+    },
+    {
+        "code": "Q90-Q99",
+        "name": "Chromosomal abnormalities, not elsewhere classified"
+    },
+    {
+        "code": "Q90",
+        "name": "Down syndrome"
+    },
+    {
+        "code": "Q91",
+        "name": "Edwards syndrome and Patau syndrome"
+    },
+    {
+        "code": "Q92",
+        "name": "Other trisomies and partial trisomies of the autosomes, not elsewhere classified"
+    },
+    {
+        "code": "Q93",
+        "name": "Monosomies and deletions from the autosomes, not elsewhere classified"
+    },
+    {
+        "code": "Q95",
+        "name": "Balanced rearrangements and structural markers, not elsewhere classified"
+    },
+    {
+        "code": "Q96",
+        "name": "Turner syndrome"
+    },
+    {
+        "code": "Q97",
+        "name": "Other sex chromosome abnormalities, female phenotype, not elsewhere classified"
+    },
+    {
+        "code": "Q98",
+        "name": "Other sex chromosome abnormalities, male phenotype, not elsewhere classified"
+    },
+    {
+        "code": "Q99",
+        "name": "Other chromosome abnormalities, not elsewhere classified"
+    },
+    {
+        "code": "XVIII",
+        "name": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    },
+    {
+        "code": "R00-R09",
+        "name": "Symptoms and signs involving the circulatory and respiratory systems"
+    },
+    {
+        "code": "R00",
+        "name": "Abnormalities of heart beat"
+    },
+    {
+        "code": "R01",
+        "name": "Cardiac murmurs and other cardiac sounds"
+    },
+    {
+        "code": "R02",
+        "name": "Gangrene, not elsewhere classified"
+    },
+    {
+        "code": "R03",
+        "name": "Abnormal blood-pressure reading, without diagnosis"
+    },
+    {
+        "code": "R04",
+        "name": "Haemorrhage from respiratory passages"
+    },
+    {
+        "code": "R05",
+        "name": "Cough"
+    },
+    {
+        "code": "R06",
+        "name": "Abnormalities of breathing"
+    },
+    {
+        "code": "R07",
+        "name": "Pain in throat and chest"
+    },
+    {
+        "code": "R09",
+        "name": "Other symptoms and signs involving the circulatory and respiratory systems"
+    },
+    {
+        "code": "R10-R19",
+        "name": "Symptoms and signs involving the digestive system and abdomen"
+    },
+    {
+        "code": "R10",
+        "name": "Abdominal and pelvic pain"
+    },
+    {
+        "code": "R11",
+        "name": "Nausea and vomiting"
+    },
+    {
+        "code": "R12",
+        "name": "Heartburn"
+    },
+    {
+        "code": "R13",
+        "name": "Dysphagia"
+    },
+    {
+        "code": "R14",
+        "name": "Flatulence and related conditions"
+    },
+    {
+        "code": "R15",
+        "name": "Faecal incontinence"
+    },
+    {
+        "code": "R16",
+        "name": "Hepatomegaly and splenomegaly, not elsewhere classified"
+    },
+    {
+        "code": "R17",
+        "name": "Unspecified jaundice"
+    },
+    {
+        "code": "R18",
+        "name": "Ascites"
+    },
+    {
+        "code": "R19",
+        "name": "Other symptoms and signs involving the digestive system and abdomen"
+    },
+    {
+        "code": "R20-R23",
+        "name": "Symptoms and signs involving the skin and subcutaneous tissue"
+    },
+    {
+        "code": "R20",
+        "name": "Disturbances of skin sensation"
+    },
+    {
+        "code": "R21",
+        "name": "Rash and other nonspecific skin eruption"
+    },
+    {
+        "code": "R22",
+        "name": "Localized swelling, mass and lump of skin and subcutaneous tissue"
+    },
+    {
+        "code": "R23",
+        "name": "Other skin changes"
+    },
+    {
+        "code": "R25-R29",
+        "name": "Symptoms and signs involving the nervous and musculoskeletal systems"
+    },
+    {
+        "code": "R25",
+        "name": "Abnormal involuntary movements"
+    },
+    {
+        "code": "R26",
+        "name": "Abnormalities of gait and mobility"
+    },
+    {
+        "code": "R27",
+        "name": "Other lack of coordination"
+    },
+    {
+        "code": "R29",
+        "name": "Other symptoms and signs involving the nervous and musculoskeletal systems"
+    },
+    {
+        "code": "R30-R39",
+        "name": "Symptoms and signs involving the urinary system"
+    },
+    {
+        "code": "R30",
+        "name": "Pain associated with micturition"
+    },
+    {
+        "code": "R31",
+        "name": "Unspecified haematuria"
+    },
+    {
+        "code": "R32",
+        "name": "Unspecified urinary incontinence"
+    },
+    {
+        "code": "R33",
+        "name": "Retention of urine"
+    },
+    {
+        "code": "R34",
+        "name": "Anuria and oliguria"
+    },
+    {
+        "code": "R35",
+        "name": "Polyuria"
+    },
+    {
+        "code": "R36",
+        "name": "Urethral discharge"
+    },
+    {
+        "code": "R39",
+        "name": "Other symptoms and signs involving the urinary system"
+    },
+    {
+        "code": "R40-R46",
+        "name": "Symptoms and signs involving cognition, perception, emotional state and behaviour"
+    },
+    {
+        "code": "R40",
+        "name": "Somnolence, stupor and coma"
+    },
+    {
+        "code": "R41",
+        "name": "Other symptoms and signs involving cognitive functions and awareness"
+    },
+    {
+        "code": "R42",
+        "name": "Dizziness and giddiness"
+    },
+    {
+        "code": "R43",
+        "name": "Disturbances of smell and taste"
+    },
+    {
+        "code": "R44",
+        "name": "Other symptoms and signs involving general sensations and perceptions"
+    },
+    {
+        "code": "R45",
+        "name": "Symptoms and signs involving emotional state"
+    },
+    {
+        "code": "R46",
+        "name": "Symptoms and signs involving appearance and behaviour"
+    },
+    {
+        "code": "R47-R49",
+        "name": "Symptoms and signs involving speech and voice"
+    },
+    {
+        "code": "R47",
+        "name": "Speech disturbances, not elsewhere classified"
+    },
+    {
+        "code": "R48",
+        "name": "Dyslexia and other symbolic dysfunctions, not elsewhere classified"
+    },
+    {
+        "code": "R49",
+        "name": "Voice disturbances"
+    },
+    {
+        "code": "R50-R69",
+        "name": "General symptoms and signs"
+    },
+    {
+        "code": "R50",
+        "name": "Fever of other and unknown origin"
+    },
+    {
+        "code": "R51",
+        "name": "Headache"
+    },
+    {
+        "code": "R52",
+        "name": "Pain, not elsewhere classified"
+    },
+    {
+        "code": "R53",
+        "name": "Malaise and fatigue"
+    },
+    {
+        "code": "R54",
+        "name": "Senility"
+    },
+    {
+        "code": "R55",
+        "name": "Syncope and collapse"
+    },
+    {
+        "code": "R56",
+        "name": "Convulsions, not elsewhere classified"
+    },
+    {
+        "code": "R57",
+        "name": "Shock, not elsewhere classified"
+    },
+    {
+        "code": "R58",
+        "name": "Haemorrhage, not elsewhere classified"
+    },
+    {
+        "code": "R59",
+        "name": "Enlarged lymph nodes"
+    },
+    {
+        "code": "R60",
+        "name": "Oedema, not elsewhere classified"
+    },
+    {
+        "code": "R61",
+        "name": "Hyperhidrosis"
+    },
+    {
+        "code": "R62",
+        "name": "Lack of expected normal physiological development"
+    },
+    {
+        "code": "R63",
+        "name": "Symptoms and signs concerning food and fluid intake"
+    },
+    {
+        "code": "R64",
+        "name": "Cachexia"
+    },
+    {
+        "code": "R65",
+        "name": "Systemic Inflammatory Response Syndrome [SIRS]"
+    },
+    {
+        "code": "R68",
+        "name": "Other general symptoms and signs"
+    },
+    {
+        "code": "R69",
+        "name": "Unknown and unspecified causes of morbidity"
+    },
+    {
+        "code": "R70-R79",
+        "name": "Abnormal findings on examination of blood, without diagnosis"
+    },
+    {
+        "code": "R70",
+        "name": "Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity"
+    },
+    {
+        "code": "R71",
+        "name": "Abnormality of red blood cells"
+    },
+    {
+        "code": "R72",
+        "name": "Abnormality of white blood cells, not elsewhere classified"
+    },
+    {
+        "code": "R73",
+        "name": "Elevated blood glucose level"
+    },
+    {
+        "code": "R74",
+        "name": "Abnormal serum enzyme levels"
+    },
+    {
+        "code": "R75",
+        "name": "Laboratory evidence of human immunodeficiency virus [HIV]"
+    },
+    {
+        "code": "R76",
+        "name": "Other abnormal immunological findings in serum"
+    },
+    {
+        "code": "R77",
+        "name": "Other abnormalities of plasma proteins"
+    },
+    {
+        "code": "R78",
+        "name": "Findings of drugs and other substances, not normally found in blood"
+    },
+    {
+        "code": "R79",
+        "name": "Other abnormal findings of blood chemistry"
+    },
+    {
+        "code": "R80-R82",
+        "name": "Abnormal findings on examination of urine, without diagnosis"
+    },
+    {
+        "code": "R80",
+        "name": "Isolated proteinuria"
+    },
+    {
+        "code": "R81",
+        "name": "Glycosuria"
+    },
+    {
+        "code": "R82",
+        "name": "Other abnormal findings in urine"
+    },
+    {
+        "code": "R83-R89",
+        "name": "Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis"
+    },
+    {
+        "code": "R83",
+        "name": "Abnormal findings in cerebrospinal fluid"
+    },
+    {
+        "code": "R84",
+        "name": "Abnormal findings in specimens from respiratory organs and thorax"
+    },
+    {
+        "code": "R85",
+        "name": "Abnormal findings in specimens from digestive organs and abdominal cavity"
+    },
+    {
+        "code": "R86",
+        "name": "Abnormal findings in specimens from male genital organs"
+    },
+    {
+        "code": "R87",
+        "name": "Abnormal findings in specimens from female genital organs"
+    },
+    {
+        "code": "R89",
+        "name": "Abnormal findings in specimens from other organs, systems and tissues"
+    },
+    {
+        "code": "R90-R94",
+        "name": "Abnormal findings on diagnostic imaging and in function studies, without diagnosis"
+    },
+    {
+        "code": "R90",
+        "name": "Abnormal findings on diagnostic imaging of central nervous system"
+    },
+    {
+        "code": "R91",
+        "name": "Abnormal findings on diagnostic imaging of lung"
+    },
+    {
+        "code": "R92",
+        "name": "Abnormal findings on diagnostic imaging of breast"
+    },
+    {
+        "code": "R93",
+        "name": "Abnormal findings on diagnostic imaging of other body structures"
+    },
+    {
+        "code": "R94",
+        "name": "Abnormal results of function studies"
+    },
+    {
+        "code": "R95-R99",
+        "name": "Ill-defined and unknown causes of mortality"
+    },
+    {
+        "code": "R95",
+        "name": "Sudden infant death syndrome"
+    },
+    {
+        "code": "R96",
+        "name": "Other sudden death, cause unknown"
+    },
+    {
+        "code": "R98",
+        "name": "Unattended death"
+    },
+    {
+        "code": "R99",
+        "name": "Other ill-defined and unspecified causes of mortality"
+    },
+    {
+        "code": "XIX",
+        "name": "Injury, poisoning and certain other consequences of external causes"
+    },
+    {
+        "code": "S00-S09",
+        "name": "Injuries to the head"
+    },
+    {
+        "code": "S00",
+        "name": "Superficial injury of head"
+    },
+    {
+        "code": "S01",
+        "name": "Open wound of head"
+    },
+    {
+        "code": "S02",
+        "name": "Fracture of skull and facial bones"
+    },
+    {
+        "code": "S03",
+        "name": "Dislocation, sprain and strain of joints and ligaments of head"
+    },
+    {
+        "code": "S04",
+        "name": "Injury of cranial nerves"
+    },
+    {
+        "code": "S05",
+        "name": "Injury of eye and orbit"
+    },
+    {
+        "code": "S06",
+        "name": "Intracranial injury"
+    },
+    {
+        "code": "S07",
+        "name": "Crushing injury of head"
+    },
+    {
+        "code": "S08",
+        "name": "Traumatic amputation of part of head"
+    },
+    {
+        "code": "S09",
+        "name": "Other and unspecified injuries of head"
+    },
+    {
+        "code": "S10-S19",
+        "name": "Injuries to the neck"
+    },
+    {
+        "code": "S10",
+        "name": "Superficial injury of neck"
+    },
+    {
+        "code": "S11",
+        "name": "Open wound of neck"
+    },
+    {
+        "code": "S12",
+        "name": "Fracture of neck"
+    },
+    {
+        "code": "S13",
+        "name": "Dislocation, sprain and strain of joints and ligaments at neck level"
+    },
+    {
+        "code": "S14",
+        "name": "Injury of nerves and spinal cord at neck level"
+    },
+    {
+        "code": "S15",
+        "name": "Injury of blood vessels at neck level"
+    },
+    {
+        "code": "S16",
+        "name": "Injury of muscle and tendon at neck level"
+    },
+    {
+        "code": "S17",
+        "name": "Crushing injury of neck"
+    },
+    {
+        "code": "S18",
+        "name": "Traumatic amputation at neck level"
+    },
+    {
+        "code": "S19",
+        "name": "Other and unspecified injuries of neck"
+    },
+    {
+        "code": "S20-S29",
+        "name": "Injuries to the thorax"
+    },
+    {
+        "code": "S20",
+        "name": "Superficial injury of thorax"
+    },
+    {
+        "code": "S21",
+        "name": "Open wound of thorax"
+    },
+    {
+        "code": "S22",
+        "name": "Fracture of rib(s), sternum and thoracic spine"
+    },
+    {
+        "code": "S23",
+        "name": "Dislocation, sprain and strain of joints and ligaments of thorax"
+    },
+    {
+        "code": "S24",
+        "name": "Injury of nerves and spinal cord at thorax level"
+    },
+    {
+        "code": "S25",
+        "name": "Injury of blood vessels of thorax"
+    },
+    {
+        "code": "S26",
+        "name": "Injury of heart"
+    },
+    {
+        "code": "S27",
+        "name": "Injury of other and unspecified intrathoracic organs"
+    },
+    {
+        "code": "S28",
+        "name": "Crushing injury of thorax and traumatic amputation of part of thorax"
+    },
+    {
+        "code": "S29",
+        "name": "Other and unspecified injuries of thorax"
+    },
+    {
+        "code": "S30-S39",
+        "name": "Injuries to the abdomen, lower back, lumbar spine and pelvis"
+    },
+    {
+        "code": "S30",
+        "name": "Superficial injury of abdomen, lower back and pelvis"
+    },
+    {
+        "code": "S31",
+        "name": "Open wound of abdomen, lower back and pelvis"
+    },
+    {
+        "code": "S32",
+        "name": "Fracture of lumbar spine and pelvis"
+    },
+    {
+        "code": "S33",
+        "name": "Dislocation, sprain and strain of joints and ligaments of lumbar spine and pelvis"
+    },
+    {
+        "code": "S34",
+        "name": "Injury of nerves and lumbar spinal cord at abdomen, lower back and pelvis level"
+    },
+    {
+        "code": "S35",
+        "name": "Injury of blood vessels at abdomen, lower back and pelvis level"
+    },
+    {
+        "code": "S36",
+        "name": "Injury of intra-abdominal organs"
+    },
+    {
+        "code": "S37",
+        "name": "Injury of urinary and pelvic organs"
+    },
+    {
+        "code": "S38",
+        "name": "Crushing injury and traumatic amputation of part of abdomen, lower back and pelvis"
+    },
+    {
+        "code": "S39",
+        "name": "Other and unspecified injuries of abdomen, lower back and pelvis"
+    },
+    {
+        "code": "S40-S49",
+        "name": "Injuries to the shoulder and upper arm"
+    },
+    {
+        "code": "S40",
+        "name": "Superficial injury of shoulder and upper arm"
+    },
+    {
+        "code": "S41",
+        "name": "Open wound of shoulder and upper arm"
+    },
+    {
+        "code": "S42",
+        "name": "Fracture of shoulder and upper arm"
+    },
+    {
+        "code": "S43",
+        "name": "Dislocation, sprain and strain of joints and ligaments of shoulder girdle"
+    },
+    {
+        "code": "S44",
+        "name": "Injury of nerves at shoulder and upper arm level"
+    },
+    {
+        "code": "S45",
+        "name": "Injury of blood vessels at shoulder and upper arm level"
+    },
+    {
+        "code": "S46",
+        "name": "Injury of muscle and tendon at shoulder and upper arm level"
+    },
+    {
+        "code": "S47",
+        "name": "Crushing injury of shoulder and upper arm"
+    },
+    {
+        "code": "S48",
+        "name": "Traumatic amputation of shoulder and upper arm"
+    },
+    {
+        "code": "S49",
+        "name": "Other and unspecified injuries of shoulder and upper arm"
+    },
+    {
+        "code": "S50-S59",
+        "name": "Injuries to the elbow and forearm"
+    },
+    {
+        "code": "S50",
+        "name": "Superficial injury of forearm"
+    },
+    {
+        "code": "S51",
+        "name": "Open wound of forearm"
+    },
+    {
+        "code": "S52",
+        "name": "Fracture of forearm"
+    },
+    {
+        "code": "S53",
+        "name": "Dislocation, sprain and strain of joints and ligaments of elbow"
+    },
+    {
+        "code": "S54",
+        "name": "Injury of nerves at forearm level"
+    },
+    {
+        "code": "S55",
+        "name": "Injury of blood vessels at forearm level"
+    },
+    {
+        "code": "S56",
+        "name": "Injury of muscle and tendon at forearm level"
+    },
+    {
+        "code": "S57",
+        "name": "Crushing injury of forearm"
+    },
+    {
+        "code": "S58",
+        "name": "Traumatic amputation of forearm"
+    },
+    {
+        "code": "S59",
+        "name": "Other and unspecified injuries of forearm"
+    },
+    {
+        "code": "S60-S69",
+        "name": "Injuries to the wrist and hand"
+    },
+    {
+        "code": "S60",
+        "name": "Superficial injury of wrist and hand"
+    },
+    {
+        "code": "S61",
+        "name": "Open wound of wrist and hand"
+    },
+    {
+        "code": "S62",
+        "name": "Fracture at wrist and hand level"
+    },
+    {
+        "code": "S63",
+        "name": "Dislocation, sprain and strain of joints and ligaments at wrist and hand level"
+    },
+    {
+        "code": "S64",
+        "name": "Injury of nerves at wrist and hand level"
+    },
+    {
+        "code": "S65",
+        "name": "Injury of blood vessels at wrist and hand level"
+    },
+    {
+        "code": "S66",
+        "name": "Injury of muscle and tendon at wrist and hand level"
+    },
+    {
+        "code": "S67",
+        "name": "Crushing injury of wrist and hand"
+    },
+    {
+        "code": "S68",
+        "name": "Traumatic amputation of wrist and hand"
+    },
+    {
+        "code": "S69",
+        "name": "Other and unspecified injuries of wrist and hand"
+    },
+    {
+        "code": "S70-S79",
+        "name": "Injuries to the hip and thigh"
+    },
+    {
+        "code": "S70",
+        "name": "Superficial injury of hip and thigh"
+    },
+    {
+        "code": "S71",
+        "name": "Open wound of hip and thigh"
+    },
+    {
+        "code": "S72",
+        "name": "Fracture of femur"
+    },
+    {
+        "code": "S73",
+        "name": "Dislocation, sprain and strain of joint and ligaments of hip"
+    },
+    {
+        "code": "S74",
+        "name": "Injury of nerves at hip and thigh level"
+    },
+    {
+        "code": "S75",
+        "name": "Injury of blood vessels at hip and thigh level"
+    },
+    {
+        "code": "S76",
+        "name": "Injury of muscle and tendon at hip and thigh level"
+    },
+    {
+        "code": "S77",
+        "name": "Crushing injury of hip and thigh"
+    },
+    {
+        "code": "S78",
+        "name": "Traumatic amputation of hip and thigh"
+    },
+    {
+        "code": "S79",
+        "name": "Other and unspecified injuries of hip and thigh"
+    },
+    {
+        "code": "S80-S89",
+        "name": "Injuries to the knee and lower leg"
+    },
+    {
+        "code": "S80",
+        "name": "Superficial injury of lower leg"
+    },
+    {
+        "code": "S81",
+        "name": "Open wound of lower leg"
+    },
+    {
+        "code": "S82",
+        "name": "Fracture of lower leg, including ankle"
+    },
+    {
+        "code": "S83",
+        "name": "Dislocation, sprain and strain of joints and ligaments of knee"
+    },
+    {
+        "code": "S84",
+        "name": "Injury of nerves at lower leg level"
+    },
+    {
+        "code": "S85",
+        "name": "Injury of blood vessels at lower leg level"
+    },
+    {
+        "code": "S86",
+        "name": "Injury of muscle and tendon at lower leg level"
+    },
+    {
+        "code": "S87",
+        "name": "Crushing injury of lower leg"
+    },
+    {
+        "code": "S88",
+        "name": "Traumatic amputation of lower leg"
+    },
+    {
+        "code": "S89",
+        "name": "Other and unspecified injuries of lower leg"
+    },
+    {
+        "code": "S90-S99",
+        "name": "Injuries to the ankle and foot"
+    },
+    {
+        "code": "S90",
+        "name": "Superficial injury of ankle and foot"
+    },
+    {
+        "code": "S91",
+        "name": "Open wound of ankle and foot"
+    },
+    {
+        "code": "S92",
+        "name": "Fracture of foot, except ankle"
+    },
+    {
+        "code": "S93",
+        "name": "Dislocation, sprain and strain of joints and ligaments at ankle and foot level"
+    },
+    {
+        "code": "S94",
+        "name": "Injury of nerves at ankle and foot level"
+    },
+    {
+        "code": "S95",
+        "name": "Injury of blood vessels at ankle and foot level"
+    },
+    {
+        "code": "S96",
+        "name": "Injury of muscle and tendon at ankle and foot level"
+    },
+    {
+        "code": "S97",
+        "name": "Crushing injury of ankle and foot"
+    },
+    {
+        "code": "S98",
+        "name": "Traumatic amputation of ankle and foot"
+    },
+    {
+        "code": "S99",
+        "name": "Other and unspecified injuries of ankle and foot"
+    },
+    {
+        "code": "T00-T07",
+        "name": "Injuries involving multiple body regions"
+    },
+    {
+        "code": "T00",
+        "name": "Superficial injuries involving multiple body regions"
+    },
+    {
+        "code": "T01",
+        "name": "Open wounds involving multiple body regions"
+    },
+    {
+        "code": "T02",
+        "name": "Fractures involving multiple body regions"
+    },
+    {
+        "code": "T03",
+        "name": "Dislocations, sprains and strains involving multiple body regions"
+    },
+    {
+        "code": "T04",
+        "name": "Crushing injuries involving multiple body regions"
+    },
+    {
+        "code": "T05",
+        "name": "Traumatic amputations involving multiple body regions"
+    },
+    {
+        "code": "T06",
+        "name": "Other injuries involving multiple body regions, not elsewhere classified"
+    },
+    {
+        "code": "T07",
+        "name": "Unspecified multiple injuries"
+    },
+    {
+        "code": "T08-T14",
+        "name": "Injuries to unspecified part of trunk, limb or body region"
+    },
+    {
+        "code": "T08",
+        "name": "Fracture of spine, level unspecified"
+    },
+    {
+        "code": "T09",
+        "name": "Other injuries of spine and trunk, level unspecified"
+    },
+    {
+        "code": "T10",
+        "name": "Fracture of upper limb, level unspecified"
+    },
+    {
+        "code": "T11",
+        "name": "Other injuries of upper limb, level unspecified"
+    },
+    {
+        "code": "T12",
+        "name": "Fracture of lower limb, level unspecified"
+    },
+    {
+        "code": "T13",
+        "name": "Other injuries of lower limb, level unspecified"
+    },
+    {
+        "code": "T14",
+        "name": "Injury of unspecified body region"
+    },
+    {
+        "code": "T15-T19",
+        "name": "Effects of foreign body entering through natural orifice"
+    },
+    {
+        "code": "T15",
+        "name": "Foreign body on external eye"
+    },
+    {
+        "code": "T16",
+        "name": "Foreign body in ear"
+    },
+    {
+        "code": "T17",
+        "name": "Foreign body in respiratory tract"
+    },
+    {
+        "code": "T18",
+        "name": "Foreign body in alimentary tract"
+    },
+    {
+        "code": "T19",
+        "name": "Foreign body in genitourinary tract"
+    },
+    {
+        "code": "T20-T32",
+        "name": "Burns and corrosions"
+    },
+    {
+        "code": "T20-T25",
+        "name": "Burns and corrosions of external body surface, specified by site"
+    },
+    {
+        "code": "T26-T28",
+        "name": "Burns and corrosions confined to eye and internal organs"
+    },
+    {
+        "code": "T29-T32",
+        "name": "Burns and corrosions of multiple and unspecified body regions"
+    },
+    {
+        "code": "T33-T35",
+        "name": "Frostbite"
+    },
+    {
+        "code": "T33",
+        "name": "Superficial frostbite"
+    },
+    {
+        "code": "T34",
+        "name": "Frostbite with tissue necrosis"
+    },
+    {
+        "code": "T35",
+        "name": "Frostbite involving multiple body regions and unspecified frostbite"
+    },
+    {
+        "code": "T36-T50",
+        "name": "Poisoning by drugs, medicaments and biological substances"
+    },
+    {
+        "code": "T36",
+        "name": "Poisoning by systemic antibiotics"
+    },
+    {
+        "code": "T37",
+        "name": "Poisoning by other systemic anti-infectives and antiparasitics"
+    },
+    {
+        "code": "T38",
+        "name": "Poisoning by hormones and their synthetic substitutes and antagonists, not elsewhere classified"
+    },
+    {
+        "code": "T39",
+        "name": "Poisoning by nonopioid analgesics, antipyretics and antirheumatics"
+    },
+    {
+        "code": "T40",
+        "name": "Poisoning by narcotics and psychodysleptics [hallucinogens]"
+    },
+    {
+        "code": "T41",
+        "name": "Poisoning by anaesthetics and therapeutic gases"
+    },
+    {
+        "code": "T42",
+        "name": "Poisoning by antiepileptic, sedative-hypnotic and antiparkinsonism drugs"
+    },
+    {
+        "code": "T43",
+        "name": "Poisoning by psychotropic drugs, not elsewhere classified"
+    },
+    {
+        "code": "T44",
+        "name": "Poisoning by drugs primarily affecting the autonomic nervous system"
+    },
+    {
+        "code": "T45",
+        "name": "Poisoning by primarily systemic and haematological agents, not elsewhere classified"
+    },
+    {
+        "code": "T46",
+        "name": "Poisoning by agents primarily affecting the cardiovascular system"
+    },
+    {
+        "code": "T47",
+        "name": "Poisoning by agents primarily affecting the gastrointestinal system"
+    },
+    {
+        "code": "T48",
+        "name": "Poisoning by agents primarily acting on smooth and skeletal muscles and the respiratory system"
+    },
+    {
+        "code": "T49",
+        "name": "Poisoning by topical agents primarily affecting skin and mucous membrane and by ophthalmological, otorhinolaryngological and dental drugs"
+    },
+    {
+        "code": "T50",
+        "name": "Poisoning by diuretics and other and unspecified drugs, medicaments and biological substances"
+    },
+    {
+        "code": "T51-T65",
+        "name": "Toxic effects of substances chiefly nonmedicinal as to source"
+    },
+    {
+        "code": "T51",
+        "name": "Toxic effect of alcohol"
+    },
+    {
+        "code": "T52",
+        "name": "Toxic effect of organic solvents"
+    },
+    {
+        "code": "T53",
+        "name": "Toxic effect of halogen derivatives of aliphatic and aromatic hydrocarbons"
+    },
+    {
+        "code": "T54",
+        "name": "Toxic effect of corrosive substances"
+    },
+    {
+        "code": "T55",
+        "name": "Toxic effect of soaps and detergents"
+    },
+    {
+        "code": "T56",
+        "name": "Toxic effect of metals"
+    },
+    {
+        "code": "T57",
+        "name": "Toxic effect of other inorganic substances"
+    },
+    {
+        "code": "T58",
+        "name": "Toxic effect of carbon monoxide"
+    },
+    {
+        "code": "T59",
+        "name": "Toxic effect of other gases, fumes and vapours"
+    },
+    {
+        "code": "T60",
+        "name": "Toxic effect of pesticides"
+    },
+    {
+        "code": "T61",
+        "name": "Toxic effect of noxious substances eaten as seafood"
+    },
+    {
+        "code": "T62",
+        "name": "Toxic effect of other noxious substances eaten as food"
+    },
+    {
+        "code": "T63",
+        "name": "Toxic effect of contact with venomous animals"
+    },
+    {
+        "code": "T64",
+        "name": "Toxic effect of aflatoxin and other mycotoxin food contaminants"
+    },
+    {
+        "code": "T65",
+        "name": "Toxic effect of other and unspecified substances"
+    },
+    {
+        "code": "T66-T78",
+        "name": "Other and unspecified effects of external causes"
+    },
+    {
+        "code": "T66",
+        "name": "Unspecified effects of radiation"
+    },
+    {
+        "code": "T67",
+        "name": "Effects of heat and light"
+    },
+    {
+        "code": "T68",
+        "name": "Hypothermia"
+    },
+    {
+        "code": "T69",
+        "name": "Other effects of reduced temperature"
+    },
+    {
+        "code": "T70",
+        "name": "Effects of air pressure and water pressure"
+    },
+    {
+        "code": "T71",
+        "name": "Asphyxiation"
+    },
+    {
+        "code": "T73",
+        "name": "Effects of other deprivation"
+    },
+    {
+        "code": "T74",
+        "name": "Maltreatment syndromes"
+    },
+    {
+        "code": "T75",
+        "name": "Effects of other external causes"
+    },
+    {
+        "code": "T78",
+        "name": "Adverse effects, not elsewhere classified"
+    },
+    {
+        "code": "T79-T79",
+        "name": "Certain early complications of trauma"
+    },
+    {
+        "code": "T79",
+        "name": "Certain early complications of trauma, not elsewhere classified"
+    },
+    {
+        "code": "T80-T88",
+        "name": "Complications of surgical and medical care, not elsewhere classified"
+    },
+    {
+        "code": "T80",
+        "name": "Complications following infusion, transfusion and therapeutic injection"
+    },
+    {
+        "code": "T81",
+        "name": "Complications of procedures, not elsewhere classified"
+    },
+    {
+        "code": "T82",
+        "name": "Complications of cardiac and vascular prosthetic devices, implants and grafts"
+    },
+    {
+        "code": "T83",
+        "name": "Complications of genitourinary prosthetic devices, implants and grafts"
+    },
+    {
+        "code": "T84",
+        "name": "Complications of internal orthopaedic prosthetic devices, implants and grafts"
+    },
+    {
+        "code": "T85",
+        "name": "Complications of other internal prosthetic devices, implants and grafts"
+    },
+    {
+        "code": "T86",
+        "name": "Failure and rejection of transplanted organs and tissues"
+    },
+    {
+        "code": "T87",
+        "name": "Complications peculiar to reattachment and amputation"
+    },
+    {
+        "code": "T88",
+        "name": "Other complications of surgical and medical care, not elsewhere classified"
+    },
+    {
+        "code": "T90-T98",
+        "name": "Sequelae of injuries, of poisoning and of other consequences of external causes"
+    },
+    {
+        "code": "T90",
+        "name": "Sequelae of injuries of head"
+    },
+    {
+        "code": "T91",
+        "name": "Sequelae of injuries of neck and trunk"
+    },
+    {
+        "code": "T92",
+        "name": "Sequelae of injuries of upper limb"
+    },
+    {
+        "code": "T93",
+        "name": "Sequelae of injuries of lower limb"
+    },
+    {
+        "code": "T94",
+        "name": "Sequelae of injuries involving multiple and unspecified body regions"
+    },
+    {
+        "code": "T95",
+        "name": "Sequelae of burns, corrosions and frostbite"
+    },
+    {
+        "code": "T96",
+        "name": "Sequelae of poisoning by drugs, medicaments and biological substances"
+    },
+    {
+        "code": "T97",
+        "name": "Sequelae of toxic effects of substances chiefly nonmedicinal as to source"
+    },
+    {
+        "code": "T98",
+        "name": "Sequelae of other and unspecified effects of external causes"
+    },
+    {
+        "code": "XX",
+        "name": "External causes of morbidity and mortality"
+    },
+    {
+        "code": "V01-X59",
+        "name": "Accidents"
+    },
+    {
+        "code": "V01-V99",
+        "name": "Transport accidents"
+    },
+    {
+        "code": "W00-X59",
+        "name": "Other external causes of accidental injury"
+    },
+    {
+        "code": "X60-X84",
+        "name": "Intentional self-harm"
+    },
+    {
+        "code": "X60",
+        "name": "Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"
+    },
+    {
+        "code": "X61",
+        "name": "Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"
+    },
+    {
+        "code": "X62",
+        "name": "Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"
+    },
+    {
+        "code": "X63",
+        "name": "Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"
+    },
+    {
+        "code": "X64",
+        "name": "Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"
+    },
+    {
+        "code": "X65",
+        "name": "Intentional self-poisoning by and exposure to alcohol"
+    },
+    {
+        "code": "X66",
+        "name": "Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"
+    },
+    {
+        "code": "X67",
+        "name": "Intentional self-poisoning by and exposure to other gases and vapours"
+    },
+    {
+        "code": "X68",
+        "name": "Intentional self-poisoning by and exposure to pesticides"
+    },
+    {
+        "code": "X69",
+        "name": "Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"
+    },
+    {
+        "code": "X70",
+        "name": "Intentional self-harm by hanging, strangulation and suffocation"
+    },
+    {
+        "code": "X71",
+        "name": "Intentional self-harm by drowning and submersion"
+    },
+    {
+        "code": "X72",
+        "name": "Intentional self-harm by handgun discharge"
+    },
+    {
+        "code": "X73",
+        "name": "Intentional self-harm by rifle, shotgun and larger firearm discharge"
+    },
+    {
+        "code": "X74",
+        "name": "Intentional self-harm by other and unspecified firearm discharge"
+    },
+    {
+        "code": "X75",
+        "name": "Intentional self-harm by explosive material"
+    },
+    {
+        "code": "X76",
+        "name": "Intentional self-harm by smoke, fire and flames"
+    },
+    {
+        "code": "X77",
+        "name": "Intentional self-harm by steam, hot vapours and hot objects"
+    },
+    {
+        "code": "X78",
+        "name": "Intentional self-harm by sharp object"
+    },
+    {
+        "code": "X79",
+        "name": "Intentional self-harm by blunt object"
+    },
+    {
+        "code": "X80",
+        "name": "Intentional self-harm by jumping from a high place"
+    },
+    {
+        "code": "X81",
+        "name": "Intentional self-harm by jumping or lying before moving object"
+    },
+    {
+        "code": "X82",
+        "name": "Intentional self-harm by crashing of motor vehicle"
+    },
+    {
+        "code": "X83",
+        "name": "Intentional self-harm by other specified means"
+    },
+    {
+        "code": "X84",
+        "name": "Intentional self-harm by unspecified means"
+    },
+    {
+        "code": "X85-Y09",
+        "name": "Assault"
+    },
+    {
+        "code": "X85",
+        "name": "Assault by drugs, medicaments and biological substances"
+    },
+    {
+        "code": "X86",
+        "name": "Assault by corrosive substance"
+    },
+    {
+        "code": "X87",
+        "name": "Assault by pesticides"
+    },
+    {
+        "code": "X88",
+        "name": "Assault by gases and vapours"
+    },
+    {
+        "code": "X89",
+        "name": "Assault by other specified chemicals and noxious substances"
+    },
+    {
+        "code": "X90",
+        "name": "Assault by unspecified chemical or noxious substance"
+    },
+    {
+        "code": "X91",
+        "name": "Assault by hanging, strangulation and suffocation"
+    },
+    {
+        "code": "X92",
+        "name": "Assault by drowning and submersion"
+    },
+    {
+        "code": "X93",
+        "name": "Assault by handgun discharge"
+    },
+    {
+        "code": "X94",
+        "name": "Assault by rifle, shotgun and larger firearm discharge"
+    },
+    {
+        "code": "X95",
+        "name": "Assault by other and unspecified firearm discharge"
+    },
+    {
+        "code": "X96",
+        "name": "Assault by explosive material"
+    },
+    {
+        "code": "X97",
+        "name": "Assault by smoke, fire and flames"
+    },
+    {
+        "code": "X98",
+        "name": "Assault by steam, hot vapours and hot objects"
+    },
+    {
+        "code": "X99",
+        "name": "Assault by sharp object"
+    },
+    {
+        "code": "Y00",
+        "name": "Assault by blunt object"
+    },
+    {
+        "code": "Y01",
+        "name": "Assault by pushing from high place"
+    },
+    {
+        "code": "Y02",
+        "name": "Assault by pushing or placing victim before moving object"
+    },
+    {
+        "code": "Y03",
+        "name": "Assault by crashing of motor vehicle"
+    },
+    {
+        "code": "Y04",
+        "name": "Assault by bodily force"
+    },
+    {
+        "code": "Y05",
+        "name": "Sexual assault by bodily force"
+    },
+    {
+        "code": "Y06",
+        "name": "Neglect and abandonment"
+    },
+    {
+        "code": "Y07",
+        "name": "Other maltreatment"
+    },
+    {
+        "code": "Y08",
+        "name": "Assault by other specified means"
+    },
+    {
+        "code": "Y09",
+        "name": "Assault by unspecified means"
+    },
+    {
+        "code": "Y10-Y34",
+        "name": "Event of undetermined intent"
+    },
+    {
+        "code": "Y10",
+        "name": "Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics, undetermined intent"
+    },
+    {
+        "code": "Y11",
+        "name": "Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified, undetermined intent"
+    },
+    {
+        "code": "Y12",
+        "name": "Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent"
+    },
+    {
+        "code": "Y13",
+        "name": "Poisoning by and exposure to other drugs acting on the autonomic nervous system, undetermined intent"
+    },
+    {
+        "code": "Y14",
+        "name": "Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent"
+    },
+    {
+        "code": "Y15",
+        "name": "Poisoning by and exposure to alcohol, undetermined intent"
+    },
+    {
+        "code": "Y16",
+        "name": "Poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours, undetermined intent"
+    },
+    {
+        "code": "Y17",
+        "name": "Poisoning by and exposure to other gases and vapours, undetermined intent"
+    },
+    {
+        "code": "Y18",
+        "name": "Poisoning by and exposure to pesticides, undetermined intent"
+    },
+    {
+        "code": "Y19",
+        "name": "Poisoning by and exposure to other and unspecified chemicals and noxious substances, undetermined intent"
+    },
+    {
+        "code": "Y20",
+        "name": "Hanging, strangulation and suffocation, undetermined intent"
+    },
+    {
+        "code": "Y21",
+        "name": "Drowning and submersion, undetermined intent"
+    },
+    {
+        "code": "Y22",
+        "name": "Handgun discharge, undetermined intent"
+    },
+    {
+        "code": "Y23",
+        "name": "Rifle, shotgun and larger firearm discharge, undetermined intent"
+    },
+    {
+        "code": "Y24",
+        "name": "Other and unspecified firearm discharge, undetermined intent"
+    },
+    {
+        "code": "Y25",
+        "name": "Contact with explosive material, undetermined intent"
+    },
+    {
+        "code": "Y26",
+        "name": "Exposure to smoke, fire and flames, undetermined intent"
+    },
+    {
+        "code": "Y27",
+        "name": "Contact with steam, hot vapours and hot objects, undetermined intent"
+    },
+    {
+        "code": "Y28",
+        "name": "Contact with sharp object, undetermined intent"
+    },
+    {
+        "code": "Y29",
+        "name": "Contact with blunt object, undetermined intent"
+    },
+    {
+        "code": "Y30",
+        "name": "Falling, jumping or pushed from a high place, undetermined intent"
+    },
+    {
+        "code": "Y31",
+        "name": "Falling, lying or running before or into moving object, undetermined intent"
+    },
+    {
+        "code": "Y32",
+        "name": "Crashing of motor vehicle, undetermined intent"
+    },
+    {
+        "code": "Y33",
+        "name": "Other specified events, undetermined intent"
+    },
+    {
+        "code": "Y34",
+        "name": "Unspecified event, undetermined intent"
+    },
+    {
+        "code": "Y35-Y36",
+        "name": "Legal intervention and operations of war"
+    },
+    {
+        "code": "Y35",
+        "name": "Legal intervention"
+    },
+    {
+        "code": "Y36",
+        "name": "Operations of war"
+    },
+    {
+        "code": "Y40-Y84",
+        "name": "Complications of medical and surgical care"
+    },
+    {
+        "code": "Y40-Y59",
+        "name": "Drugs, medicaments and biological substances causing adverse effects in therapeutic use"
+    },
+    {
+        "code": "Y60-Y69",
+        "name": "Misadventures to patients during surgical and medical care"
+    },
+    {
+        "code": "Y70-Y82",
+        "name": "Medical devices associated with adverse incidents in diagnostic and therapeutic use"
+    },
+    {
+        "code": "Y83-Y84",
+        "name": "Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+    },
+    {
+        "code": "Y85-Y89",
+        "name": "Sequelae of external causes of morbidity and mortality"
+    },
+    {
+        "code": "Y85",
+        "name": "Sequelae of transport accidents"
+    },
+    {
+        "code": "Y86",
+        "name": "Sequelae of other accidents"
+    },
+    {
+        "code": "Y87",
+        "name": "Sequelae of intentional self-harm, assault and events of undetermined intent"
+    },
+    {
+        "code": "Y88",
+        "name": "Sequelae with surgical and medical care as external cause"
+    },
+    {
+        "code": "Y89",
+        "name": "Sequelae of other external causes"
+    },
+    {
+        "code": "Y90-Y98",
+        "name": "Supplementary factors related to causes of morbidity and mortality classified elsewhere"
+    },
+    {
+        "code": "Y90",
+        "name": "Evidence of alcohol involvement determined by blood alcohol level"
+    },
+    {
+        "code": "Y91",
+        "name": "Evidence of alcohol involvement determined by level of intoxication"
+    },
+    {
+        "code": "Y95",
+        "name": "Nosocomial condition"
+    },
+    {
+        "code": "Y96",
+        "name": "Work-related condition"
+    },
+    {
+        "code": "Y97",
+        "name": "Environmental-pollution-related condition"
+    },
+    {
+        "code": "Y98",
+        "name": "Lifestyle-related condition"
+    },
+    {
+        "code": "XXI",
+        "name": "Factors influencing health status and contact with health services"
+    },
+    {
+        "code": "Z00-Z13",
+        "name": "Persons encountering health services for examination and investigation"
+    },
+    {
+        "code": "Z00",
+        "name": "General examination and investigation of persons without complaint and reported diagnosis"
+    },
+    {
+        "code": "Z01",
+        "name": "Other special examinations and investigations of persons without complaint or reported diagnosis"
+    },
+    {
+        "code": "Z02",
+        "name": "Examination and encounter for administrative purposes"
+    },
+    {
+        "code": "Z03",
+        "name": "Medical observation and evaluation for suspected diseases and conditions"
+    },
+    {
+        "code": "Z04",
+        "name": "Examination and observation for other reasons"
+    },
+    {
+        "code": "Z08",
+        "name": "Follow-up examination after treatment for malignant neoplasms"
+    },
+    {
+        "code": "Z09",
+        "name": "Follow-up examination after treatment for conditions other than malignant neoplasms"
+    },
+    {
+        "code": "Z10",
+        "name": "Routine general health check-up of defined subpopulation"
+    },
+    {
+        "code": "Z11",
+        "name": "Special screening examination for infectious and parasitic diseases"
+    },
+    {
+        "code": "Z12",
+        "name": "Special screening examination for neoplasms"
+    },
+    {
+        "code": "Z13",
+        "name": "Special screening examination for other diseases and disorders"
+    },
+    {
+        "code": "Z20-Z29",
+        "name": "Persons with potential health hazards related to communicable diseases"
+    },
+    {
+        "code": "Z20",
+        "name": "Contact with and exposure to communicable diseases"
+    },
+    {
+        "code": "Z21",
+        "name": "Asymptomatic human immunodeficiency virus [HIV] infection status"
+    },
+    {
+        "code": "Z22",
+        "name": "Carrier of infectious disease"
+    },
+    {
+        "code": "Z23",
+        "name": "Need for immunization against single bacterial diseases"
+    },
+    {
+        "code": "Z24",
+        "name": "Need for immunization against certain single viral diseases"
+    },
+    {
+        "code": "Z25",
+        "name": "Need for immunization against other single viral diseases"
+    },
+    {
+        "code": "Z26",
+        "name": "Need for immunization against other single infectious diseases"
+    },
+    {
+        "code": "Z27",
+        "name": "Need for immunization against combinations of infectious diseases"
+    },
+    {
+        "code": "Z28",
+        "name": "Immunization not carried out"
+    },
+    {
+        "code": "Z29",
+        "name": "Need for other prophylactic measures"
+    },
+    {
+        "code": "Z30-Z39",
+        "name": "Persons encountering health services in circumstances related to reproduction"
+    },
+    {
+        "code": "Z30",
+        "name": "Contraceptive management"
+    },
+    {
+        "code": "Z31",
+        "name": "Procreative management"
+    },
+    {
+        "code": "Z32",
+        "name": "Pregnancy examination and test"
+    },
+    {
+        "code": "Z33",
+        "name": "Pregnant state, incidental"
+    },
+    {
+        "code": "Z34",
+        "name": "Supervision of normal pregnancy"
+    },
+    {
+        "code": "Z35",
+        "name": "Supervision of high-risk pregnancy"
+    },
+    {
+        "code": "Z36",
+        "name": "Antenatal screening"
+    },
+    {
+        "code": "Z37",
+        "name": "Outcome of delivery"
+    },
+    {
+        "code": "Z38",
+        "name": "Liveborn infants according to place of birth"
+    },
+    {
+        "code": "Z39",
+        "name": "Postpartum care and examination"
+    },
+    {
+        "code": "Z40-Z54",
+        "name": "Persons encountering health services for specific procedures and health care"
+    },
+    {
+        "code": "Z40",
+        "name": "Prophylactic surgery"
+    },
+    {
+        "code": "Z41",
+        "name": "Procedures for purposes other than remedying health state"
+    },
+    {
+        "code": "Z42",
+        "name": "Follow-up care involving plastic surgery"
+    },
+    {
+        "code": "Z43",
+        "name": "Attention to artificial openings"
+    },
+    {
+        "code": "Z44",
+        "name": "Fitting and adjustment of external prosthetic device"
+    },
+    {
+        "code": "Z45",
+        "name": "Adjustment and management of implanted device"
+    },
+    {
+        "code": "Z46",
+        "name": "Fitting and adjustment of other devices"
+    },
+    {
+        "code": "Z47",
+        "name": "Other orthopaedic follow-up care"
+    },
+    {
+        "code": "Z48",
+        "name": "Other surgical follow-up care"
+    },
+    {
+        "code": "Z49",
+        "name": "Care involving dialysis"
+    },
+    {
+        "code": "Z50",
+        "name": "Care involving use of rehabilitation procedures"
+    },
+    {
+        "code": "Z51",
+        "name": "Other medical care"
+    },
+    {
+        "code": "Z52",
+        "name": "Donors of organs and tissues"
+    },
+    {
+        "code": "Z53",
+        "name": "Persons encountering health services for specific procedures, not carried out"
+    },
+    {
+        "code": "Z54",
+        "name": "Convalescence"
+    },
+    {
+        "code": "Z55-Z65",
+        "name": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances"
+    },
+    {
+        "code": "Z55",
+        "name": "Problems related to education and literacy"
+    },
+    {
+        "code": "Z56",
+        "name": "Problems related to employment and unemployment"
+    },
+    {
+        "code": "Z57",
+        "name": "Occupational exposure to risk-factors"
+    },
+    {
+        "code": "Z58",
+        "name": "Problems related to physical environment"
+    },
+    {
+        "code": "Z59",
+        "name": "Problems related to housing and economic circumstances"
+    },
+    {
+        "code": "Z60",
+        "name": "Problems related to social environment"
+    },
+    {
+        "code": "Z61",
+        "name": "Problems related to negative life events in childhood"
+    },
+    {
+        "code": "Z62",
+        "name": "Other problems related to upbringing"
+    },
+    {
+        "code": "Z63",
+        "name": "Other problems related to primary support group, including family circumstances"
+    },
+    {
+        "code": "Z64",
+        "name": "Problems related to certain psychosocial circumstances"
+    },
+    {
+        "code": "Z65",
+        "name": "Problems related to other psychosocial circumstances"
+    },
+    {
+        "code": "Z70-Z76",
+        "name": "Persons encountering health services in other circumstances"
+    },
+    {
+        "code": "Z70",
+        "name": "Counselling related to sexual attitude, behaviour and orientation"
+    },
+    {
+        "code": "Z71",
+        "name": "Persons encountering health services for other counselling and medical advice, not elsewhere classified"
+    },
+    {
+        "code": "Z72",
+        "name": "Problems related to lifestyle"
+    },
+    {
+        "code": "Z73",
+        "name": "Problems related to life-management difficulty"
+    },
+    {
+        "code": "Z74",
+        "name": "Problems related to care-provider dependency"
+    },
+    {
+        "code": "Z75",
+        "name": "Problems related to medical facilities and other health care"
+    },
+    {
+        "code": "Z76",
+        "name": "Persons encountering health services in other circumstances"
+    },
+    {
+        "code": "Z80-Z99",
+        "name": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status"
+    },
+    {
+        "code": "Z80",
+        "name": "Family history of malignant neoplasm"
+    },
+    {
+        "code": "Z81",
+        "name": "Family history of mental and behavioural disorders"
+    },
+    {
+        "code": "Z82",
+        "name": "Family history of certain disabilities and chronic diseases leading to disablement"
+    },
+    {
+        "code": "Z83",
+        "name": "Family history of other specific disorders"
+    },
+    {
+        "code": "Z84",
+        "name": "Family history of other conditions"
+    },
+    {
+        "code": "Z85",
+        "name": "Personal history of malignant neoplasm"
+    },
+    {
+        "code": "Z86",
+        "name": "Personal history of certain other diseases"
+    },
+    {
+        "code": "Z87",
+        "name": "Personal history of other diseases and conditions"
+    },
+    {
+        "code": "Z88",
+        "name": "Personal history of allergy to drugs, medicaments and biological substances"
+    },
+    {
+        "code": "Z89",
+        "name": "Acquired absence of limb"
+    },
+    {
+        "code": "Z90",
+        "name": "Acquired absence of organs, not elsewhere classified"
+    },
+    {
+        "code": "Z91",
+        "name": "Personal history of risk-factors, not elsewhere classified"
+    },
+    {
+        "code": "Z92",
+        "name": "Personal history of medical treatment"
+    },
+    {
+        "code": "Z93",
+        "name": "Artificial opening status"
+    },
+    {
+        "code": "Z94",
+        "name": "Transplanted organ and tissue status"
+    },
+    {
+        "code": "Z95",
+        "name": "Presence of cardiac and vascular implants and grafts"
+    },
+    {
+        "code": "Z96",
+        "name": "Presence of other functional implants"
+    },
+    {
+        "code": "Z97",
+        "name": "Presence of other devices"
+    },
+    {
+        "code": "Z98",
+        "name": "Other postsurgical states"
+    },
+    {
+        "code": "Z99",
+        "name": "Dependence on enabling machines and devices, not elsewhere classified"
+    },
+    {
+        "code": "XXII",
+        "name": "Codes for special purposes"
+    },
+    {
+        "code": "U00-U49",
+        "name": "Provisional assignment of new diseases of uncertain etiology or emergency use"
+    },
+    {
+        "code": "U04",
+        "name": "Severe acute respiratory syndrome [SARS]"
+    },
+    {
+        "code": "U06",
+        "name": "Zika virus disease"
+    },
+    {
+        "code": "U07",
+        "name": "Emergency use of U07"
+    },
+    {
+        "code": "U82-U85",
+        "name": "Resistance to antimicrobial and antineoplastic drugs"
+    },
+    {
+        "code": "U82",
+        "name": "Resistance to betalactam antibiotics"
+    },
+    {
+        "code": "U83",
+        "name": "Resistance to other antibiotics"
+    },
+    {
+        "code": "U84",
+        "name": "Resistance to other antimicrobial drugs"
+    },
+    {
+        "code": "U85",
+        "name": "Resistance to antineoplastic drugs"
+    }
+]
