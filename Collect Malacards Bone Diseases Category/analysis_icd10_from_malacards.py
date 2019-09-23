@@ -13,7 +13,7 @@ for filename in os.listdir(path):
 # filter has ICD10's malacard
 malacards_has_ICD10_arr = list(filter(lambda obj: len(obj['ICD10']) != 0, malacards_arr))
 
-print(len(malacards_has_ICD10_arr))
+print("\nNumber of diseases with ICD10 code: " + str(len(malacards_has_ICD10_arr)))
 
 # # output json
 # filename = "malacards_has_ICD10.json"
@@ -23,17 +23,29 @@ print(len(malacards_has_ICD10_arr))
 # fo.write(encodedjson)
 # fo.close()
 
-# collect ICD10
+# collect ICD10 (XXX.XX)
 ICD10_list = []
-ICD10_list_XXX = []
 for obj in malacards_has_ICD10_arr:
-    ICD10_list += obj['ICD10']
-    # ICD10_list += map(lambda x: x[:3], obj['ICD10'])
+    ICD10_list += obj['ICD10'] # ICD10 code's fomat is XXX.XX
 
-print(len(ICD10_list))
+print("\nNumber of ICD10 code : " + str(len(ICD10_list)))
 
 # remove repeat ICD code
 ICD10_list = list(set(ICD10_list))
 ICD10_list.sort()
+# print(ICD10_list)
+print("\nNumber of no repeat ICD10 code (XXX.XX) : " + str(len(ICD10_list)))
+
+
+# collect ICD10 (XXX)
+ICD10_list = []
+for obj in malacards_has_ICD10_arr:
+    ICD10_list += map(lambda x: x[:3], obj['ICD10']) # ICD10 code's fomat is XXX
+
+# print("\nNumber of ICD10 code : " + str(len(ICD10_list)) + "\n")
+
+# remove repeat ICD code
+ICD10_list = list(set(ICD10_list))
+ICD10_list.sort()
+print("\nNumber of no repeat ICD10 code (XXX) : " + str(len(ICD10_list)))
 print(ICD10_list)
-print(len(ICD10_list))
