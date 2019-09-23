@@ -3,7 +3,7 @@ import json
 
 # read json files
 malacards_arr = []
-path = os.getcwd() + '/malacards_bone_diseases_category/'
+path = os.getcwd() + '/Collect Malacards Bone Diseases Category/malacards_bone_diseases_category/'
 for filename in os.listdir(path):
 
     with open(path + filename, 'r') as reader:
@@ -27,8 +27,8 @@ print(len(malacards_has_ICD10_arr))
 ICD10_list = []
 ICD10_list_XXX = []
 for obj in malacards_has_ICD10_arr:
-    # ICD10_list += obj['ICD10']
-    ICD10_list += map(lambda x: x[:3], obj['ICD10'])
+    ICD10_list += obj['ICD10']
+    # ICD10_list += map(lambda x: x[:3], obj['ICD10'])
 
 print(len(ICD10_list))
 
