@@ -5,6 +5,7 @@ import time
 from datetime import timedelta
 import os
 import json
+import math
 
 
 def get_driver():
@@ -142,7 +143,7 @@ def run():
 
     # main
     malacards_arr = []
-    start_index = 1500
+    start_index = 0
     num = start_index
     split_num = 100
     for url in urls[start_index:]:
@@ -167,7 +168,7 @@ def run():
 
     # output json for the rest result
     if len(malacards_arr) > 0:
-        filename = "malacards_bone_diseases_category_" + str(num - split_num + 1) + "_" + str(num) + ".json"
+        filename = "malacards_bone_diseases_category_" + str((math.floor(num/split_num) * split_num) + 1) + "_" + str(num) + ".json"
         fo = open(folder + '/' + filename, "w")
         encodedjson = json.dumps(malacards_arr)
         print('Output: ' + filename)
