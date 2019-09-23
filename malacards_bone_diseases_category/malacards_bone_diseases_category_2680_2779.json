@@ -1,0 +1,1893 @@
+[
+    {
+        "MCID": "MNT163",
+        "name": "Mental Retardation, Autosomal Recessive 30",
+        "source_url": "https://www.malacards.org/card/mental_retardation_autosomal_recessive_30?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "macroglossia",
+            "microcephaly",
+            "intellectual disability, severe",
+            "growth delay"
+        ]
+    },
+    {
+        "MCID": "MNT182",
+        "name": "Mental Retardation, Autosomal Recessive 19",
+        "source_url": "https://www.malacards.org/card/mental_retardation_autosomal_recessive_19?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "abnormality of the foot",
+            "motor delay",
+            "intellectual disability, moderate"
+        ]
+    },
+    {
+        "MCID": "MNT277",
+        "name": "Mental Retardation, Autosomal Recessive 54",
+        "source_url": "https://www.malacards.org/card/mental_retardation_autosomal_recessive_54?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "intellectual disability",
+            "delayed speech and language development",
+            "hyperactivity"
+        ]
+    },
+    {
+        "MCID": "MNT281",
+        "name": "Mental Retardation, Autosomal Recessive 59",
+        "source_url": "https://www.malacards.org/card/mental_retardation_autosomal_recessive_59?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "intellectual disability",
+            "paranoia",
+            "aggressive behavior"
+        ]
+    },
+    {
+        "MCID": "MNT243",
+        "name": "Mental Retardation, Autosomal Recessive 50",
+        "source_url": "https://www.malacards.org/card/mental_retardation_autosomal_recessive_50?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "sensorineural hearing impairment",
+            "microcephaly",
+            "intellectual disability, mild"
+        ]
+    },
+    {
+        "MCID": "MNT170",
+        "name": "Mental Retardation, Autosomal Recessive 23",
+        "source_url": "https://www.malacards.org/card/mental_retardation_autosomal_recessive_23?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "intellectual disability, severe",
+            "motor delay"
+        ]
+    },
+    {
+        "MCID": "MNT167",
+        "name": "Mental Retardation, Autosomal Recessive 16",
+        "source_url": "https://www.malacards.org/card/mental_retardation_autosomal_recessive_16?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "intellectual disability",
+            "seizures",
+            "synophrys"
+        ]
+    },
+    {
+        "MCID": "FLN007",
+        "name": "Flna-Related Periventricular Nodular Heterotopia",
+        "source_url": "https://www.malacards.org/card/flna_related_periventricular_nodular_heterotopia?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "TFR002",
+        "name": "Tafro Syndrome",
+        "source_url": "https://www.malacards.org/card/tafro_syndrome?search=Bone%20diseases",
+        "ICD10": [
+            "M35.8"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "ATM064",
+        "name": "Autoimmune Pancreatitis Type 1",
+        "source_url": "https://www.malacards.org/card/autoimmune_pancreatitis_type_1?search=Bone%20diseases",
+        "ICD10": [
+            "K86.1"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "MNT180",
+        "name": "Mental Retardation, Autosomal Recessive 33",
+        "source_url": "https://www.malacards.org/card/mental_retardation_autosomal_recessive_33?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "abnormal facial shape",
+            "short toe",
+            "intellectual disability, moderate",
+            "syndactyly"
+        ]
+    },
+    {
+        "MCID": "MNT284",
+        "name": "Mental Retardation, Autosomal Recessive 56",
+        "source_url": "https://www.malacards.org/card/mental_retardation_autosomal_recessive_56?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "intellectual disability"
+        ]
+    },
+    {
+        "MCID": "MNT161",
+        "name": "Mental Retardation, Autosomal Recessive 29",
+        "source_url": "https://www.malacards.org/card/mental_retardation_autosomal_recessive_29?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "muscular hypotonia",
+            "intellectual disability, severe",
+            "absent speech",
+            "motor delay"
+        ]
+    },
+    {
+        "MCID": "SPN350",
+        "name": "Spondyloepimetaphyseal Dysplasia, X-Linked, with Mental Deterioration",
+        "source_url": "https://www.malacards.org/card/spondyloepimetaphyseal_dysplasia_x_linked_with_mental_deterioration_2?search=Bone%20diseases",
+        "ICD10": [
+            "Q77.7"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "malar flattening",
+            "hypertelorism",
+            "low-set ears",
+            "short neck",
+            "high palate",
+            "seizures",
+            "coarse facial features",
+            "delayed skeletal maturation",
+            "depressed nasal bridge",
+            "thick eyebrow",
+            "short stature",
+            "flexion contracture",
+            "platyspondyly",
+            "wormian bones",
+            "intellectual disability, progressive",
+            "thin ribs",
+            "metaphyseal cupping of metacarpals",
+            "brachydactyly",
+            "broad nasal tip",
+            "flattened epiphysis",
+            "low anterior hairline",
+            "midface retrusion",
+            "thoracic kyphosis",
+            "optic disc pallor",
+            "coxa vara",
+            "short finger",
+            "hypoplasia of the corpus callosum",
+            "broad foot",
+            "broad palm",
+            "hypoplasia of the odontoid process",
+            "flared iliac wings",
+            "small epiphyses",
+            "anterior rib cupping",
+            "short femoral neck",
+            "metaphyseal widening",
+            "delayed cns myelination",
+            "widened subarachnoid space",
+            "spondyloepimetaphyseal dysplasia",
+            "prominent sternum",
+            "peg-like central prominence of distal tibial metaphyses",
+            "cone-shaped capital femoral epiphysis"
+        ]
+    },
+    {
+        "MCID": "MNT160",
+        "name": "Mental Retardation, Autosomal Recessive 31",
+        "source_url": "https://www.malacards.org/card/mental_retardation_autosomal_recessive_31?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "intellectual disability"
+        ]
+    },
+    {
+        "MCID": "EXT008",
+        "name": "Extraosseous Ewings Sarcoma-Primitive Neuroepithelial Tumor",
+        "source_url": "https://www.malacards.org/card/extraosseous_ewings_sarcoma_primitive_neuroepithelial_tumor?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [
+            "fever"
+        ],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "LMB066",
+        "name": "Limb Defects, Distal Transverse, with Mental Retardation and Spasticity",
+        "source_url": "https://www.malacards.org/card/limb_defects_distal_transverse_with_mental_retardation_and_spasticity?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "intellectual disability",
+            "spastic paraplegia",
+            "finger syndactyly",
+            "spasticity",
+            "hyperreflexia",
+            "abnormality of the hip bone",
+            "clinodactyly of the 5th finger",
+            "bilateral single transverse palmar creases",
+            "split hand",
+            "abnormality of the upper limb"
+        ]
+    },
+    {
+        "MCID": "SPN344",
+        "name": "Spondyloepiphyseal Dysplasia with Coronal Craniosynostosis, Cataracts, Cleft Palate, and Mental Retardation",
+        "source_url": "https://www.malacards.org/card/spondyloepiphyseal_dysplasia_with_coronal_craniosynostosis_cataracts_cleft_palate_and_mental_retardation?search=Bone%20diseases",
+        "ICD10": [
+            "Q77.7"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "hypertelorism",
+            "short neck",
+            "cataract",
+            "global developmental delay",
+            "depressed nasal bridge",
+            "short nose",
+            "anteverted nares",
+            "brachycephaly",
+            "long philtrum",
+            "ovoid vertebral bodies",
+            "narrow chest",
+            "platyspondyly",
+            "coxa valga",
+            "epicanthus",
+            "downturned corners of mouth",
+            "flattened epiphysis",
+            "increased bone mineral density",
+            "wide anterior fontanel",
+            "long palpebral fissure",
+            "slender finger",
+            "abnormality of the skull base",
+            "thoracic kyphosis",
+            "flat acetabular roof",
+            "delayed patellar ossification",
+            "wide proximal femoral metaphysis",
+            "anterior plagiocephaly",
+            "frontal bossing",
+            "micrognathia",
+            "hypopigmentation of the fundus",
+            "abnormality of cranial sutures",
+            "hemiatrophy of upper limb",
+            "high palate",
+            "cleft palate",
+            "myopia",
+            "microphthalmia",
+            "retinal detachment",
+            "oligosacchariduria",
+            "abnormality of the elbow",
+            "anisospondyly",
+            "abnormal bone ossification",
+            "abnormality of the femoral neck or head region"
+        ]
+    },
+    {
+        "MCID": "VSC014",
+        "name": "Vascular Hyalinosis",
+        "source_url": "https://www.malacards.org/card/vascular_hyalinosis?search=Bone%20diseases",
+        "ICD10": [
+            "E78.8"
+        ],
+        "sign_or_symptoms": [
+            "diarrhea"
+        ],
+        "HOP_symptoms": [
+            "cerebral calcification",
+            "malabsorption",
+            "premature graying of hair",
+            "hematochezia",
+            "subarachnoid hemorrhage",
+            "protein-losing enteropathy",
+            "poikiloderma",
+            "dilatation",
+            "chorioretinal scar"
+        ]
+    },
+    {
+        "MCID": "MNT257",
+        "name": "Mental Retardation, X-Linked, with Craniofacial Dysmorphism",
+        "source_url": "https://www.malacards.org/card/mental_retardation_x_linked_with_craniofacial_dysmorphism?search=Bone%20diseases",
+        "ICD10": [
+            "Q87.0"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "coarse facial features",
+            "brachycephaly",
+            "prominent forehead",
+            "intellectual disability, moderate",
+            "plagiocephaly",
+            "frontal bossing",
+            "delayed speech and language development",
+            "microcephaly",
+            "intellectual disability, severe",
+            "developmental stagnation",
+            "morning myoclonic jerks",
+            "flat occiput",
+            "decreased fetal movement",
+            "bradycardia",
+            "diffuse cerebral atrophy"
+        ]
+    },
+    {
+        "MCID": "VLJ001",
+        "name": "Viljoen Kallis Voges Syndrome",
+        "source_url": "https://www.malacards.org/card/viljoen_kallis_voges_syndrome?search=Bone%20diseases",
+        "ICD10": [
+            "Q87.8"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "malar flattening",
+            "low-set ears",
+            "macrotia",
+            "microcephaly",
+            "short stature",
+            "decreased muscle mass",
+            "dolichocephaly",
+            "high, narrow palate",
+            "kyphoscoliosis",
+            "flat occiput",
+            "intellectual disability, profound",
+            "shuffling gait",
+            "cataract",
+            "broad thumb",
+            "downslanted palpebral fissures",
+            "atlantoaxial abnormality",
+            "broad hallux",
+            "hypermobility of interphalangeal joints",
+            "wide nasal ridge"
+        ]
+    },
+    {
+        "MCID": "APM002",
+        "name": "Aapoai Amyloidosis",
+        "source_url": "https://www.malacards.org/card/aapoai_amyloidosis?search=Bone%20diseases",
+        "ICD10": [
+            "E85.0"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "ULN022",
+        "name": "Ulnar Hypoplasia with Mental Retardation",
+        "source_url": "https://www.malacards.org/card/ulnar_hypoplasia_with_mental_retardation?search=Bone%20diseases",
+        "ICD10": [
+            "Q87.2"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "absent toenail",
+            "absent fingernail",
+            "intellectual disability",
+            "muscular hypotonia",
+            "global developmental delay",
+            "joint stiffness",
+            "broad hallux phalanx",
+            "broad thumb",
+            "micromelia",
+            "metatarsus adductus",
+            "specific learning disability",
+            "talipes equinovarus",
+            "limited elbow movement",
+            "elbow dislocation",
+            "intellectual disability, profound",
+            "severe short stature",
+            "large fontanelles",
+            "ulnar deviation of finger",
+            "hypoplasia of the ulna",
+            "talipes",
+            "hypoplasia of the radius",
+            "delayed cranial suture closure",
+            "mesomelia",
+            "limitation of knee mobility",
+            "bilateral ulnar hypoplasia"
+        ]
+    },
+    {
+        "MCID": "SPN347",
+        "name": "Spondyloepiphyseal Dysplasia Tarda with Mental Retardation",
+        "source_url": "https://www.malacards.org/card/spondyloepiphyseal_dysplasia_tarda_with_mental_retardation?search=Bone%20diseases",
+        "ICD10": [
+            "Q77.7"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "intellectual disability",
+            "anterior beaking of lumbar vertebrae",
+            "platyspondyly",
+            "coxa valga",
+            "short sacroiliac notch",
+            "spondyloepiphyseal dysplasia"
+        ]
+    },
+    {
+        "MCID": "EYB005",
+        "name": "Eyebrows, Duplication of, with Stretchable Skin and Syndactyly",
+        "source_url": "https://www.malacards.org/card/eyebrows_duplication_of_with_stretchable_skin_and_syndactyly_2?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "long eyelashes",
+            "2-3 toe syndactyly",
+            "hypermobility of interphalangeal joints",
+            "periorbital wrinkles",
+            "partial duplication of eyebrows",
+            "2-4 finger syndactyly",
+            "hyperextensible skin of face",
+            "hyperextensible skin of chest"
+        ]
+    },
+    {
+        "MCID": "AFB003",
+        "name": "Afib Amyloidosis",
+        "source_url": "https://www.malacards.org/card/afib_amyloidosis?search=Bone%20diseases",
+        "ICD10": [
+            "E85.0"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "CRP036",
+        "name": "Corpus Callosum Agenesis-Intellectual Disability-Coloboma-Micrognathia Syndrome",
+        "source_url": "https://www.malacards.org/card/corpus_callosum_agenesis_intellectual_disability_coloboma_micrognathia_syndrome?search=Bone%20diseases",
+        "ICD10": [
+            "Q87.8"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "macrocephaly",
+            "low-set ears",
+            "short neck",
+            "pectus excavatum",
+            "agenesis of corpus callosum",
+            "nystagmus",
+            "intellectual disability",
+            "scoliosis",
+            "sensorineural hearing impairment",
+            "short stature",
+            "retrognathia",
+            "downslanted palpebral fissures",
+            "high forehead",
+            "cupped ear",
+            "high palate",
+            "cleft palate",
+            "patent ductus arteriosus",
+            "prominent nasal bridge",
+            "choanal atresia",
+            "ventricular septal defect",
+            "iris coloboma",
+            "optic nerve coloboma"
+        ]
+    },
+    {
+        "MCID": "APM001",
+        "name": "Aapoaii Amyloidosis",
+        "source_url": "https://www.malacards.org/card/aapoaii_amyloidosis?search=Bone%20diseases",
+        "ICD10": [
+            "E85.0"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "RNL016",
+        "name": "Renal Infectious Disease",
+        "source_url": "https://www.malacards.org/card/renal_infectious_disease?search=Bone%20diseases",
+        "ICD10": [
+            "N15.9"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "ATS394",
+        "name": "Autosomal Dominant Mental Retardation 55",
+        "source_url": "https://www.malacards.org/card/autosomal_dominant_mental_retardation_55?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "C9R002",
+        "name": "C9orf72-Related Amyotrophic Lateral Sclerosis and Frontotemporal Dementia",
+        "source_url": "https://www.malacards.org/card/c9orf72_related_amyotrophic_lateral_sclerosis_and_frontotemporal_dementia?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "RNR002",
+        "name": "Ren-Related Kidney Disease",
+        "source_url": "https://www.malacards.org/card/ren_related_kidney_disease?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "THR121",
+        "name": "Thrombocythemia with Distal Limb Defects",
+        "source_url": "https://www.malacards.org/card/thrombocythemia_with_distal_limb_defects?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "EWN003",
+        "name": "Ewing Sarcoma",
+        "source_url": "https://www.malacards.org/card/ewing_sarcoma?search=Bone%20diseases",
+        "ICD10": [
+            "H44",
+            "H44.9",
+            "C40.0",
+            "C40.1",
+            "C40.2"
+        ],
+        "sign_or_symptoms": [
+            "fever",
+            "visual disturbance",
+            "eye manifestations",
+            "pathological conditions, signs and symptoms",
+            "redness or discharge of eye",
+            "pain in or around eye",
+            "lid retraction"
+        ],
+        "HOP_symptoms": [
+            "peripheral primitive neuroectodermal neoplasm",
+            "seizures",
+            "nausea and vomiting",
+            "ascites",
+            "anemia",
+            "abnormal bleeding",
+            "pruritus",
+            "weight loss",
+            "jaundice",
+            "back pain",
+            "pancreatitis",
+            "anorexia",
+            "vertigo",
+            "headache",
+            "episodic abdominal pain",
+            "hyporeflexia",
+            "ovarian neoplasm",
+            "neoplasm of the pancreas",
+            "abdominal distention",
+            "torticollis",
+            "lower limb muscle weakness",
+            "spinal cord tumor",
+            "metrorrhagia",
+            "uterine neoplasm",
+            "sensory impairment",
+            "elevated carcinoma antigen 125 level",
+            "abnormality of the scalp",
+            "upper limb pain",
+            "brain neoplasm",
+            "pelvic mass",
+            "abnormality of the thoracic spine",
+            "precocious puberty",
+            "increased lactate dehydrogenase activity",
+            "proptosis",
+            "elevated alpha-fetoprotein",
+            "abnormality of the superior cerebellar peduncle",
+            "neoplasm of the scrotum",
+            "ewing sarcoma"
+        ]
+    },
+    {
+        "MCID": "LFR001",
+        "name": "Li-Fraumeni Syndrome",
+        "source_url": "https://www.malacards.org/card/li_fraumeni_syndrome?search=Bone%20diseases",
+        "ICD10": [
+            "D48.9"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "neoplasm of the skin",
+            "lymphoma",
+            "breast carcinoma",
+            "neoplasm of the adrenal cortex",
+            "progressive encephalopathy",
+            "osteosarcoma",
+            "neoplasm of the pancreas",
+            "neoplasm of the nervous system",
+            "neoplasm of the colon",
+            "melanoma",
+            "neoplasm",
+            "lung adenocarcinoma",
+            "colon cancer",
+            "sarcoma",
+            "adrenocortical carcinoma",
+            "acute leukemia",
+            "nephroblastoma",
+            "prostate cancer",
+            "soft tissue sarcoma"
+        ]
+    },
+    {
+        "MCID": "LFR007",
+        "name": "Li-Fraumeni Syndrome 2",
+        "source_url": "https://www.malacards.org/card/li_fraumeni_syndrome_2?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "sarcoma",
+            "breast carcinoma",
+            "meningioma",
+            "stomach cancer",
+            "glioma"
+        ]
+    },
+    {
+        "MCID": "TRC086",
+        "name": "Trichohepatoenteric Syndrome 1",
+        "source_url": "https://www.malacards.org/card/trichohepatoenteric_syndrome_1?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [
+            "thin, sparse hair",
+            "infantile diarrhea"
+        ],
+        "HOP_symptoms": [
+            "tetralogy of fallot",
+            "ventricular septal defect",
+            "thrombocytosis",
+            "pulmonic stenosis",
+            "aortic regurgitation",
+            "increased mean platelet volume",
+            "hypertelorism",
+            "low-set ears",
+            "frontal bossing",
+            "failure to thrive",
+            "hepatomegaly",
+            "microtia",
+            "anteverted nares",
+            "short stature",
+            "cognitive impairment",
+            "prominent forehead",
+            "long philtrum",
+            "intrauterine growth retardation",
+            "hepatic fibrosis",
+            "cirrhosis",
+            "abnormality of iron homeostasis",
+            "jaundice",
+            "wide mouth",
+            "depressed nasal ridge",
+            "abnormality of the pancreas",
+            "downslanted palpebral fissures",
+            "abnormality of the immune system",
+            "hepatic failure",
+            "narrow mouth",
+            "polyhydramnios",
+            "fine hair",
+            "curly hair",
+            "proptosis",
+            "wide nose",
+            "woolly hair",
+            "sparse hair",
+            "large placenta",
+            "bifid uvula",
+            "underdeveloped supraorbital ridges",
+            "trichorrhexis nodosa",
+            "increased serum iron",
+            "hypoalbuminemia",
+            "small for gestational age",
+            "brittle hair",
+            "villous atrophy",
+            "hypermethioninemia",
+            "galactosuria",
+            "renal cortical microcysts",
+            "abnormalities of placenta or umbilical cord",
+            "intractable diarrhea"
+        ]
+    },
+    {
+        "MCID": "HRY003",
+        "name": "Hairy Cell Leukemia",
+        "source_url": "https://www.malacards.org/card/hairy_cell_leukemia?search=Bone%20diseases",
+        "ICD10": [
+            "C91.4",
+            "C91.40",
+            "C91.4"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "ACR008",
+        "name": "Acrocallosal Syndrome",
+        "source_url": "https://www.malacards.org/card/acrocallosal_syndrome?search=Bone%20diseases",
+        "ICD10": [
+            "Q04.0"
+        ],
+        "sign_or_symptoms": [
+            "seizures"
+        ],
+        "HOP_symptoms": [
+            "aplasia/hypoplasia of the corpus callosum",
+            "macrocephaly",
+            "hypertelorism",
+            "intellectual disability, severe",
+            "postaxial hand polydactyly",
+            "preaxial hand polydactyly",
+            "postaxial foot polydactyly",
+            "preaxial foot polydactyly",
+            "duplication of thumb phalanx",
+            "duplication of phalanx of hallux",
+            "inguinal hernia",
+            "prominent occiput",
+            "wide anterior fontanel",
+            "triphalangeal thumb",
+            "sloping forehead",
+            "dandy-walker malformation",
+            "finger syndactyly",
+            "failure to thrive",
+            "umbilical hernia",
+            "short nose",
+            "epicanthus",
+            "growth delay",
+            "broad forehead",
+            "downslanted palpebral fissures",
+            "preauricular skin tag",
+            "toe syndactyly",
+            "sensorineural hearing impairment",
+            "cryptorchidism",
+            "aplasia/hypoplasia of the cerebellum",
+            "hypospadias",
+            "abnormality of the clavicle",
+            "tall stature",
+            "congenital diaphragmatic hernia",
+            "nystagmus",
+            "hearing impairment",
+            "optic atrophy",
+            "strabismus",
+            "tapered finger",
+            "micropenis",
+            "posteriorly rotated ears",
+            "coloboma",
+            "frontal bossing",
+            "high palate",
+            "intellectual disability",
+            "seizures",
+            "wide nasal bridge",
+            "smooth philtrum",
+            "cleft palate",
+            "long philtrum",
+            "abnormality of the pinna"
+        ]
+    },
+    {
+        "MCID": "ACT027",
+        "name": "Acute Pancreatitis",
+        "source_url": "https://www.malacards.org/card/acute_pancreatitis?search=Bone%20diseases",
+        "ICD10": [
+            "K85",
+            "K85.9"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "FML116",
+        "name": "Familial Cold Autoinflammatory Syndrome 1",
+        "source_url": "https://www.malacards.org/card/familial_cold_autoinflammatory_syndrome_1?search=Bone%20diseases",
+        "ICD10": [
+            "L50.2"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "hyperhidrosis",
+            "arthritis",
+            "fever",
+            "fatigue",
+            "pruritus",
+            "myalgia",
+            "erythema",
+            "urticaria",
+            "dysesthesia",
+            "nausea and vomiting",
+            "headache",
+            "sensorineural hearing impairment",
+            "dehydration",
+            "polydipsia",
+            "arthralgia",
+            "abdominal pain",
+            "conjunctivitis",
+            "renal amyloidosis",
+            "leukocytosis",
+            "recurrent fever"
+        ]
+    },
+    {
+        "MCID": "DHY002",
+        "name": "Dihydropyrimidine Dehydrogenase Deficiency",
+        "source_url": "https://www.malacards.org/card/dihydropyrimidine_dehydrogenase_deficiency?search=Bone%20diseases",
+        "ICD10": [
+            "E79.8"
+        ],
+        "sign_or_symptoms": [
+            "seizures",
+            "lethargy"
+        ],
+        "HOP_symptoms": [
+            "agenesis of corpus callosum",
+            "nystagmus",
+            "intellectual disability",
+            "seizures",
+            "muscular hypotonia",
+            "failure to thrive",
+            "tetraplegia",
+            "delayed speech and language development",
+            "microcephaly",
+            "optic atrophy",
+            "hypertonia",
+            "autism",
+            "growth delay",
+            "motor delay",
+            "microphthalmia",
+            "lethargy",
+            "generalized hypotonia",
+            "hyperactivity",
+            "cerebral atrophy",
+            "coloboma",
+            "reduced dihydropyrimidine dehydrogenase activity"
+        ]
+    },
+    {
+        "MCID": "TMR018",
+        "name": "Tumoral Calcinosis, Hyperphosphatemic, Familial, 1",
+        "source_url": "https://www.malacards.org/card/tumoral_calcinosis_hyperphosphatemic_familial_1?search=Bone%20diseases",
+        "ICD10": [
+            "M11.2",
+            "M11.2"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "nephrocalcinosis",
+            "taurodontia",
+            "hyperostosis",
+            "abnormality of the skin",
+            "hyperphosphatemia",
+            "hypoplasia of dental enamel",
+            "pulp stones",
+            "calcinosis",
+            "increased renal tubular phosphate reabsorption",
+            "decreased renal tubular phosphate excretion",
+            "angioid streaks of the fundus",
+            "vascular calcification",
+            "conjunctival whitish salt-like deposits",
+            "subperiosteal bone formation"
+        ]
+    },
+    {
+        "MCID": "CRN239",
+        "name": "Carnitine Deficiency, Systemic Primary",
+        "source_url": "https://www.malacards.org/card/carnitine_deficiency_systemic_primary?search=Bone%20diseases",
+        "ICD10": [
+            "E71.41",
+            "E71.3"
+        ],
+        "sign_or_symptoms": [
+            "muscle weakness"
+        ],
+        "HOP_symptoms": [
+            "hepatomegaly",
+            "vomiting",
+            "elevated hepatic transaminase",
+            "confusion",
+            "generalized tonic-clonic seizures with focal onset",
+            "clumsiness",
+            "neck muscle weakness",
+            "acute encephalopathy",
+            "muscle weakness",
+            "muscular hypotonia",
+            "failure to thrive",
+            "myopathy",
+            "cardiomegaly",
+            "hypertrophic cardiomyopathy",
+            "hypoglycemia",
+            "congestive heart failure",
+            "hepatic steatosis",
+            "coma",
+            "hyperammonemia",
+            "lethargy",
+            "generalized hypotonia",
+            "encephalopathy",
+            "recurrent hypoglycemia",
+            "excessive daytime somnolence",
+            "endocardial fibroelastosis",
+            "decreased plasma carnitine",
+            "impaired gluconeogenesis",
+            "reduced muscle carnitine level",
+            "decreased carnitine level in liver"
+        ]
+    },
+    {
+        "MCID": "RYS001",
+        "name": "Reye Syndrome",
+        "source_url": "https://www.malacards.org/card/reye_syndrome?search=Bone%20diseases",
+        "ICD10": [
+            "G93.7",
+            "K76.0",
+            "G93.7"
+        ],
+        "sign_or_symptoms": [
+            "seizures",
+            "tremor",
+            "back pain",
+            "pain",
+            "headache",
+            "syncope",
+            "chronic pain",
+            "sciatica",
+            "vertigo/dizziness",
+            "sleeplessness"
+        ],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "AMY084",
+        "name": "Amyloidosis, Finnish Type",
+        "source_url": "https://www.malacards.org/card/amyloidosis_finnish_type?search=Bone%20diseases",
+        "ICD10": [
+            "E85.1"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "renal insufficiency",
+            "cardiomyopathy",
+            "nephrotic syndrome",
+            "polyneuropathy",
+            "bulbar palsy",
+            "cutis laxa",
+            "lattice corneal dystrophy",
+            "generalized amyloid deposition",
+            "abnormality of abdomen morphology",
+            "cardiac amyloidosis"
+        ]
+    },
+    {
+        "MCID": "AMY082",
+        "name": "Amyloidosis, Familial Visceral",
+        "source_url": "https://www.malacards.org/card/amyloidosis_familial_visceral?search=Bone%20diseases",
+        "ICD10": [
+            "E85.0"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "hypertension",
+            "splenomegaly",
+            "hepatomegaly",
+            "proteinuria",
+            "nephropathy",
+            "edema",
+            "nephrotic syndrome",
+            "hematuria",
+            "cholestasis",
+            "skin rash",
+            "generalized amyloid deposition"
+        ]
+    },
+    {
+        "MCID": "PRV002",
+        "name": "Periventricular Nodular Heterotopia",
+        "source_url": "https://www.malacards.org/card/periventricular_nodular_heterotopia?search=Bone%20diseases",
+        "ICD10": [
+            "Q04.8"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "scoliosis",
+            "gastroesophageal reflux",
+            "abnormal bleeding",
+            "abnormality of the heart valves",
+            "hernia",
+            "patent ductus arteriosus",
+            "thin skin",
+            "abnormality of nervous system morphology",
+            "aortic dilatation",
+            "joint hypermobility",
+            "focal-onset seizure",
+            "patellar dislocation",
+            "pyloric stenosis",
+            "shoulder dislocation",
+            "aortic regurgitation",
+            "periventricular gray matter heterotopia"
+        ]
+    },
+    {
+        "MCID": "CTS045",
+        "name": "Cutis Laxa, Autosomal Dominant 1",
+        "source_url": "https://www.malacards.org/card/cutis_laxa_autosomal_dominant_1?search=Bone%20diseases",
+        "ICD10": [
+            "Q82.8",
+            "Q82.8"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "redundant skin",
+            "premature skin wrinkling",
+            "hypertelorism",
+            "full cheeks",
+            "joint hyperflexibility",
+            "bowel diverticulosis",
+            "inguinal hernia",
+            "umbilical hernia",
+            "emphysema",
+            "pulmonic stenosis",
+            "aortic aneurysm",
+            "abnormal heart valve morphology",
+            "prematurely aged appearance",
+            "abnormality of the heart valves",
+            "hernia",
+            "mitral regurgitation",
+            "abnormality of the face",
+            "aortic regurgitation",
+            "cutis laxa"
+        ]
+    },
+    {
+        "MCID": "ACR012",
+        "name": "Aicardi Syndrome",
+        "source_url": "https://www.malacards.org/card/aicardi_syndrome?search=Bone%20diseases",
+        "ICD10": [
+            "H30.9",
+            "H32",
+            "Q04.0"
+        ],
+        "sign_or_symptoms": [
+            "seizures"
+        ],
+        "HOP_symptoms": [
+            "abnormality of retinal pigmentation",
+            "intellectual disability, severe",
+            "severe global developmental delay",
+            "intellectual disability, moderate",
+            "pachygyria",
+            "partial agenesis of the corpus callosum",
+            "polymicrogyria",
+            "moderate global developmental delay",
+            "infantile spasms",
+            "muscular hypotonia",
+            "spasticity",
+            "eeg abnormality",
+            "scoliosis",
+            "microcephaly",
+            "hemiplegia/hemiparesis",
+            "protruding ear",
+            "ventriculomegaly",
+            "aplasia/hypoplasia of the cerebellum",
+            "short philtrum",
+            "microphthalmia",
+            "bifid ribs",
+            "rib fusion",
+            "missing ribs",
+            "block vertebrae",
+            "butterfly vertebrae",
+            "sparse lateral eyebrow",
+            "supernumerary ribs",
+            "prominence of the premaxilla",
+            "nystagmus",
+            "precocious puberty",
+            "constipation",
+            "hip dysplasia",
+            "malabsorption",
+            "optic atrophy",
+            "gastroesophageal reflux",
+            "feeding difficulties in infancy",
+            "delayed puberty",
+            "cleft palate",
+            "multiple lipomas",
+            "chorioretinal coloboma",
+            "small hand",
+            "retinal detachment",
+            "abnormality of skin pigmentation",
+            "cleft upper lip",
+            "intestinal polyposis",
+            "optic nerve coloboma",
+            "plagiocephaly",
+            "hiatus hernia",
+            "hepatoblastoma",
+            "cataract"
+        ]
+    },
+    {
+        "MCID": "HYP752",
+        "name": "Hypocalciuric Hypercalcemia, Familial, Type I",
+        "source_url": "https://www.malacards.org/card/hypocalciuric_hypercalcemia_familial_type_i?search=Bone%20diseases",
+        "ICD10": [
+            "E83.5",
+            "E83.5"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "hypercalciuria",
+            "pancreatitis",
+            "nephrolithiasis",
+            "hyperparathyroidism",
+            "hypercalcemia",
+            "hypermagnesemia",
+            "hypocalciuria"
+        ]
+    },
+    {
+        "MCID": "INT324",
+        "name": "Intrauterine Growth Retardation, Metaphyseal Dysplasia, Adrenal Hypoplasia Congenita, and Genital Anomalies",
+        "source_url": "https://www.malacards.org/card/intrauterine_growth_retardation_metaphyseal_dysplasia_adrenal_hypoplasia_congenita_and_genital_anomalies?search=Bone%20diseases",
+        "ICD10": [
+            "Q87.1"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "low-set ears",
+            "frontal bossing",
+            "muscular hypotonia",
+            "depressed nasal bridge",
+            "micromelia",
+            "cryptorchidism",
+            "intrauterine growth retardation",
+            "hypogonadism",
+            "hypospadias",
+            "hydronephrosis",
+            "adrenal hypoplasia",
+            "metaphyseal dysplasia",
+            "macrocephaly",
+            "global developmental delay",
+            "delayed skeletal maturation",
+            "short nose",
+            "prominent forehead",
+            "epiphyseal dysplasia",
+            "postnatal growth retardation",
+            "hypercalciuria",
+            "hypercalcemia",
+            "abnormality of the genital system",
+            "micropenis",
+            "growth hormone deficiency"
+        ]
+    },
+    {
+        "MCID": "RCR022",
+        "name": "Recurrent Acute Pancreatitis",
+        "source_url": "https://www.malacards.org/card/recurrent_acute_pancreatitis?search=Bone%20diseases",
+        "ICD10": [
+            "K85.0",
+            "K85.1",
+            "K85.2"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "CRB174",
+        "name": "Cerebral Amyloid Angiopathy, Itm2b-Related, 2",
+        "source_url": "https://www.malacards.org/card/cerebral_amyloid_angiopathy_itm2b_related_2?search=Bone%20diseases",
+        "ICD10": [
+            "E85.4+",
+            "I68.0*"
+        ],
+        "sign_or_symptoms": [
+            "cerebellar ataxia"
+        ],
+        "HOP_symptoms": [
+            "ataxia",
+            "spasticity",
+            "hearing impairment",
+            "intention tremor",
+            "psychosis",
+            "dementia",
+            "neurofibrillary tangles",
+            "posterior polar cataract",
+            "cerebral amyloid angiopathy"
+        ]
+    },
+    {
+        "MCID": "MCK030",
+        "name": "Meckel Syndrome, Type 7",
+        "source_url": "https://www.malacards.org/card/meckel_syndrome_type_7?search=Bone%20diseases",
+        "ICD10": [
+            "Q61.9"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "multicystic kidney dysplasia",
+            "dandy-walker malformation",
+            "renal dysplasia",
+            "abnormality of the pancreas",
+            "polyhydramnios",
+            "intestinal malrotation",
+            "oligohydramnios",
+            "pulmonary hypoplasia",
+            "abnormal liver parenchyma morphology",
+            "abnormal biliary tract morphology",
+            "inguinal hernia",
+            "hypertonia",
+            "portal hypertension",
+            "patent ductus arteriosus",
+            "atrial septal defect",
+            "biliary cirrhosis",
+            "pancreatic cysts",
+            "cholestasis",
+            "high forehead",
+            "large fontanelles",
+            "postaxial foot polydactyly",
+            "situs inversus totalis",
+            "aortic valve stenosis",
+            "hepatosplenomegaly",
+            "stage 5 chronic kidney disease",
+            "multiple glomerular cysts",
+            "right ventricular hypertrophy",
+            "choroid plexus cyst",
+            "bile duct proliferation"
+        ]
+    },
+    {
+        "MCID": "PRV019",
+        "name": "Periventricular Nodular Heterotopia 1",
+        "source_url": "https://www.malacards.org/card/periventricular_nodular_heterotopia_1?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "scoliosis",
+            "gastroesophageal reflux",
+            "abnormal bleeding",
+            "hernia",
+            "pyloric stenosis",
+            "patent ductus arteriosus",
+            "thin skin",
+            "joint hypermobility",
+            "focal-onset seizure",
+            "aortic regurgitation",
+            "periventricular heterotopia",
+            "abnormal heart valve morphology",
+            "patellar dislocation",
+            "shoulder dislocation",
+            "aortic aneurysm",
+            "seizures",
+            "intellectual disability, mild",
+            "bicuspid aortic valve",
+            "abnormality of neuronal migration",
+            "stroke",
+            "abnormality of the coagulation cascade",
+            "gray matter heterotopia"
+        ]
+    },
+    {
+        "MCID": "TMT002",
+        "name": "Temtamy Preaxial Brachydactyly Syndrome",
+        "source_url": "https://www.malacards.org/card/temtamy_preaxial_brachydactyly_syndrome?search=Bone%20diseases",
+        "ICD10": [
+            "Q87.2"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "optic atrophy",
+            "cleft palate",
+            "radioulnar synostosis",
+            "blue sclerae",
+            "clinodactyly",
+            "microdontia",
+            "brachydactyly",
+            "deep philtrum",
+            "highly arched eyebrow",
+            "synophrys",
+            "short metacarpal",
+            "tarsal synostosis",
+            "syndactyly",
+            "short metatarsal",
+            "bilateral sensorineural hearing impairment",
+            "carpal synostosis",
+            "talon cusp",
+            "diastema",
+            "hitchhiker thumb"
+        ]
+    },
+    {
+        "MCID": "MNT236",
+        "name": "Mental Retardation, Autosomal Dominant 39",
+        "source_url": "https://www.malacards.org/card/mental_retardation_autosomal_dominant_39?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "obesity",
+            "intellectual disability",
+            "global developmental delay",
+            "delayed speech and language development",
+            "aggressive behavior"
+        ]
+    },
+    {
+        "MCID": "MNT334",
+        "name": "Mental Retardation, Autosomal Dominant 57",
+        "source_url": "https://www.malacards.org/card/mental_retardation_autosomal_dominant_57?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "high palate",
+            "ptosis",
+            "intellectual disability",
+            "seizures",
+            "constipation",
+            "scoliosis",
+            "kyphosis",
+            "global developmental delay",
+            "delayed speech and language development",
+            "feeding difficulties",
+            "strabismus",
+            "epicanthus",
+            "attention deficit hyperactivity disorder",
+            "anxiety",
+            "toe walking",
+            "motor delay",
+            "prominent nasal bridge",
+            "telecanthus",
+            "narrow mouth",
+            "upslanted palpebral fissure",
+            "broad nasal tip",
+            "long face",
+            "obsessive-compulsive behavior",
+            "diarrhea",
+            "otitis media",
+            "blepharophimosis",
+            "autistic behavior",
+            "posteriorly rotated ears"
+        ]
+    },
+    {
+        "MCID": "MNT282",
+        "name": "Mental Retardation, Autosomal Recessive 55",
+        "source_url": "https://www.malacards.org/card/mental_retardation_autosomal_recessive_55?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "coarse facial features",
+            "global developmental delay",
+            "microcephaly",
+            "strabismus",
+            "ventriculomegaly",
+            "intellectual disability, profound",
+            "generalized hypotonia",
+            "cerebral atrophy",
+            "arachnoid cyst"
+        ]
+    },
+    {
+        "MCID": "CRN268",
+        "name": "Craniostenosis, Sagittal, with Congenital Heart Disease, Mental Deficiency, and Mandibular Ankylosis",
+        "source_url": "https://www.malacards.org/card/craniostenosis_sagittal_with_congenital_heart_disease_mental_deficiency_and_mandibular_ankylosis?search=Bone%20diseases",
+        "ICD10": [
+            "Q87.8"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "global developmental delay",
+            "micrognathia",
+            "intrauterine growth retardation",
+            "temporomandibular joint ankylosis",
+            "sagittal craniosynostosis",
+            "hypertelorism",
+            "intellectual disability",
+            "wide nasal bridge",
+            "umbilical hernia",
+            "short stature",
+            "prominent forehead",
+            "dolichocephaly",
+            "cryptorchidism",
+            "high, narrow palate",
+            "hypospadias",
+            "low-set, posteriorly rotated ears",
+            "downslanted palpebral fissures",
+            "slender finger",
+            "sparse hair",
+            "bifid uvula",
+            "torticollis",
+            "micropenis",
+            "broad philtrum",
+            "deep palmar crease",
+            "episodic tachypnea",
+            "abnormal hair whorl",
+            "abnormal heart morphology",
+            "small hypothenar eminence",
+            "plantar flexion contractures",
+            "contracture of the proximal interphalangeal joint of the 2nd finger",
+            "cutaneous syndactyly of toes",
+            "abnormal trachea morphology",
+            "growth delay",
+            "low-set ears",
+            "trismus",
+            "abnormality of cardiovascular system morphology",
+            "abnormality of the trachea",
+            "microphallus",
+            "abnormal tracheobronchial morphology"
+        ]
+    },
+    {
+        "MCID": "MNT207",
+        "name": "Mental Retardation, X-Linked, Syndromic 32",
+        "source_url": "https://www.malacards.org/card/mental_retardation_x_linked_syndromic_32?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [
+            "seizures"
+        ],
+        "HOP_symptoms": [
+            "hydrocephalus",
+            "spasticity",
+            "kyphoscoliosis",
+            "atrial flutter",
+            "seizures",
+            "macrotia",
+            "global developmental delay",
+            "macroorchidism",
+            "cardiomegaly",
+            "congestive heart failure",
+            "absent speech",
+            "intellectual disability, profound",
+            "contractures of the large joints"
+        ]
+    },
+    {
+        "MCID": "SCP007",
+        "name": "Scaphocephaly, Maxillary Retrusion, and Mental Retardation",
+        "source_url": "https://www.malacards.org/card/scaphocephaly_maxillary_retrusion_and_mental_retardation?search=Bone%20diseases",
+        "ICD10": [
+            "Q87.0"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "macrocephaly",
+            "hypertelorism",
+            "high forehead",
+            "high palate",
+            "open bite",
+            "intellectual disability, mild",
+            "dolichocephaly",
+            "midface retrusion",
+            "mandibular prognathia",
+            "broad hallux phalanx",
+            "ventriculomegaly",
+            "trigonocephaly",
+            "upslanted palpebral fissure",
+            "toe syndactyly",
+            "intellectual disability"
+        ]
+    },
+    {
+        "MCID": "FML270",
+        "name": "Familial Cold Autoinflammatory Syndrome 4",
+        "source_url": "https://www.malacards.org/card/familial_cold_autoinflammatory_syndrome_4?search=Bone%20diseases",
+        "ICD10": [
+            "L50.2"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "arthralgia"
+        ]
+    },
+    {
+        "MCID": "MNT279",
+        "name": "Mental Retardation, Autosomal Dominant 47",
+        "source_url": "https://www.malacards.org/card/mental_retardation_autosomal_dominant_47?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "seizures",
+            "cerebral atrophy",
+            "intellectual disability",
+            "global developmental delay",
+            "delayed speech and language development",
+            "gastroesophageal reflux",
+            "feeding difficulties",
+            "deeply set eye",
+            "thin eyebrow"
+        ]
+    },
+    {
+        "MCID": "ATM091",
+        "name": "Autoimmune Hemolytic Anemia-Autoimmune Thrombocytopenia-Primary Immunodeficiency Syndrome",
+        "source_url": "https://www.malacards.org/card/autoimmune_hemolytic_anemia_autoimmune_thrombocytopenia_primary_immunodeficiency_syndrome?search=Bone%20diseases",
+        "ICD10": [
+            "D61.0"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "autoimmune thrombocytopenia",
+            "hepatitis",
+            "recurrent otitis media",
+            "lymphopenia",
+            "stroke",
+            "moderate global developmental delay",
+            "lymphadenopathy",
+            "systemic lupus erythematosus",
+            "autoimmune hemolytic anemia",
+            "respiratory tract infection",
+            "splenomegaly",
+            "hemiparesis",
+            "hemolytic anemia",
+            "autoimmunity"
+        ]
+    },
+    {
+        "MCID": "MTP032",
+        "name": "Metaphyseal Dysostosis, Mental Retardation, and Conductive Deafness",
+        "source_url": "https://www.malacards.org/card/metaphyseal_dysostosis_mental_retardation_and_conductive_deafness?search=Bone%20diseases",
+        "ICD10": [
+            "Q78.5"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "intellectual disability, mild",
+            "strabismus",
+            "short palm",
+            "short long bone",
+            "short foot",
+            "recurrent otitis media",
+            "joint laxity",
+            "conductive hearing impairment",
+            "genu varum",
+            "disproportionate short-limb short stature",
+            "narrow iliac wings",
+            "broad foot",
+            "broad palm",
+            "metaphyseal dysplasia",
+            "hypermetropia",
+            "metaphyseal widening",
+            "metaphyseal dysostosis",
+            "broad phalanx",
+            "obesity",
+            "genu valgum",
+            "scoliosis",
+            "abnormality of the nail",
+            "carpal bone hypoplasia",
+            "brachydactyly",
+            "coxa vara",
+            "cupped ribs",
+            "irregular iliac crest",
+            "lumbar hyperlordosis",
+            "long fibula",
+            "bowing of the legs",
+            "short ribs",
+            "short femoral neck",
+            "flared metaphysis",
+            "aplasia/hypoplasia of metatarsal bones",
+            "broad tibial metaphyses",
+            "broad femoral metaphyses",
+            "equinovarus deformity",
+            "antecubital pterygium",
+            "metaphyseal irregularity",
+            "metaphyseal cupping",
+            "anterior polar cataract",
+            "irregular chondrocostal junctions",
+            "flat glenoid fossa"
+        ]
+    },
+    {
+        "MCID": "PRS050",
+        "name": "Prss1-Related Hereditary Pancreatitis",
+        "source_url": "https://www.malacards.org/card/prss1_related_hereditary_pancreatitis?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "ESS003",
+        "name": "Essential Thrombocythemia",
+        "source_url": "https://www.malacards.org/card/essential_thrombocythemia?search=Bone%20diseases",
+        "ICD10": [
+            "D47.3",
+            "D47.3",
+            "D75.2"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "myocardial infarction",
+            "abnormal bleeding",
+            "transient ischemic attack",
+            "venous thrombosis",
+            "paresthesia",
+            "amaurosis fugax",
+            "thrombocytosis",
+            "chest pain",
+            "prolonged bleeding time",
+            "abnormal platelet morphology",
+            "arterial thrombosis",
+            "increased megakaryocyte count",
+            "hyperhidrosis",
+            "splenomegaly",
+            "pruritus",
+            "headache",
+            "peripheral arterial stenosis",
+            "seizures",
+            "dysarthria",
+            "pulmonary arterial hypertension",
+            "myelodysplasia",
+            "acute myeloid leukemia",
+            "weight loss",
+            "visual field defect",
+            "vertigo",
+            "acute leukemia",
+            "syncope",
+            "spontaneous abortion",
+            "myelofibrosis",
+            "chronic myelogenous leukemia",
+            "cerebral ischemia",
+            "abnormality of the cerebral vasculature",
+            "abnormality of thrombocytes",
+            "abnormality of bone marrow cell morphology",
+            "occlusive vascular disease"
+        ]
+    },
+    {
+        "MCID": "THR090",
+        "name": "Thrombocythemia 1",
+        "source_url": "https://www.malacards.org/card/thrombocythemia_1?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "hypertension",
+            "splenomegaly",
+            "acrocyanosis",
+            "abnormality of the skeletal system",
+            "thrombocytosis",
+            "myeloproliferative disorder",
+            "impaired platelet aggregation"
+        ]
+    },
+    {
+        "MCID": "THR086",
+        "name": "Thrombocythemia 3",
+        "source_url": "https://www.malacards.org/card/thrombocythemia_3?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "thrombocytosis"
+        ]
+    },
+    {
+        "MCID": "THR087",
+        "name": "Thrombocythemia 2",
+        "source_url": "https://www.malacards.org/card/thrombocythemia_2?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "thrombocytosis"
+        ]
+    },
+    {
+        "MCID": "ACR001",
+        "name": "Aicardi-Goutieres Syndrome",
+        "source_url": "https://www.malacards.org/card/aicardi_goutieres_syndrome?search=Bone%20diseases",
+        "ICD10": [
+            "G31.8",
+            "G31.8"
+        ],
+        "sign_or_symptoms": [
+            "seizures",
+            "petechiae of skin"
+        ],
+        "HOP_symptoms": [
+            "global developmental delay",
+            "arrhinencephaly",
+            "intellectual disability, profound",
+            "multifocal cerebral white matter abnormalities",
+            "porencephalic cyst",
+            "brain atrophy",
+            "seizures",
+            "developmental regression",
+            "cerebral calcification",
+            "microcephaly",
+            "short stature",
+            "irritability",
+            "hemiplegia/hemiparesis",
+            "dry skin",
+            "elevated hepatic transaminase",
+            "autoimmunity",
+            "dystonia",
+            "ventriculomegaly",
+            "difficulty walking",
+            "hypoplasia of the corpus callosum",
+            "leukodystrophy",
+            "hepatosplenomegaly",
+            "large beaked nose",
+            "increased csf interferon alpha",
+            "increased serum interferon-gamma level",
+            "unexplained fevers",
+            "loss of speech",
+            "extrapyramidal muscular rigidity",
+            "muscular hypotonia of the trunk",
+            "chronic csf lymphocytosis",
+            "eyelid coloboma",
+            "chilblains",
+            "low-set ears",
+            "ptosis",
+            "nystagmus",
+            "diabetes mellitus",
+            "hypothyroidism",
+            "tremor",
+            "scoliosis",
+            "abnormal pyramidal sign",
+            "arthritis",
+            "acrocyanosis",
+            "cardiomegaly",
+            "spastic tetraplegia",
+            "multiple joint contractures",
+            "muscle stiffness",
+            "headache",
+            "hoarse voice",
+            "plagiocephaly",
+            "prolonged neonatal jaundice"
+        ]
+    },
+    {
+        "MCID": "MCK007",
+        "name": "Muckle-Wells Syndrome",
+        "source_url": "https://www.malacards.org/card/muckle_wells_syndrome?search=Bone%20diseases",
+        "ICD10": [
+            "E85.0"
+        ],
+        "sign_or_symptoms": [
+            "lower extremity pain"
+        ],
+        "HOP_symptoms": [
+            "arthritis",
+            "splenomegaly",
+            "hepatomegaly",
+            "cranial nerve paralysis",
+            "arthralgia",
+            "conjunctivitis",
+            "skin rash",
+            "uveitis",
+            "broad foot",
+            "episcleritis",
+            "progressive sensorineural hearing impairment",
+            "nephropathy",
+            "abdominal pain",
+            "nephrotic syndrome",
+            "urticaria",
+            "elevated erythrocyte sedimentation rate",
+            "renal amyloidosis",
+            "macrocephaly",
+            "optic atrophy",
+            "short stature",
+            "ichthyosis",
+            "delayed puberty",
+            "fever",
+            "anemia",
+            "pes cavus",
+            "myalgia",
+            "hernia of the abdominal wall",
+            "glaucoma",
+            "abnormality of the voice",
+            "vasculitis",
+            "abnormal palate morphology",
+            "abnormality of the genital system",
+            "camptodactyly of finger",
+            "abnormality of the nose",
+            "recurrent aphthous stomatitis",
+            "restrictive ventilatory defect",
+            "hearing impairment",
+            "renal insufficiency",
+            "abnormality of metabolism/homeostasis",
+            "abnormality of the mouth",
+            "leukocytosis",
+            "abnormality of the skin",
+            "recurrent fever"
+        ]
+    },
+    {
+        "MCID": "HRD002",
+        "name": "Hereditary Angioedema",
+        "source_url": "https://www.malacards.org/card/hereditary_angioedema?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "angioedema",
+            "ascites",
+            "abdominal pain",
+            "intestinal obstruction",
+            "facial edema",
+            "intestinal edema",
+            "laryngeal edema"
+        ]
+    },
+    {
+        "MCID": "CRB176",
+        "name": "Cerebral Amyloid Angiopathy, Itm2b-Related, 1",
+        "source_url": "https://www.malacards.org/card/cerebral_amyloid_angiopathy_itm2b_related_1?search=Bone%20diseases",
+        "ICD10": [
+            "E85.4+",
+            "I68.0*"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "spasticity",
+            "tremor",
+            "hypertonia",
+            "rigidity",
+            "dementia",
+            "progressive neurologic deterioration",
+            "cerebral amyloid angiopathy"
+        ]
+    },
+    {
+        "MCID": "HRD084",
+        "name": "Hereditary Cerebral Amyloid Angiopathy",
+        "source_url": "https://www.malacards.org/card/hereditary_cerebral_amyloid_angiopathy?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "PNC044",
+        "name": "Pancreatitis",
+        "source_url": "https://www.malacards.org/card/pancreatitis?search=Bone%20diseases",
+        "ICD10": [
+            "K85.9"
+        ],
+        "sign_or_symptoms": [
+            "nausea and vomiting",
+            "constipation",
+            "abdominal pain",
+            "diarrhea",
+            "icterus",
+            "dyspepsia",
+            "heartburn",
+            "gastrointestinal gas"
+        ],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "PNC108",
+        "name": "Pancreatitis, Hereditary",
+        "source_url": "https://www.malacards.org/card/pancreatitis_hereditary?search=Bone%20diseases",
+        "ICD10": [
+            "K86.1"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "abdominal pain",
+            "leukocytosis",
+            "elevated c-reactive protein level",
+            "recurrent pancreatitis",
+            "abnormal enzyme/coenzyme activity",
+            "diabetes mellitus",
+            "jaundice",
+            "pancreatic calcification",
+            "splanchnic vein thrombosis",
+            "fever",
+            "abnormal thrombosis",
+            "exocrine pancreatic insufficiency",
+            "pancreatitis",
+            "pleural effusion",
+            "steatorrhea",
+            "pancreatic pseudocyst"
+        ]
+    }
+]

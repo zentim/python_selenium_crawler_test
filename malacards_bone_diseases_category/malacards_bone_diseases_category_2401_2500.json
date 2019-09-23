@@ -1,0 +1,1487 @@
+[
+    {
+        "MCID": "ADM012",
+        "name": "Adams-Oliver Syndrome 6",
+        "source_url": "https://www.malacards.org/card/adams_oliver_syndrome_6_2?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "portal hypertension",
+            "hypoplastic toenails",
+            "hepatic fibrosis",
+            "renal hypoplasia",
+            "esophageal varix",
+            "cutis marmorata",
+            "brachydactyly",
+            "ventricular septal defect",
+            "truncus arteriosus",
+            "tricuspid regurgitation",
+            "syndactyly",
+            "foot oligodactyly",
+            "aplasia cutis congenita of scalp",
+            "calvarial skull defect"
+        ]
+    },
+    {
+        "MCID": "FML337",
+        "name": "Familial Chilblain Lupus",
+        "source_url": "https://www.malacards.org/card/familial_chilblain_lupus?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "FML344",
+        "name": "Familial Mediterranean Fever, Autosomal Dominant",
+        "source_url": "https://www.malacards.org/card/familial_mediterranean_fever_autosomal_dominant?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "arthritis",
+            "renal insufficiency",
+            "proteinuria",
+            "arthralgia",
+            "abdominal pain",
+            "chest pain",
+            "peritonitis",
+            "pleuritis",
+            "renal amyloidosis",
+            "polyarticular arthritis",
+            "recurrent fever"
+        ]
+    },
+    {
+        "MCID": "EXC004",
+        "name": "Exocrine Pancreatic Insufficiency, Dyserythropoietic Anemia, and Calvarial Hyperostosis",
+        "source_url": "https://www.malacards.org/card/exocrine_pancreatic_insufficiency_dyserythropoietic_anemia_and_calvarial_hyperostosis?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "osteopenia",
+            "failure to thrive",
+            "global developmental delay",
+            "splenomegaly",
+            "hepatomegaly",
+            "delayed skeletal maturation",
+            "carious teeth",
+            "anemia",
+            "jaundice",
+            "exocrine pancreatic insufficiency",
+            "asthma",
+            "skin rash",
+            "calvarial hyperostosis",
+            "malnutrition",
+            "steatorrhea",
+            "allergic rhinitis",
+            "anemia of inadequate production"
+        ]
+    },
+    {
+        "MCID": "THV001",
+        "name": "Thauvin-Robinet-Faivre Syndrome",
+        "source_url": "https://www.malacards.org/card/thauvin_robinet_faivre_syndrome?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "macrocephaly",
+            "pes planus",
+            "sensorineural hearing impairment",
+            "ventricular septal defect",
+            "nephroblastoma",
+            "renal cyst",
+            "renal dysplasia",
+            "bowing of the legs",
+            "hypertelorism",
+            "macroglossia",
+            "macrotia",
+            "global developmental delay",
+            "thick vermilion border",
+            "intellectual disability, mild",
+            "strabismus",
+            "epicanthus",
+            "mitral valve prolapse",
+            "deeply set eye",
+            "downslanted palpebral fissures",
+            "round face",
+            "varicose veins",
+            "midface retrusion",
+            "large hands",
+            "large for gestational age",
+            "overgrowth",
+            "long hallux",
+            "coloboma",
+            "renal malrotation",
+            "bifid ureter",
+            "long foot"
+        ]
+    },
+    {
+        "MCID": "CRN104",
+        "name": "Craniotelencephalic Dysplasia",
+        "source_url": "https://www.malacards.org/card/craniotelencephalic_dysplasia?search=Bone%20diseases",
+        "ICD10": [
+            "Q04.3"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "frontal bossing",
+            "global developmental delay",
+            "craniosynostosis",
+            "agenesis of corpus callosum",
+            "hydrocephalus",
+            "microcephaly",
+            "visual impairment",
+            "optic atrophy",
+            "cerebellar hypoplasia",
+            "microphthalmia",
+            "low-set, posteriorly rotated ears",
+            "arrhinencephaly",
+            "lissencephaly",
+            "frontal encephalocele",
+            "septo-optic dysplasia",
+            "optic nerve hypoplasia",
+            "absent septum pellucidum",
+            "hypotelorism",
+            "preauricular skin tag"
+        ]
+    },
+    {
+        "MCID": "ADM008",
+        "name": "Adams-Oliver Syndrome 3",
+        "source_url": "https://www.malacards.org/card/adams_oliver_syndrome_3?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "global developmental delay",
+            "blepharophimosis",
+            "short palpebral fissure",
+            "microcephaly",
+            "short distal phalanx of finger",
+            "absent toe",
+            "2-3 toe syndactyly",
+            "short metatarsal",
+            "aplasia cutis congenita"
+        ]
+    },
+    {
+        "MCID": "SPN425",
+        "name": "Spondyloepimetaphyseal Dysplasia, Krakow Type",
+        "source_url": "https://www.malacards.org/card/spondyloepimetaphyseal_dysplasia_krakow_type?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "frontal bossing",
+            "hydrocephalus",
+            "seizures",
+            "constipation",
+            "global developmental delay",
+            "immunodeficiency",
+            "patent ductus arteriosus",
+            "atrial septal defect",
+            "elbow flexion contracture",
+            "rhizomelia",
+            "arnold-chiari malformation",
+            "brachydactyly",
+            "platybasia",
+            "bruising susceptibility",
+            "eczema",
+            "knee flexion contracture",
+            "2-3 toe syndactyly",
+            "mesomelia",
+            "irregular epiphyses",
+            "sclerosis of skull base",
+            "metaphyseal irregularity"
+        ]
+    },
+    {
+        "MCID": "INF146",
+        "name": "Inflammatory Skin and Bowel Disease, Neonatal, 2",
+        "source_url": "https://www.malacards.org/card/inflammatory_skin_and_bowel_disease_neonatal_2?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [
+            "vomiting",
+            "watery diarrhea"
+        ],
+        "HOP_symptoms": [
+            "hypertension",
+            "failure to thrive",
+            "dehydration",
+            "vomiting",
+            "edema",
+            "diarrhea",
+            "recurrent pneumonia",
+            "papule",
+            "long eyelashes",
+            "pustule",
+            "epidermal acanthosis",
+            "recurrent bronchiolitis"
+        ]
+    },
+    {
+        "MCID": "BLD133",
+        "name": "Bleeding Disorder, Platelet-Type, 20",
+        "source_url": "https://www.malacards.org/card/bleeding_disorder_platelet_type_20?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "thrombocytopenia",
+            "epistaxis",
+            "bruising susceptibility",
+            "menorrhagia"
+        ]
+    },
+    {
+        "MCID": "IMM187",
+        "name": "Immunodeficiency 38 with Basal Ganglia Calcification",
+        "source_url": "https://www.malacards.org/card/immunodeficiency_38_with_basal_ganglia_calcification?search=Bone%20diseases",
+        "ICD10": [
+            "D84.8"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "seizures",
+            "lymphadenopathy",
+            "immunodeficiency",
+            "recurrent mycobacterial infections",
+            "basal ganglia calcification"
+        ]
+    },
+    {
+        "MCID": "PRX093",
+        "name": "Preaxial Deficiency, Postaxial Polydactyly, and Hypospadias",
+        "source_url": "https://www.malacards.org/card/preaxial_deficiency_postaxial_polydactyly_and_hypospadias_2?search=Bone%20diseases",
+        "ICD10": [
+            "Q87.2"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "postaxial hand polydactyly",
+            "glandular hypospadias",
+            "short 2nd toe"
+        ]
+    },
+    {
+        "MCID": "IND009",
+        "name": "Indeterminate Cell Histiocytosis",
+        "source_url": "https://www.malacards.org/card/indeterminate_cell_histiocytosis?search=Bone%20diseases",
+        "ICD10": [
+            "D76.3"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "BLD121",
+        "name": "Bleeding Disorder, Platelet-Type, 15",
+        "source_url": "https://www.malacards.org/card/bleeding_disorder_platelet_type_15?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "epistaxis",
+            "thrombocytopenia",
+            "anisocytosis",
+            "increased mean platelet volume"
+        ]
+    },
+    {
+        "MCID": "ATN012",
+        "name": "Autoinflammatory Syndrome, Familial, Behcet-Like",
+        "source_url": "https://www.malacards.org/card/autoinflammatory_syndrome_familial_behcet_like?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "hemolytic anemia",
+            "thrombocytopenia",
+            "skin rash",
+            "lymphopenia",
+            "oral ulcer",
+            "antinuclear antibody positivity",
+            "colitis",
+            "lupus anticoagulant",
+            "polyarticular arthritis",
+            "anterior uveitis",
+            "recurrent fever",
+            "genital ulcers"
+        ]
+    },
+    {
+        "MCID": "RDL033",
+        "name": "Radioulnar Synostosis with Amegakaryocytic Thrombocytopenia 2",
+        "source_url": "https://www.malacards.org/card/radioulnar_synostosis_with_amegakaryocytic_thrombocytopenia_2?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "sensorineural hearing impairment",
+            "anemia",
+            "thrombocytopenia",
+            "neutropenia",
+            "radioulnar synostosis",
+            "limited pronation/supination of forearm",
+            "overlapping fingers",
+            "hydrocele testis",
+            "congenital thrombocytopenia"
+        ]
+    },
+    {
+        "MCID": "INF067",
+        "name": "Inflammatory Bowel Disease 10",
+        "source_url": "https://www.malacards.org/card/inflammatory_bowel_disease_10?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "BLD126",
+        "name": "Bleeding Disorder, Platelet-Type, 18",
+        "source_url": "https://www.malacards.org/card/bleeding_disorder_platelet_type_18?search=Bone%20diseases",
+        "ICD10": [
+            "D69.1",
+            "D69.1"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "epistaxis",
+            "prolonged bleeding time",
+            "impaired platelet aggregation"
+        ]
+    },
+    {
+        "MCID": "NNT037",
+        "name": "Neonatal Inflammatory Skin and Bowel Disease",
+        "source_url": "https://www.malacards.org/card/neonatal_inflammatory_skin_and_bowel_disease?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "ECT098",
+        "name": "Ectopia Lentis 1, Isolated, Autosomal Dominant",
+        "source_url": "https://www.malacards.org/card/ectopia_lentis_1_isolated_autosomal_dominant?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "ectopia lentis"
+        ]
+    },
+    {
+        "MCID": "ALG026",
+        "name": "Al-Gazali Syndrome",
+        "source_url": "https://www.malacards.org/card/al_gazali_syndrome_2?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "hypertelorism",
+            "cataract",
+            "craniofacial hyperostosis",
+            "bowing of the long bones",
+            "short stature",
+            "cleft palate",
+            "limitation of joint mobility",
+            "prominent occiput",
+            "abnormality of the hip bone",
+            "flat face",
+            "intrauterine growth retardation",
+            "non-midline cleft lip",
+            "clinodactyly of the 5th finger",
+            "low-set, posteriorly rotated ears",
+            "arachnodactyly",
+            "sandal gap",
+            "radioulnar synostosis",
+            "aplasia/hypoplasia of the lungs",
+            "abnormality of cardiovascular system morphology",
+            "abnormal distal phalanx morphology of finger",
+            "malformation of the heart and great vessels",
+            "abnormality of pelvic girdle bone morphology",
+            "abnormality of the distal phalanx of finger"
+        ]
+    },
+    {
+        "MCID": "RHZ008",
+        "name": "Rhizomelic Syndrome",
+        "source_url": "https://www.malacards.org/card/rhizomelic_syndrome?search=Bone%20diseases",
+        "ICD10": [
+            "Q87.1"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "short neck",
+            "abnormality of epiphysis morphology",
+            "depressed nasal bridge",
+            "microcephaly",
+            "cognitive impairment",
+            "micrognathia",
+            "limitation of joint mobility",
+            "abnormal form of the vertebral bodies",
+            "acne",
+            "hip dislocation",
+            "abnormal hair quantity",
+            "rhizomelia",
+            "brachydactyly",
+            "pulmonic stenosis",
+            "abnormality of the elbow",
+            "wide anterior fontanel",
+            "short distal phalanx of finger",
+            "preaxial hand polydactyly",
+            "triphalangeal thumb",
+            "abnormality of the tongue",
+            "abnormality of the knee",
+            "abnormality of the humerus",
+            "high palate",
+            "kyphosis",
+            "cleft palate",
+            "short stature",
+            "complete duplication of thumb phalanx",
+            "bifid distal phalanx of the thumb"
+        ]
+    },
+    {
+        "MCID": "VRT016",
+        "name": "Vertebral Anomalies and Variable Endocrine and T-Cell Dysfunction",
+        "source_url": "https://www.malacards.org/card/vertebral_anomalies_and_variable_endocrine_and_t_cell_dysfunction?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "hypertelorism",
+            "low-set ears",
+            "short neck",
+            "scoliosis",
+            "kyphosis",
+            "global developmental delay",
+            "depressed nasal bridge",
+            "cleft palate",
+            "epicanthus",
+            "webbed neck",
+            "hashimoto thyroiditis",
+            "atrial septal defect",
+            "sprengel anomaly",
+            "hypoparathyroidism",
+            "broad nasal tip",
+            "overfolded helix",
+            "low anterior hairline",
+            "pulmonic stenosis",
+            "triangular face",
+            "depressed nasal tip",
+            "cupped ear",
+            "ectopia pupillae",
+            "growth hormone deficiency",
+            "double outlet right ventricle",
+            "cleft lip",
+            "glabellar hemangioma",
+            "abnormal b cell morphology"
+        ]
+    },
+    {
+        "MCID": "PRV021",
+        "name": "Periventricular Nodular Heterotopia 8",
+        "source_url": "https://www.malacards.org/card/periventricular_nodular_heterotopia_8?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "seizures",
+            "spasticity",
+            "delayed speech and language development",
+            "delayed myelination"
+        ]
+    },
+    {
+        "MCID": "BLD157",
+        "name": "Bleeding Disorder, Platelet-Type, 9",
+        "source_url": "https://www.malacards.org/card/bleeding_disorder_platelet_type_9?search=Bone%20diseases",
+        "ICD10": [
+            "D69.8",
+            "D69.8"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "thrombocytopenia",
+            "bruising susceptibility"
+        ]
+    },
+    {
+        "MCID": "NML025",
+        "name": "Nemaline Myopathy 8",
+        "source_url": "https://www.malacards.org/card/nemaline_myopathy_8?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "dysphagia",
+            "facial palsy",
+            "flexion contracture",
+            "abnormality of the thorax",
+            "nemaline bodies",
+            "fetal akinesia sequence",
+            "respiratory failure",
+            "hypokinesia",
+            "myofibrillar myopathy"
+        ]
+    },
+    {
+        "MCID": "IGG017",
+        "name": "Igg4-Related Hepatopathy",
+        "source_url": "https://www.malacards.org/card/igg4_related_hepatopathy?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "HYP720",
+        "name": "Hyperparathyroidism 4",
+        "source_url": "https://www.malacards.org/card/hyperparathyroidism_4?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "osteopenia",
+            "nephrolithiasis",
+            "parathyroid carcinoma",
+            "hypercalcemia",
+            "primary hyperparathyroidism"
+        ]
+    },
+    {
+        "MCID": "SPN370",
+        "name": "Spondylodysplastic Ehlers-Danlos Syndrome",
+        "source_url": "https://www.malacards.org/card/spondylodysplastic_ehlers_danlos_syndrome?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "PHC016",
+        "name": "Phocomelia-Ectrodactyly, Ear Malformation, Deafness, and Sinus Arrhythmia",
+        "source_url": "https://www.malacards.org/card/phocomelia_ectrodactyly_ear_malformation_deafness_and_sinus_arrhythmia_2?search=Bone%20diseases",
+        "ICD10": [
+            "Q87.2"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "microtia",
+            "arrhythmia",
+            "long philtrum",
+            "abnormal nasal morphology",
+            "conductive hearing impairment",
+            "deep philtrum",
+            "stenosis of the external auditory canal",
+            "hypoplasia of the ulna",
+            "aplasia/hypoplasia of the thumb",
+            "ectrodactyly",
+            "aplasia/hypoplasia of the earlobes",
+            "abnormality of the wrist",
+            "abnormality of the antitragus",
+            "abnormality of the nares",
+            "ulnar bowing",
+            "short humerus",
+            "upper limb phocomelia",
+            "asymmetric radial dysplasia",
+            "short 2nd metacarpal",
+            "abnormality of dental morphology",
+            "radial club hand",
+            "malar flattening",
+            "short stature",
+            "downslanted palpebral fissures",
+            "elbow dislocation",
+            "genu varum",
+            "split hand",
+            "radioulnar synostosis",
+            "midface retrusion",
+            "phocomelia",
+            "shoulder dislocation",
+            "absent radius",
+            "fibular hypoplasia",
+            "mesomelic arm shortening",
+            "lateral clavicle hook",
+            "long clavicles",
+            "congenital earlobe sinuses",
+            "anterior vertebral fusion"
+        ]
+    },
+    {
+        "MCID": "RDL039",
+        "name": "Radio-Ulnar Synostosis-Amegakaryocytic Thrombocytopenia Syndrome",
+        "source_url": "https://www.malacards.org/card/radio_ulnar_synostosis_amegakaryocytic_thrombocytopenia_syndrome?search=Bone%20diseases",
+        "ICD10": [
+            "Q87.2"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "clinodactyly of the 5th finger",
+            "radioulnar synostosis",
+            "amegakaryocytic thrombocytopenia",
+            "finger syndactyly",
+            "hip dysplasia",
+            "sensorineural hearing impairment"
+        ]
+    },
+    {
+        "MCID": "ALR004",
+        "name": "Alar Cleft, Isolated",
+        "source_url": "https://www.malacards.org/card/alar_cleft_isolated?search=Bone%20diseases",
+        "ICD10": [
+            "Q18.8"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "ISL124",
+        "name": "Isolated Growth Hormone Deficiency, Type V",
+        "source_url": "https://www.malacards.org/card/isolated_growth_hormone_deficiency_type_v?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "frontal bossing",
+            "growth hormone deficiency"
+        ]
+    },
+    {
+        "MCID": "INF093",
+        "name": "Inflammatory Bowel Disease 14",
+        "source_url": "https://www.malacards.org/card/inflammatory_bowel_disease_14?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "SLC024",
+        "name": "Slc4a1-Associated Distal Renal Tubular Acidosis",
+        "source_url": "https://www.malacards.org/card/slc4a1_associated_distal_renal_tubular_acidosis?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "ORB002",
+        "name": "Orbit Embryonal Rhabdomyosarcoma",
+        "source_url": "https://www.malacards.org/card/orbit_embryonal_rhabdomyosarcoma?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "APH015",
+        "name": "Aphalangy with Hemivertebrae",
+        "source_url": "https://www.malacards.org/card/aphalangy_with_hemivertebrae?search=Bone%20diseases",
+        "ICD10": [
+            "Q87.8"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "hemivertebrae",
+            "split foot",
+            "aplasia/hypoplasia of the phalanges of the hand",
+            "aplasia/hypoplasia of the phalanges of the toes",
+            "finger syndactyly",
+            "patent ductus arteriosus",
+            "renal hypoplasia/aplasia",
+            "abnormality of the metacarpal bones",
+            "anonychia",
+            "elbow dislocation",
+            "abnormality of pelvic girdle bone morphology",
+            "oligohydramnios",
+            "toe syndactyly",
+            "pulmonary hypoplasia",
+            "abnormality of female external genitalia",
+            "asymmetry of the thorax",
+            "persistent cloaca",
+            "vaginal fistula",
+            "ventricular septal defect",
+            "abnormality of the genitourinary system",
+            "aphalangy of hands and feet"
+        ]
+    },
+    {
+        "MCID": "RDL030",
+        "name": "Radial-Renal Syndrome",
+        "source_url": "https://www.malacards.org/card/radial_renal_syndrome?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "short neck",
+            "depressed nasal bridge",
+            "micrognathia",
+            "retrognathia",
+            "respiratory distress",
+            "micromelia",
+            "short palm",
+            "abnormal form of the vertebral bodies",
+            "high, narrow palate",
+            "multicystic kidney dysplasia",
+            "respiratory failure",
+            "brachydactyly",
+            "downturned corners of mouth",
+            "abnormality of the ribs",
+            "severe short stature",
+            "abnormality of the elbow",
+            "convex nasal ridge",
+            "hypoplasia of the radius",
+            "renal agenesis",
+            "chylothorax",
+            "renal dysplasia",
+            "short stature",
+            "dyspnea",
+            "ectopic kidney",
+            "external ear malformation",
+            "renal hypoplasia/aplasia",
+            "pleural effusion",
+            "absent radius",
+            "absent thumb",
+            "chromosome breakage"
+        ]
+    },
+    {
+        "MCID": "PGM012",
+        "name": "Pigmented Nodular Adrenocortical Disease, Primary, 3",
+        "source_url": "https://www.malacards.org/card/pigmented_nodular_adrenocortical_disease_primary_3?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "increased circulating cortisol level",
+            "adrenal hyperplasia"
+        ]
+    },
+    {
+        "MCID": "ANK015",
+        "name": "Ankylosing Vertebral Hyperostosis with Tylosis",
+        "source_url": "https://www.malacards.org/card/ankylosing_vertebral_hyperostosis_with_tylosis?search=Bone%20diseases",
+        "ICD10": [
+            "M48.1"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "osteoarthritis",
+            "abnormality of the vertebral column",
+            "abnormal pelvis bone morphology",
+            "obesity",
+            "palmoplantar keratoderma",
+            "vertebral hyperostosis",
+            "punctate palmar hyperkeratosis"
+        ]
+    },
+    {
+        "MCID": "INF170",
+        "name": "Inflammatory Bowel Disease 29",
+        "source_url": "https://www.malacards.org/card/inflammatory_bowel_disease_29?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "INF068",
+        "name": "Inflammatory Bowel Disease 13",
+        "source_url": "https://www.malacards.org/card/inflammatory_bowel_disease_13?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "inflammation of the large intestine"
+        ]
+    },
+    {
+        "MCID": "CHR363",
+        "name": "Chromosome 17q23.1-Q23.2 Duplication Syndrome",
+        "source_url": "https://www.malacards.org/card/chromosome_17q231_q232_duplication_syndrome?search=Bone%20diseases",
+        "ICD10": [
+            "Q66.8"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "talipes equinovarus",
+            "short stature",
+            "hip dysplasia",
+            "hypoplastic toenails",
+            "genu valgum",
+            "coxa valga",
+            "small nail",
+            "acetabular dysplasia"
+        ]
+    },
+    {
+        "MCID": "THR120",
+        "name": "Thrombophilia Due to Histidine-Rich Glycoprotein Deficiency",
+        "source_url": "https://www.malacards.org/card/thrombophilia_due_to_histidine_rich_glycoprotein_deficiency?search=Bone%20diseases",
+        "ICD10": [
+            "D68.5"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "hypercoagulability",
+            "recurrent thromboembolism"
+        ]
+    },
+    {
+        "MCID": "CRD215",
+        "name": "Cardioskeletal Syndrome, Kuwaiti Type",
+        "source_url": "https://www.malacards.org/card/cardioskeletal_syndrome_kuwaiti_type_2?search=Bone%20diseases",
+        "ICD10": [
+            "Q87.2"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "abnormality of the metaphysis",
+            "narrow chest",
+            "abnormal form of the vertebral bodies",
+            "atrial septal defect",
+            "ventricular septal defect",
+            "accelerated skeletal maturation",
+            "mesomelic/rhizomelic limb shortening",
+            "kyphosis",
+            "abnormality of the ribs",
+            "abnormal mitral valve morphology",
+            "abnormality of the pulmonary artery",
+            "abnormal tricuspid valve morphology",
+            "skeletal dysplasia",
+            "short stature",
+            "death in infancy",
+            "abnormality of the tricuspid valve",
+            "abnormality of cardiovascular system morphology",
+            "disproportionate short stature",
+            "abnormal heart morphology"
+        ]
+    },
+    {
+        "MCID": "HRT033",
+        "name": "Heart-Hand Syndrome, Spanish Type",
+        "source_url": "https://www.malacards.org/card/heart_hand_syndrome_spanish_type?search=Bone%20diseases",
+        "ICD10": [
+            "Q87.2"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "bundle branch block",
+            "abnormality of the metacarpal bones",
+            "brachydactyly",
+            "short middle phalanx of finger",
+            "sick sinus syndrome",
+            "short toe",
+            "abnormality of the cardiovascular system",
+            "ulnar deviation of the 2nd finger"
+        ]
+    },
+    {
+        "MCID": "CRN258",
+        "name": "Craniosynostosis-Hydrocephalus-Arnold-Chiari Malformation Type I-Radioulnar Synostosis Syndrome",
+        "source_url": "https://www.malacards.org/card/craniosynostosis_hydrocephalus_arnold_chiari_malformation_type_i_radioulnar_synostosis_syndrome?search=Bone%20diseases",
+        "ICD10": [
+            "Q87.8"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "malar flattening",
+            "hypertelorism",
+            "low-set ears",
+            "hydrocephalus",
+            "seizures",
+            "depressed nasal bridge",
+            "bowing of the long bones",
+            "pectus carinatum",
+            "short nose",
+            "microtia",
+            "brachycephaly",
+            "long philtrum",
+            "short palm",
+            "cryptorchidism",
+            "wide intermamillary distance",
+            "broad forehead",
+            "intellectual disability, moderate",
+            "arnold-chiari malformation",
+            "renal hypoplasia",
+            "turricephaly",
+            "high forehead",
+            "blepharophimosis",
+            "radioulnar synostosis",
+            "craniosynostosis",
+            "thin vermilion border",
+            "micropenis",
+            "short columella",
+            "renal agenesis",
+            "obesity",
+            "umbilical hernia",
+            "anteverted nares",
+            "laryngomalacia",
+            "micrognathia",
+            "patent ductus arteriosus",
+            "hypospadias",
+            "large fontanelles",
+            "toe syndactyly",
+            "spastic tetraparesis",
+            "cerebral atrophy",
+            "abnormality of the septum pellucidum",
+            "hypertonia"
+        ]
+    },
+    {
+        "MCID": "SYN025",
+        "name": "Syndactyly-Polydactyly-Earlobe Syndrome",
+        "source_url": "https://www.malacards.org/card/syndactyly_polydactyly_earlobe_syndrome?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "preaxial hand polydactyly",
+            "abnormality of earlobe",
+            "broad toe",
+            "preaxial foot polydactyly",
+            "bifid distal phalanx of toe",
+            "1-2 toe complete cutaneous syndactyly"
+        ]
+    },
+    {
+        "MCID": "ZNC006",
+        "name": "Zinc, Elevated Plasma",
+        "source_url": "https://www.malacards.org/card/zinc_elevated_plasma?search=Bone%20diseases",
+        "ICD10": [
+            "E83.2"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "abnormality of metabolism/homeostasis"
+        ]
+    },
+    {
+        "MCID": "SCK020",
+        "name": "Sickle Cell - Hemoglobin D Disease",
+        "source_url": "https://www.malacards.org/card/sickle_cell_hemoglobin_d_disease?search=Bone%20diseases",
+        "ICD10": [
+            "D57.2"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "UPN001",
+        "name": "Upington Disease",
+        "source_url": "https://www.malacards.org/card/upington_disease?search=Bone%20diseases",
+        "ICD10": [
+            "M91.8"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "arthralgia",
+            "enchondroma",
+            "broad femoral neck",
+            "flat capital femoral epiphysis",
+            "arthralgia of the hip",
+            "premature epimetaphyseal fusion",
+            "multiple enchondromatosis",
+            "flattened femoral head"
+        ]
+    },
+    {
+        "MCID": "MYG006",
+        "name": "Myoglobinuria, Autosomal Dominant",
+        "source_url": "https://www.malacards.org/card/myoglobinuria_autosomal_dominant?search=Bone%20diseases",
+        "ICD10": [
+            "R82.1"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "muscle weakness",
+            "myalgia",
+            "acute kidney injury",
+            "myoglobinuria",
+            "elevated serum creatine kinase"
+        ]
+    },
+    {
+        "MCID": "TMR019",
+        "name": "Tumoral Calcinosis, Hyperphosphatemic, Familial, 2",
+        "source_url": "https://www.malacards.org/card/tumoral_calcinosis_hyperphosphatemic_familial_2?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "DFN308",
+        "name": "Deafness, Progressive, with Stapes Fixation",
+        "source_url": "https://www.malacards.org/card/deafness_progressive_with_stapes_fixation_2?search=Bone%20diseases",
+        "ICD10": [
+            "H74.3"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "bilateral conductive hearing impairment",
+            "stapes ankylosis"
+        ]
+    },
+    {
+        "MCID": "TMR020",
+        "name": "Tumoral Calcinosis, Hyperphosphatemic, Familial, 3",
+        "source_url": "https://www.malacards.org/card/tumoral_calcinosis_hyperphosphatemic_familial_3?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "ULN021",
+        "name": "Ulnar Hypoplasia with Lobster-Claw Deformity of Feet",
+        "source_url": "https://www.malacards.org/card/ulnar_hypoplasia_with_lobster_claw_deformity_of_feet?search=Bone%20diseases",
+        "ICD10": [
+            "Q73.8"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "split hand",
+            "hypoplasia of the ulna",
+            "aplasia/hypoplasia of the radius",
+            "split foot",
+            "short finger",
+            "syndactyly"
+        ]
+    },
+    {
+        "MCID": "ATM063",
+        "name": "Autoimmune Pancreatitis Type 2",
+        "source_url": "https://www.malacards.org/card/autoimmune_pancreatitis_type_2?search=Bone%20diseases",
+        "ICD10": [
+            "K86.1"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "DRG017",
+        "name": "Drug-Induced Vasculitis",
+        "source_url": "https://www.malacards.org/card/drug_induced_vasculitis?search=Bone%20diseases",
+        "ICD10": [
+            "M31.8"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "SPN345",
+        "name": "Spondyloepiphyseal Dysplasia, Myopia, and Sensorineural Deafness",
+        "source_url": "https://www.malacards.org/card/spondyloepiphyseal_dysplasia_myopia_and_sensorineural_deafness?search=Bone%20diseases",
+        "ICD10": [
+            "Q77.7"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "blue sclerae",
+            "short neck",
+            "clinodactyly",
+            "pes planus",
+            "sensorineural hearing impairment",
+            "short stature",
+            "epiphyseal dysplasia",
+            "platyspondyly",
+            "myopia",
+            "waddling gait",
+            "retinal detachment",
+            "lumbar hyperlordosis",
+            "flattened femoral head",
+            "spondyloepiphyseal dysplasia",
+            "hypoplasia of the capital femoral epiphysis"
+        ]
+    },
+    {
+        "MCID": "PYD004",
+        "name": "Pyoderma Gangrenosum-Acne-Suppurative Hidradenitis Syndrome",
+        "source_url": "https://www.malacards.org/card/pyoderma_gangrenosum_acne_suppurative_hidradenitis_syndrome?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "BFD005",
+        "name": "Bifid Nose, Autosomal Recessive",
+        "source_url": "https://www.malacards.org/card/bifid_nose_autosomal_recessive?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "midline defect of the nose",
+            "bifid nose"
+        ]
+    },
+    {
+        "MCID": "SVR099",
+        "name": "Severe Hereditary Thrombophilia Due to Congenital Protein S Deficiency",
+        "source_url": "https://www.malacards.org/card/severe_hereditary_thrombophilia_due_to_congenital_protein_s_deficiency?search=Bone%20diseases",
+        "ICD10": [
+            "D68.5"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "purpura",
+            "retinopathy",
+            "thin skin",
+            "thrombophlebitis",
+            "deep venous thrombosis",
+            "pulmonary embolism",
+            "skin ulcer",
+            "abnormality of the cerebral vasculature",
+            "arterial thrombosis",
+            "venous insufficiency",
+            "abnormality of skin pigmentation",
+            "gangrene",
+            "aplasia/hypoplasia of the skin",
+            "subcutaneous hemorrhage"
+        ]
+    },
+    {
+        "MCID": "SPN433",
+        "name": "Spondyloepiphyseal Dysplasia, Kondo-Fu Type",
+        "source_url": "https://www.malacards.org/card/spondyloepiphyseal_dysplasia_kondo_fu_type?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "IGG012",
+        "name": "Igg4-Related Submandibular Gland Disease",
+        "source_url": "https://www.malacards.org/card/igg4_related_submandibular_gland_disease?search=Bone%20diseases",
+        "ICD10": [
+            "K11.2"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "GGN006",
+        "name": "Gigantiform Cementoma, Familial",
+        "source_url": "https://www.malacards.org/card/gigantiform_cementoma_familial?search=Bone%20diseases",
+        "ICD10": [
+            "D16.4"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "misalignment of teeth",
+            "multiple impacted teeth",
+            "cementoma"
+        ]
+    },
+    {
+        "MCID": "OMP011",
+        "name": "Omphalocele, Diaphragmatic Hernia, and Radial Ray Defects",
+        "source_url": "https://www.malacards.org/card/omphalocele_diaphragmatic_hernia_and_radial_ray_defects?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "STR014",
+        "name": "Sternum Lymphoma",
+        "source_url": "https://www.malacards.org/card/sternum_lymphoma?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "FRN052",
+        "name": "Frontonasal Dysplasia-Bifid Nose-Upper Limb Anomalies Syndrome",
+        "source_url": "https://www.malacards.org/card/frontonasal_dysplasia_bifid_nose_upper_limb_anomalies_syndrome?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "hypertelorism",
+            "wide nasal bridge",
+            "intrauterine growth retardation",
+            "underdeveloped nasal alae",
+            "clinodactyly of the 5th finger",
+            "downturned corners of mouth",
+            "thin upper lip vermilion",
+            "facial asymmetry",
+            "wide nose",
+            "almond-shaped palpebral fissure",
+            "bifid nasal tip",
+            "abnormality of the nasal bone",
+            "agenesis of corpus callosum",
+            "pes planus",
+            "atrial septal defect",
+            "choanal atresia",
+            "oligodactyly",
+            "frontal encephalocele",
+            "clinodactyly of the 3rd toe",
+            "intellectual disability",
+            "abnormality of the hand",
+            "abnormality of the upper limb"
+        ]
+    },
+    {
+        "MCID": "NNT044",
+        "name": "Neonatal Antiphospholipid Syndrome",
+        "source_url": "https://www.malacards.org/card/neonatal_antiphospholipid_syndrome?search=Bone%20diseases",
+        "ICD10": [
+            "D68.6"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "BDY013",
+        "name": "Body Mass Index Quantitative Trait Locus 5",
+        "source_url": "https://www.malacards.org/card/body_mass_index_quantitative_trait_locus_5?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "BFD004",
+        "name": "Bifid Nose, Autosomal Dominant",
+        "source_url": "https://www.malacards.org/card/bifid_nose_autosomal_dominant?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": [
+            "ptosis",
+            "cryptorchidism",
+            "abnormality of the skeletal system",
+            "midline defect of the nose",
+            "bifid nose"
+        ]
+    },
+    {
+        "MCID": "BDY009",
+        "name": "Body Mass Index Quantitative Trait Locus 3",
+        "source_url": "https://www.malacards.org/card/body_mass_index_quantitative_trait_locus_3?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "BDY014",
+        "name": "Body Mass Index Quantitative Trait Locus 6",
+        "source_url": "https://www.malacards.org/card/body_mass_index_quantitative_trait_locus_6?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "BDY008",
+        "name": "Body Mass Index Quantitative Trait Locus 2",
+        "source_url": "https://www.malacards.org/card/body_mass_index_quantitative_trait_locus_2?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "PRS125",
+        "name": "Pura Syndrome",
+        "source_url": "https://www.malacards.org/card/pura_syndrome?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "FMR002",
+        "name": "Femoral Cancer",
+        "source_url": "https://www.malacards.org/card/femoral_cancer?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "NNT046",
+        "name": "Neonatal Dermatomyositis",
+        "source_url": "https://www.malacards.org/card/neonatal_dermatomyositis?search=Bone%20diseases",
+        "ICD10": [
+            "M33.1"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "BDY016",
+        "name": "Body Mass Index Quantitative Trait Locus 13",
+        "source_url": "https://www.malacards.org/card/body_mass_index_quantitative_trait_locus_13?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "BDY018",
+        "name": "Body Mass Index Quantitative Trait Locus 15",
+        "source_url": "https://www.malacards.org/card/body_mass_index_quantitative_trait_locus_15?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "FCS008",
+        "name": "Fucosidosis Type 1",
+        "source_url": "https://www.malacards.org/card/fucosidosis_type_1?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "EHL040",
+        "name": "Ehlers-Danlos Syndrome, Fibronectinemic Type",
+        "source_url": "https://www.malacards.org/card/ehlers_danlos_syndrome_fibronectinemic_type?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "RNL048",
+        "name": "Renal Tubular Acidosis, Distal, Type 3",
+        "source_url": "https://www.malacards.org/card/renal_tubular_acidosis_distal_type_3?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "STR017",
+        "name": "Sternum Cancer",
+        "source_url": "https://www.malacards.org/card/sternum_cancer?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "UNC016",
+        "name": "Unclassified Vasculitis",
+        "source_url": "https://www.malacards.org/card/unclassified_vasculitis?search=Bone%20diseases",
+        "ICD10": [
+            "M31.8"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "SFT001",
+        "name": "Soft Tissue Peripheral Neuroepithelioma",
+        "source_url": "https://www.malacards.org/card/soft_tissue_peripheral_neuroepithelioma?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "NNT043",
+        "name": "Neonatal Scleroderma",
+        "source_url": "https://www.malacards.org/card/neonatal_scleroderma?search=Bone%20diseases",
+        "ICD10": [
+            "P83.8"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "ORL028",
+        "name": "Oral-Facial-Digital Syndrome with Short Stature and Brachymesophalangy",
+        "source_url": "https://www.malacards.org/card/oral_facial_digital_syndrome_with_short_stature_and_brachymesophalangy?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "MRN006",
+        "name": "Marinesco-Sjogren-Like Syndrome",
+        "source_url": "https://www.malacards.org/card/marinesco_sjogren_like_syndrome_msls?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "OLG019",
+        "name": "Oligoarticular Juvenile Idiopathic Arthritis Without Anti-Nuclear Antibodies",
+        "source_url": "https://www.malacards.org/card/oligoarticular_juvenile_idiopathic_arthritis_without_anti_nuclear_antibodies?search=Bone%20diseases",
+        "ICD10": [
+            "M08.4"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "OLG018",
+        "name": "Oligoarticular Juvenile Idiopathic Arthritis with Anti-Nuclear Antibodies",
+        "source_url": "https://www.malacards.org/card/oligoarticular_juvenile_idiopathic_arthritis_with_anti_nuclear_antibodies?search=Bone%20diseases",
+        "ICD10": [
+            "M08.4"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "VSC059",
+        "name": "Vascular-Like Classical Ehlers-Danlos Syndrome",
+        "source_url": "https://www.malacards.org/card/vascular_like_classical_ehlers_danlos_syndrome?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "XLN221",
+        "name": "X-Linked Keloid Scarring-Reduced Joint Mobility-Increased Optic Cup-to-Disc Ratio Syndrome",
+        "source_url": "https://www.malacards.org/card/x_linked_keloid_scarring_reduced_joint_mobility_increased_optic_cup_to_disc_ratio_syndrome?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "IMM197",
+        "name": "Immune Dysregulation-Inflammatory Bowel Disease-Arthritis-Recurrent Infections-Lymphopenia Syndrome",
+        "source_url": "https://www.malacards.org/card/immune_dysregulation_inflammatory_bowel_disease_arthritis_recurrent_infections_lymphopenia_syndrome?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "PST098",
+        "name": "Postinfectious Vasculitis",
+        "source_url": "https://www.malacards.org/card/postinfectious_vasculitis?search=Bone%20diseases",
+        "ICD10": [
+            "I77.6"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "FML194",
+        "name": "Familial Clubfoot with or Without Associated Lower Limb Anomalies",
+        "source_url": "https://www.malacards.org/card/familial_clubfoot_with_or_without_associated_lower_limb_anomalies?search=Bone%20diseases",
+        "ICD10": [
+            "Q66.8"
+        ],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "RNL049",
+        "name": "Renal Tubular Acidosis, Distal, Type 4",
+        "source_url": "https://www.malacards.org/card/renal_tubular_acidosis_distal_type_4?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "BNG037",
+        "name": "Benign Angiitis of the Central Nervous System",
+        "source_url": "https://www.malacards.org/card/benign_angiitis_of_the_central_nervous_system?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "GNG007",
+        "name": "Ganglion or Cyst of Synovium/tendon/bursa",
+        "source_url": "https://www.malacards.org/card/ganglion_or_cyst_of_synovium_tendon_bursa?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "MYG002",
+        "name": "Myoglobinuria Dominant Form",
+        "source_url": "https://www.malacards.org/card/myoglobinuria_dominant_form?search=Bone%20diseases",
+        "ICD10": [],
+        "sign_or_symptoms": [],
+        "HOP_symptoms": []
+    },
+    {
+        "MCID": "LKM071",
+        "name": "Leukemia, Chronic Lymphocytic",
+        "source_url": "https://www.malacards.org/card/leukemia_chronic_lymphocytic?search=Bone%20diseases",
+        "ICD10": [
+            "C91.1",
+            "C91.10",
+            "C91.1"
+        ],
+        "sign_or_symptoms": [
+            "fatigue",
+            "angina pectoris",
+            "edema",
+            "chest pain"
+        ],
+        "HOP_symptoms": [
+            "cellular immunodeficiency",
+            "chronic lymphatic leukemia"
+        ]
+    }
+]
