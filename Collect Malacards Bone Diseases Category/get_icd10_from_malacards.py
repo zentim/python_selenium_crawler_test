@@ -114,7 +114,7 @@ def get_malacards_obj(driver, url):
 
 
 def run():
-    folder = 'malacards_bone_diseases_category'
+    folder = 'Collect Malacards Bone Diseases Category/malacards_bone_diseases_category'
     if not os.path.exists(folder):
         os.makedirs(folder)
 
