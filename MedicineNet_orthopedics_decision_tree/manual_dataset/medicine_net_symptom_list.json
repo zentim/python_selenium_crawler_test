@@ -1,0 +1,1442 @@
+[
+    {
+        "symptom": "Nausea or vomiting",
+        "HPO_symptom": "Nausea and vomiting",
+        "HPO_synonyms": "Nausea and vomiting",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002017"
+    },
+    {
+        "symptom": "Giddiness",
+        "HPO_symptom": "Vertigo",
+        "HPO_synonyms": "Dizzy spell, Dizziness",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002321"
+    },
+    {
+        "symptom": "Involuntary head turning or twisting",
+        "HPO_symptom": "Torticollis",
+        "HPO_synonyms": "Cervical dystonia, Wry neck, Loxia, Spasmodic torticollis",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000473"
+    },
+    {
+        "symptom": "Feeling faint",
+        "HPO_symptom": "Syncope",
+        "HPO_synonyms": "Fainting spell",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001279"
+    },
+    {
+        "symptom": "Noisy breathing",
+        "HPO_symptom": "Stridor",
+        "HPO_synonyms": "Noisy breathing",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0010307"
+    },
+    {
+        "symptom": "Slow heart rate (pulse)",
+        "HPO_symptom": "Arrhythmia",
+        "HPO_synonyms": "Cardiac conduction abnormalities, Irregular heart beat, Cardiac conduction defects, Abnormal heart rate, Arrhythmias, Irregular heartbeat, Cardiac arrhythmia, Heart rhythm disorders, Cardiac rhythm disturbances, Abnormality of cardiac conduction, Cardiac arrhythmias",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0011675"
+    },
+    {
+        "symptom": "Unable to move leg",
+        "HPO_symptom": "Paralysis",
+        "HPO_synonyms": "Paralysis, Inability to move",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0003470"
+    },
+    {
+        "symptom": "Enlarged (dilated) pupils",
+        "HPO_symptom": "Mydriasis",
+        "HPO_synonyms": "Dilated pupil",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0011499"
+    },
+    {
+        "symptom": "Restless or irritability",
+        "HPO_symptom": "Irritability",
+        "HPO_synonyms": "Irritable, Irritability",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000737"
+    },
+    {
+        "symptom": "Sunken eyes",
+        "HPO_symptom": "Deeply set eye",
+        "HPO_synonyms": "Deep-set eyes, Deep set eye, Deeply set eye, Enophthalmos, Ocular depression, Sunken eye, Sunken eyes",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000490"
+    },
+    {
+        "symptom": "Itching or burning",
+        "HPO_symptom": "Pruritus",
+        "HPO_synonyms": "pruritis, Itchy skin, Skin itching, Itching",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000989"
+    },
+    {
+        "symptom": "Grinding teeth",
+        "HPO_symptom": "Bruxism",
+        "HPO_synonyms": "Teeth grinding",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0003763"
+    },
+    {
+        "symptom": "Jerking eye movements",
+        "HPO_symptom": "Nystagmus",
+        "HPO_synonyms": "Involuntary, rapid, rhythmic eye movements",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000639"
+    },
+    {
+        "symptom": "Easy bruising",
+        "HPO_symptom": "Bruising susceptibility",
+        "HPO_synonyms": "Bruise easily, Easy bruisability, Easy bruising, Bruising susceptibility, Bruisability",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000978"
+    },
+    {
+        "symptom": "Upset stomach",
+        "HPO_symptom": "Abdominal pain",
+        "HPO_synonyms": "Stomach pain, Abdominal discomfort, Abdominal pain, Upset stomach, Gastro pain, Pain in stomach, Gastrointestinal pain",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002027"
+    },
+    {
+        "symptom": "Dry skin",
+        "HPO_symptom": "Dry skin",
+        "HPO_synonyms": "Dry skin, Xerosis",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000958"
+    },
+    {
+        "symptom": "Shaking hands or tremor",
+        "HPO_symptom": "Hand tremor",
+        "HPO_synonyms": "Tremor of hand, tremors in hands, Hand tremor, Tremor of hands",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002378"
+    },
+    {
+        "symptom": "Soreness or burning inside of mouth",
+        "HPO_symptom": "Burning mouth",
+        "HPO_synonyms": "",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0032143"
+    },
+    {
+        "symptom": "Difficulty opening mouth",
+        "HPO_symptom": "Jaw ankylosis",
+        "HPO_synonyms": "Difficulty opening mouth",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0040263"
+    },
+    {
+        "symptom": "Curved spine",
+        "HPO_symptom": "Scoliosis",
+        "HPO_synonyms": "Curved spine, Curvature of spine, Abnormal curving of the spine",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002650"
+    },
+    {
+        "symptom": "Increased talkativeness",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Foul smelling stools",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Skin thickening",
+        "HPO_symptom": "Palmoplantar hyperkeratosis",
+        "HPO_synonyms": "Hyperkeratosis of palms and soles, Thickening of the outer layer of the skin of the palms and soles, Thickened palms and soles, Palmoplantar keratosis, Palmoplantar keratoses, Hyperkeratosis of the palms and soles, Thick palms and soles",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000972"
+    },
+    {
+        "symptom": "Joint pain",
+        "HPO_symptom": "Arthralgia",
+        "HPO_synonyms": "Joint pains, Joint pain, Arthralgias, Arthritic pain",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002829"
+    },
+    {
+        "symptom": "Sore tongue",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Difficulty talking",
+        "HPO_symptom": "Poor speech",
+        "HPO_synonyms": "Poor speech, Problems speaking, Difficulty speaking",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002465"
+    },
+    {
+        "symptom": "Trouble distinguishing color shades",
+        "HPO_symptom": "Dyschromatopsia",
+        "HPO_synonyms": "Color blindness",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0007641"
+    },
+    {
+        "symptom": "New onset asthma",
+        "HPO_symptom": "Asthma",
+        "HPO_synonyms": "Asthma, Reactive airway disease, Bronchial asthma",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002099"
+    },
+    {
+        "symptom": "Choking on food",
+        "HPO_symptom": "Choking episodes",
+        "HPO_synonyms": "",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0030842"
+    },
+    {
+        "symptom": "Paranoid behavior",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Partial vision loss",
+        "HPO_symptom": "Visual field defect",
+        "HPO_synonyms": "Visual field defects, Partial loss of field of vision",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001123"
+    },
+    {
+        "symptom": "Constipation",
+        "HPO_symptom": "Constipation",
+        "HPO_synonyms": "Costiveness, Dyschezia, Constipation",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002019"
+    },
+    {
+        "symptom": "Weight loss (unintentional)",
+        "HPO_symptom": "Weight loss",
+        "HPO_synonyms": "",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001824"
+    },
+    {
+        "symptom": "Short arms and legs",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Urine leaking (incontinence)",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Weakness",
+        "HPO_symptom": "Muscle weakness",
+        "HPO_synonyms": "Muscular weakness, Muscle weakness",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001324"
+    },
+    {
+        "symptom": "Hallucinations",
+        "HPO_symptom": "Hallucinations",
+        "HPO_synonyms": "Hallucinations, Hallucination, Sensory hallucination",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000738"
+    },
+    {
+        "symptom": "Change in vision",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Confusion",
+        "HPO_symptom": "Confusion",
+        "HPO_synonyms": "Mental disorientation, Confusion, Disorientation, Easily confused",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001289"
+    },
+    {
+        "symptom": "Broken bone (single fracture)",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Weight loss (intentional)",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Disorientation",
+        "HPO_symptom": "Confusion",
+        "HPO_synonyms": "Mental disorientation, Confusion, Disorientation, Easily confused",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001289"
+    },
+    {
+        "symptom": "Rapid heart rate (pulse)",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Trembling",
+        "HPO_symptom": "Phakodonesis",
+        "HPO_synonyms": "Phacodonesis, Trembling eye lens",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0012629"
+    },
+    {
+        "symptom": "Taste of acid in mouth",
+        "HPO_symptom": "Gastroesophageal reflux",
+        "HPO_synonyms": "Acid reflux, Heartburn, GERD, Gastroesophageal reflux disease, Acid reflux disease",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002020"
+    },
+    {
+        "symptom": "Double vision (without one eye covered)",
+        "HPO_symptom": "Diplopia",
+        "HPO_synonyms": "Double vision",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000651"
+    },
+    {
+        "symptom": "Muscle twitching (painless)",
+        "HPO_symptom": "Facial tics",
+        "HPO_synonyms": "Mimic spasms, Facial spasms, Twitching of facial muscles, Myoclonus of facial muscles, Jerking of facial muscles, Spasms of facial muscles, Cramping of facial muscles, Facial tics, Muscle spasm of face, Involuntary facial muscle spasms",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0011468"
+    },
+    {
+        "symptom": "Low blood pressure",
+        "HPO_symptom": "Hypotension",
+        "HPO_synonyms": "Arterial hypotension, Low blood pressure",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002615"
+    },
+    {
+        "symptom": "Nighttime wheezing",
+        "HPO_symptom": "Wheezing",
+        "HPO_synonyms": "Wheezing",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0030828"
+    },
+    {
+        "symptom": "Drinking excessive fluids",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Swelling",
+        "HPO_symptom": "Facial edema",
+        "HPO_synonyms": "Facial puffiness, Facial swelling",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000282"
+    },
+    {
+        "symptom": "Red (bloodshot) eyes",
+        "HPO_symptom": "Keratoconjunctivitis sicca",
+        "HPO_synonyms": "Xerophthalmia, Dry eye syndrome, Dry eyes, Keratitis sicca",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001097"
+    },
+    {
+        "symptom": "Tightness",
+        "HPO_symptom": "Chest tightness",
+        "HPO_synonyms": "Tightness in chest",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0031352"
+    },
+    {
+        "symptom": "Feeling of not being able to get enough air",
+        "HPO_symptom": "Respiratory distress",
+        "HPO_synonyms": "Difficulty breathing, Breathing difficulties, Respiratory difficulties, Shortness of breath, Short of breath",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002098"
+    },
+    {
+        "symptom": "Bleeding gums",
+        "HPO_symptom": "Gingival bleeding",
+        "HPO_synonyms": "Gingivorrhagia, Gingival hemorrhage, Bleeding gums",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000225"
+    },
+    {
+        "symptom": "Numbness or tingling",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Sensitive to light",
+        "HPO_symptom": "Paresthesia",
+        "HPO_synonyms": "Paresthesias, Tingling, Pins and needles feeling",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0003401"
+    },
+    {
+        "symptom": "Muscle weakness",
+        "HPO_symptom": "Muscle weakness",
+        "HPO_synonyms": "Muscular weakness, Muscle weakness",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001324"
+    },
+    {
+        "symptom": "Difficulty climbing stairs",
+        "HPO_symptom": "Difficulty climbing stairs",
+        "HPO_synonyms": "Difficulty walking up stairs",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0003551"
+    },
+    {
+        "symptom": "Difficulty breathing through nose",
+        "HPO_symptom": "Respiratory distress",
+        "HPO_synonyms": "Difficulty breathing, Breathing difficulties, Respiratory difficulties, Shortness of breath, Short of breath",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002098"
+    },
+    {
+        "symptom": "Drooling",
+        "HPO_symptom": "Drooling",
+        "HPO_synonyms": "Dribbling, Sialorrhea, Drooling",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002307"
+    },
+    {
+        "symptom": "Bloody or red colored stools",
+        "HPO_symptom": "Bloody diarrhea",
+        "HPO_synonyms": "Blood in stool, Bloody stool, Bloody bowel movement, Bloody diarrhoea, Bloody diarrhea",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0025085"
+    },
+    {
+        "symptom": "Shortening of limb",
+        "HPO_symptom": "Mesomelia",
+        "HPO_synonyms": "Disproportionately short middle portion of limb, Mesomelic limb shortening, Symmetric mesomelic limb shortness, Mesomelic shortening of limbs",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0003027"
+    },
+    {
+        "symptom": "Fainting",
+        "HPO_symptom": "Syncope",
+        "HPO_synonyms": "Fainting spell",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001279"
+    },
+    {
+        "symptom": "Muscle cramps or spasms (painful)",
+        "HPO_symptom": "Muscle spasm",
+        "HPO_synonyms": "Muscle cramps",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0003394"
+    },
+    {
+        "symptom": "Hives",
+        "HPO_symptom": "Urticaria",
+        "HPO_synonyms": "Hives",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001025"
+    },
+    {
+        "symptom": "Lightheadedness",
+        "HPO_symptom": "Vertigo",
+        "HPO_synonyms": "Dizzy spell, Dizziness",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002321"
+    },
+    {
+        "symptom": "Shuffling gait (feet)",
+        "HPO_symptom": "Shuffling gait",
+        "HPO_synonyms": "Shuffled walk",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002362"
+    },
+    {
+        "symptom": "Slow thinking",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Drooping of one side of face",
+        "HPO_symptom": "Facial paralysis",
+        "HPO_synonyms": "Facial paresis, Facial paralysis",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0007209"
+    },
+    {
+        "symptom": "Tires quickly",
+        "HPO_symptom": "Easy fatigability",
+        "HPO_synonyms": "Tired easily",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0003388"
+    },
+    {
+        "symptom": "Nosebleed",
+        "HPO_symptom": "Epistaxis",
+        "HPO_synonyms": "Nosebleed, Bloody nose, Frequent nosebleeds, Nose bleeding",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000421"
+    },
+    {
+        "symptom": "Swollen gums",
+        "HPO_symptom": "Gingivitis",
+        "HPO_synonyms": "Red and swollen gums, Inflamed gums, Gingival inflammation",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000230"
+    },
+    {
+        "symptom": "Welts",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Loss of outside 1/3 of eyebrow (unintentional)",
+        "HPO_symptom": "Absent eyebrow",
+        "HPO_synonyms": "Agenesis of eyebrows, Absent eyebrow, Failure of development of eyebrows, Missing eyebrows, Aplasia of eyebrows, Absent eyebrows, Loss of eyebrows",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002223"
+    },
+    {
+        "symptom": "Pressure or heaviness",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Difficulty moving joint",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Difficulty sleeping",
+        "HPO_symptom": "Sleep disturbance",
+        "HPO_synonyms": "Sleep dysfunction, Sleep disturbances, Trouble sleeping, Difficulty sleeping",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002360"
+    },
+    {
+        "symptom": "Ear ache",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Joint locking or catching",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Increased thirst",
+        "HPO_symptom": "Polydipsia",
+        "HPO_synonyms": "Extreme thirst",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001959"
+    },
+    {
+        "symptom": "Guarding or favoring joint",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Yellow skin",
+        "HPO_symptom": "Jaundice",
+        "HPO_synonyms": "Jaundice, Yellow skin, Yellowing of the skin, Icterus",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000952"
+    },
+    {
+        "symptom": "Personality changes",
+        "HPO_symptom": "Personality changes",
+        "HPO_synonyms": "https://hpo.jax.org/app/browse/term/HP:0000751",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000751"
+    },
+    {
+        "symptom": "Bald spots (hair)",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Fever",
+        "HPO_symptom": "Fever",
+        "HPO_synonyms": "Hyperthermia, Fever, Pyrexia",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001945"
+    },
+    {
+        "symptom": "Multiple bruises of different ages",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Stiffness or decreased movement",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Cloudy vision",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Abnormally round face",
+        "HPO_symptom": "Round face",
+        "HPO_synonyms": "Circular face, Round, full face, Round facies, Round facial shape, Round facial appearance, Round face",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000311"
+    },
+    {
+        "symptom": "Frequent urge to urinate",
+        "HPO_symptom": "Pollakisuria",
+        "HPO_synonyms": "Frequent urination, Constant urination",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0100515"
+    },
+    {
+        "symptom": "Recent (short-term) memory loss",
+        "HPO_symptom": "Memory impairment",
+        "HPO_synonyms": "Forgetfulness, Memory impairment, Memory problems, Memory loss, Poor memory",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002354"
+    },
+    {
+        "symptom": "Loss of consciousness",
+        "HPO_symptom": "Loss of consciousness",
+        "HPO_synonyms": "Passing out, Loss of consciousness",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0007185"
+    },
+    {
+        "symptom": "Easy bleeding",
+        "HPO_symptom": "Bleeding with minor or no trauma",
+        "HPO_synonyms": "Easy bleeding, Bleeding with minor or no trauma",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0011889"
+    },
+    {
+        "symptom": "Unable to open mouth (jaw)",
+        "HPO_symptom": "Trismus",
+        "HPO_synonyms": "Decrease in mandibular opening, Decrease in mandibular mobility, Decrease in jaw opening, Limited jaw movement, Limited mouth opening, Lockjaw, Decrease in jaw mobility, Decrease in mandibular movement, Limited mandibular mobility, Limited jaw mobility, Decrease in jaw movement, Limited jaw opening, Pain of muscles of mastication, Limited mandibular opening",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000211"
+    },
+    {
+        "symptom": "Cough",
+        "HPO_symptom": "Cough",
+        "HPO_synonyms": "Coughing, Cough",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0012735"
+    },
+    {
+        "symptom": "Slurred speech",
+        "HPO_symptom": "Slurred speech",
+        "HPO_synonyms": "Slurred speech",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001350"
+    },
+    {
+        "symptom": "Drooping eyelid",
+        "HPO_symptom": "Ptosis",
+        "HPO_synonyms": "Eyelid ptosis, Blepharoptosis, Drooping upper eyelid, Eye drop",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000508"
+    },
+    {
+        "symptom": "Frequent urge to have bowel movement",
+        "HPO_symptom": "Tenesmus",
+        "HPO_synonyms": "",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0012702"
+    },
+    {
+        "symptom": "Unable to grip (hands)",
+        "HPO_symptom": "Handgrip myotonia",
+        "HPO_synonyms": "Grip myotonia",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0012899"
+    },
+    {
+        "symptom": "Difficulty staying awake during day",
+        "HPO_symptom": "Fatigue",
+        "HPO_synonyms": "Malaise, Tired, Tiredness, Fatigue",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0012378"
+    },
+    {
+        "symptom": "Excessive mouth watering",
+        "HPO_symptom": "Excessive salivation",
+        "HPO_synonyms": "Watery mouth, Hypersalivation, Excessive salivation, Oversalivation, Excessive production of saliva, Ptyalism, Mouth watering",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0003781"
+    },
+    {
+        "symptom": "Unable to move joint",
+        "HPO_symptom": "Limited neck range of motion",
+        "HPO_synonyms": "Limited cervical range of motion, Limited neck range of motion",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000466"
+    },
+    {
+        "symptom": "Irregular heartbeat",
+        "HPO_symptom": "Arrhythmia",
+        "HPO_synonyms": "Cardiac conduction abnormalities, Irregular heart beat, Cardiac conduction defects, Abnormal heart rate, Arrhythmias, Irregular heartbeat, Cardiac arrhythmia, Heart rhythm disorders, Cardiac rhythm disturbances, Abnormality of cardiac conduction, Cardiac arrhythmias",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0011675"
+    },
+    {
+        "symptom": "Drainage or pus",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Weight gain",
+        "HPO_symptom": "Increased body weight",
+        "HPO_synonyms": "Increased body weight, Weight gain",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0004324"
+    },
+    {
+        "symptom": "Abnormal gait (walking)",
+        "HPO_symptom": "Gait disturbance",
+        "HPO_synonyms": "Gait abnormalities, Abnormal gait, Impaired gait, Abnormal walk, Gait difficulties, Gait disturbances",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001288"
+    },
+    {
+        "symptom": "Distended stomach",
+        "HPO_symptom": "Abdominal distention",
+        "HPO_synonyms": "Abdominal bloating, Belly bloating, Abdominal distension, Distended abdomen, Abdominal swelling, Bloating",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0003270"
+    },
+    {
+        "symptom": "Unusual facial expression",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Hyperactive behavior",
+        "HPO_symptom": "Hyperactivity",
+        "HPO_synonyms": "More active than typical, Hyperactive behavior",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000752"
+    },
+    {
+        "symptom": "Drowsiness",
+        "HPO_symptom": "Drowsiness",
+        "HPO_synonyms": "Sleepy, Drowsiness",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002329"
+    },
+    {
+        "symptom": "Loss of side vision",
+        "HPO_symptom": "Peripheral visual field loss",
+        "HPO_synonyms": "Tunnel vision, Kalnienk vision, Loss of peripheral vision",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0007994"
+    },
+    {
+        "symptom": "Sudden numbness or weakness on one side of body",
+        "HPO_symptom": "Hemiparesis",
+        "HPO_synonyms": "Weakness of one side of body",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001269"
+    },
+    {
+        "symptom": "Unable to blink or close eyelid",
+        "HPO_symptom": "Facial palsy",
+        "HPO_synonyms": "Cranial nerve VII palsy, VII th cranial nerve palsy, Facial nerve paralysis, Facial nerve palsy, Facial muscle weakness of muscles innervated by CN VII, Bell's palsy, Seventh cranial nerve palsy, Facial palsy, unilateral or bilateral",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0010628"
+    },
+    {
+        "symptom": "Lump or bulge",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Unable to move arm",
+        "HPO_symptom": "Paralysis",
+        "HPO_synonyms": "Paralysis, Inability to move",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0003470"
+    },
+    {
+        "symptom": "Black (tar) colored stools",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Pain with urination",
+        "HPO_symptom": "Dysuria",
+        "HPO_synonyms": "Dull burning sensation with urination, Painful or difficult urination",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0100518"
+    },
+    {
+        "symptom": "Blindness",
+        "HPO_symptom": "Blindness",
+        "HPO_synonyms": "Total vision loss, Legal blindness, Blindness",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000618"
+    },
+    {
+        "symptom": "Unequal pupils (size)",
+        "HPO_symptom": "Anisocoria",
+        "HPO_synonyms": "Unequal pupil dilatation, Asymmetry of the pupils, Unequal pupil size, Asymmetric pupil sizes",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0009916"
+    },
+    {
+        "symptom": "Visible deformity",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Twisting or rotation of limb",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Skin blisters",
+        "HPO_symptom": "Abnormal blistering of the skin",
+        "HPO_synonyms": "Skin bullae, Blistering, generalized, Blisters, Abnormal blistering of the skin, Skin blisters",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0008066"
+    },
+    {
+        "symptom": "Change in stools",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Weakness (generalized)",
+        "HPO_symptom": "Muscle weakness",
+        "HPO_synonyms": "Muscular weakness, Muscle weakness",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001324"
+    },
+    {
+        "symptom": "Shaking",
+        "HPO_symptom": "Limb tremor",
+        "HPO_synonyms": "Limb tremor, Tremor of limbs, Involuntary shaking of limb",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0200085"
+    },
+    {
+        "symptom": "Shortness of breath",
+        "HPO_symptom": "Respiratory distress",
+        "HPO_synonyms": "Difficulty breathing, Breathing difficulties, Respiratory difficulties, Shortness of breath, Short of breath",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002098"
+    },
+    {
+        "symptom": "Wheezing",
+        "HPO_symptom": "Wheezing",
+        "HPO_synonyms": "Wheezing",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0030828"
+    },
+    {
+        "symptom": "Skin redness",
+        "HPO_symptom": "Erythema",
+        "HPO_synonyms": "Redness of skin or mucous membrane",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0010783"
+    },
+    {
+        "symptom": "Bleeding from nipple",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Developmental delays",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Increased sensitivity to cold",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Stiff neck",
+        "HPO_symptom": "Stiff neck",
+        "HPO_synonyms": "Neck stiffness, Stiff neck",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0025258"
+    },
+    {
+        "symptom": "Overweight",
+        "HPO_symptom": "Overweight",
+        "HPO_synonyms": "",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0025502"
+    },
+    {
+        "symptom": "Blood in toilet",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Memory problems",
+        "HPO_symptom": "Memory impairment",
+        "HPO_synonyms": "Forgetfulness, Memory impairment, Memory problems, Memory loss, Poor memory",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002354"
+    },
+    {
+        "symptom": "Pain or discomfort",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Difficulty stopping urine stream",
+        "HPO_symptom": "Pollakisuria",
+        "HPO_synonyms": "Frequent urination, Constant urination",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0100515"
+    },
+    {
+        "symptom": "Sore throat",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Difficulty concentrating",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Throat tightness",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Fatigue",
+        "HPO_symptom": "Fatigue",
+        "HPO_synonyms": "Malaise, Tired, Tiredness, Fatigue",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0012378"
+    },
+    {
+        "symptom": "Joint aches",
+        "HPO_symptom": "Arthralgia",
+        "HPO_synonyms": "Joint pains, Joint pain, Arthralgias, Arthritic pain",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002829"
+    },
+    {
+        "symptom": "Pale skin",
+        "HPO_symptom": "Pallor",
+        "HPO_synonyms": "Paleness, Skin paleness",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000980"
+    },
+    {
+        "symptom": "Broken bones (multiple fractures)",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Food getting stuck (swallowing)",
+        "HPO_symptom": "Choking episodes",
+        "HPO_synonyms": "",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0030842"
+    },
+    {
+        "symptom": "Frequent nighttime urination",
+        "HPO_symptom": "Pollakisuria",
+        "HPO_synonyms": "Frequent urination, Constant urination",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0100515"
+    },
+    {
+        "symptom": "Blood or red colored urine",
+        "HPO_symptom": "Abnormal urinary color",
+        "HPO_synonyms": "Abnormal urinary color, Abnormal urinary colour, Abnormal urine color",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0012086"
+    },
+    {
+        "symptom": "Morning joint stiffness",
+        "HPO_symptom": "Joint stiffness",
+        "HPO_synonyms": "Stiff joints, Joint stiffness, Stiff joint",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001387"
+    },
+    {
+        "symptom": "Stool leaking (incontinence)",
+        "HPO_symptom": "Urinary incontinence",
+        "HPO_synonyms": " Loss of bladder control, Bladder incontinence",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000020"
+    },
+    {
+        "symptom": "Palpitations (fluttering in chest)",
+        "HPO_symptom": "Palpitations",
+        "HPO_synonyms": "Palpitations, Skipped heart beat, Heart palpitations, Missed heart beat",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001962"
+    },
+    {
+        "symptom": "Delusions",
+        "HPO_symptom": "Delusions",
+        "HPO_synonyms": "Delusions",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000746"
+    },
+    {
+        "symptom": "Single palm crease",
+        "HPO_symptom": "Single transverse palmar crease",
+        "HPO_synonyms": "Simian crease, Simian line, Single transverse palmar creases, Simian creases, Transverse palmar crease, Single palmar creases, Single palmar crease, Single flexion crease",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000954"
+    },
+    {
+        "symptom": "Dry skin",
+        "HPO_symptom": "Dry skin",
+        "HPO_synonyms": "Dry skin, Xerosis",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000958"
+    },
+    {
+        "symptom": "Decreased sweating",
+        "HPO_symptom": "Hypohidrosis",
+        "HPO_synonyms": "Oligohidrosis, Inadequate sweating, Sweating, decreased, Decreased sweating, Decreased ability to sweat",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000966"
+    },
+    {
+        "symptom": "Difficulty staying asleep",
+        "HPO_symptom": "Insomnia",
+        "HPO_synonyms": "Fragmented sleep, Difficulty staying or falling asleep",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0100785"
+    },
+    {
+        "symptom": "Bad taste in mouth",
+        "HPO_symptom": "Abnormality of taste sensation",
+        "HPO_synonyms": "",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000223"
+    },
+    {
+        "symptom": "Erectile dysfunction",
+        "HPO_symptom": "Impotence",
+        "HPO_synonyms": "Erectile dysfunction, Difficulty getting a full erection, Difficulty getting an erection",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000802"
+    },
+    {
+        "symptom": "Loss of coordination",
+        "HPO_symptom": "Limb dysmetria",
+        "HPO_synonyms": "Uncoordinated limb movement",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002406"
+    },
+    {
+        "symptom": "Mouth sores",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Body aches or pains",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Vision fading of colors",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Bleeding in eye",
+        "HPO_symptom": "Hemorrhage of the eye",
+        "HPO_synonyms": "Bleeding from the eye, Haemorrhage of the eye",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0011885"
+    },
+    {
+        "symptom": "Hearing loss",
+        "HPO_symptom": "Hearing impairment",
+        "HPO_synonyms": "Deafness, Congenital deafness, Congenital hearing loss, Hearing impairment, Hearing defect, Hearing loss, Hypoacusis",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000365"
+    },
+    {
+        "symptom": "Jaw locking",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Depressed mood",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Belching",
+        "HPO_symptom": "Recurrent singultus",
+        "HPO_synonyms": "Hiccup, Recurrent synchronous diaphragmatic flutter, Recurrent hiccup, Hiccups, Recurrent hiccough",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0100247"
+    },
+    {
+        "symptom": "Skin bumps",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Bruising or discoloration",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Tenderness to touch",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Craving alcohol",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Difficulty walking",
+        "HPO_symptom": "Difficulty walking",
+        "HPO_synonyms": "Difficulty walking, Walking disability, Difficulty in walking",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002355"
+    },
+    {
+        "symptom": "Pounding heart (pulse)",
+        "HPO_symptom": "Palpitations",
+        "HPO_synonyms": "Palpitations, Skipped heart beat, Heart palpitations, Missed heart beat",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001962"
+    },
+    {
+        "symptom": "Metallic taste in mouth",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Small (constricted) pupils",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Puffy eyelids",
+        "HPO_symptom": "Palpebral edema",
+        "HPO_synonyms": "Puffy lids, Fullness of eyelids, Puffy eyelids, Swelling of eyelids, Eyelid edema, Edema of the eyelids",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0100540"
+    },
+    {
+        "symptom": "Loss of height",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Difficulty starting urine stream",
+        "HPO_symptom": "Dysuria",
+        "HPO_synonyms": "Dull burning sensation with urination, Painful or difficult urination",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0100518"
+    },
+    {
+        "symptom": "Anxiety",
+        "HPO_symptom": "Anxiety",
+        "HPO_synonyms": "Excessive, persistent worry and fear, Anxiety, Anxiety disease, Anxiousness",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000739"
+    },
+    {
+        "symptom": "Agitation",
+        "HPO_symptom": "Agitation",
+        "HPO_synonyms": "",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000713"
+    },
+    {
+        "symptom": "Difficulty getting up from a chair",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Headache (worst ever)",
+        "HPO_symptom": "Headache",
+        "HPO_synonyms": "Headaches, Headache",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002315"
+    },
+    {
+        "symptom": "Seizures (uncontrollable jerking of limbs)",
+        "HPO_symptom": "Seizures",
+        "HPO_synonyms": "Epilepsy, Seizure, Seizures",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001250"
+    },
+    {
+        "symptom": "Slow or weak urine stream",
+        "HPO_symptom": "Dysuria",
+        "HPO_synonyms": "Dull burning sensation with urination, Painful or difficult urination",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0100518"
+    },
+    {
+        "symptom": "Difficulty moving arm",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Skin rash",
+        "HPO_symptom": "Skin rash",
+        "HPO_synonyms": "Skin rash, Exanthem, Rash",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000988"
+    },
+    {
+        "symptom": "Short, wide neck",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Short stature",
+        "HPO_symptom": "Short stature",
+        "HPO_synonyms": "Decreased body height, Small stature, Stature below 3rd percentile, Height less than 3rd percentile, Short stature",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0004322"
+    },
+    {
+        "symptom": "Frequent urination",
+        "HPO_symptom": "Pollakisuria",
+        "HPO_synonyms": "Frequent urination, Constant urination",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0100515"
+    },
+    {
+        "symptom": "Eyes do not track together",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Skin open sore",
+        "HPO_symptom": "Skin ulcer",
+        "HPO_synonyms": "Open skin sore",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0200042"
+    },
+    {
+        "symptom": "Snoring",
+        "HPO_symptom": "Snoring",
+        "HPO_synonyms": "Snoring symptoms, Snores, Snore",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0025267"
+    },
+    {
+        "symptom": "Discharge from nipple",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Difficulty swallowing",
+        "HPO_symptom": "Oral-pharyngeal dysphagia",
+        "HPO_synonyms": "Difficulty swallowing, Oral pharyngeal dysphagia, Oropharyngeal dysphagia",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0200136"
+    },
+    {
+        "symptom": "Rapid speech",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Blackouts (memory time loss)",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Nervousness",
+        "HPO_symptom": "Anxiety",
+        "HPO_synonyms": "Excessive, persistent worry and fear, Anxiety, Anxiety disease, Anxiousness",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000739"
+    },
+    {
+        "symptom": "Episodes of not breathing during sleep",
+        "HPO_symptom": "Central sleep apnea",
+        "HPO_synonyms": "Central sleep apnoea",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0010536"
+    },
+    {
+        "symptom": "Apathy",
+        "HPO_symptom": "Apathy",
+        "HPO_synonyms": "Lack of feeling, emotion, interest",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000741"
+    },
+    {
+        "symptom": "Hair loss",
+        "HPO_symptom": "Alopecia",
+        "HPO_synonyms": "Hair loss",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001596"
+    },
+    {
+        "symptom": "Difficulty finding words",
+        "HPO_symptom": "Aphasia",
+        "HPO_synonyms": "Loss of words, Losing words, Difficulty finding words",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002381"
+    },
+    {
+        "symptom": "Coma",
+        "HPO_symptom": "Coma",
+        "HPO_synonyms": "Coma",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001259"
+    },
+    {
+        "symptom": "Muscle stiffness (rigidity)",
+        "HPO_symptom": "Muscle stiffness",
+        "HPO_synonyms": "",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0003552"
+    },
+    {
+        "symptom": "Mood swings",
+        "HPO_symptom": "Mood swings",
+        "HPO_synonyms": "Mood swings",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000720"
+    },
+    {
+        "symptom": "Decreased appetite",
+        "HPO_symptom": "Poor appetite",
+        "HPO_synonyms": "Poor appetite, No appetite, Decreased appetite",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0004396"
+    },
+    {
+        "symptom": "Teeth do not fit like they used to",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Shadow over part of vision",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Unusually short fourth fingers",
+        "HPO_symptom": "Brachydactyly",
+        "HPO_synonyms": "Brachydactyly syndrome, Short fingers or toes",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001156"
+    },
+    {
+        "symptom": "Night sweats",
+        "HPO_symptom": "Night sweats",
+        "HPO_synonyms": "Nocturnal hyperhidrosis, Night sweats",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0030166"
+    },
+    {
+        "symptom": "Excessive sweating",
+        "HPO_symptom": "Hyperhidrosis",
+        "HPO_synonyms": "Diaphoresis, Profuse sweating, Sweating, increased, Sweating, Excessive sweating, Increased sweating, Sweating profusely",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000975"
+    },
+    {
+        "symptom": "Chills",
+        "HPO_symptom": "Chills",
+        "HPO_synonyms": "Chills",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0025143"
+    },
+    {
+        "symptom": "Stomach cramps",
+        "HPO_symptom": "Abdominal pain",
+        "HPO_synonyms": "Stomach pain, Abdominal discomfort, Abdominal pain, Upset stomach, Gastro pain, Pain in stomach, Gastrointestinal pain",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002027"
+    },
+    {
+        "symptom": "Difficulty relaxing muscles after contracting them",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Headache",
+        "HPO_symptom": "Headache",
+        "HPO_synonyms": "Headaches, Headache",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002315"
+    },
+    {
+        "symptom": "Labored breathing",
+        "HPO_symptom": "Respiratory distress",
+        "HPO_synonyms": "Difficulty breathing, Breathing difficulties, Respiratory difficulties, Shortness of breath, Short of breath",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002098"
+    },
+    {
+        "symptom": "Joint instability",
+        "HPO_symptom": "Joint laxity",
+        "HPO_synonyms": "Joint ligamentous laxity, Lax joints, Hyperlaxity, Ligamentous laxity, Loose-jointedness, Loosejointedness, Joint instability",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001388"
+    },
+    {
+        "symptom": "Hoarse voice",
+        "HPO_symptom": "Hoarse voice",
+        "HPO_synonyms": "Hoarse voice, Hoarseness, Husky voice",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0001609"
+    },
+    {
+        "symptom": "Difficulty urinating",
+        "HPO_symptom": "Dysuria",
+        "HPO_synonyms": "Dull burning sensation with urination, Painful or difficult urination",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0100518"
+    },
+    {
+        "symptom": "Diarrhea",
+        "HPO_symptom": "Diarrhea",
+        "HPO_synonyms": "Watery stool, Diarrhea, Diarrhoea",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002014"
+    },
+    {
+        "symptom": "Unusual taste in mouth",
+        "HPO_symptom": "Abnormality of taste sensation",
+        "HPO_synonyms": "",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000223"
+    },
+    {
+        "symptom": "Impaired judgement",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Blurred vision",
+        "HPO_symptom": "Blurred vision",
+        "HPO_synonyms": "Blurred vision",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000622"
+    },
+    {
+        "symptom": "Excessive body hair growth",
+        "HPO_symptom": "Hypertrichosis",
+        "HPO_synonyms": "Excessive hair growth, Increased hair growth on body",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000998"
+    },
+    {
+        "symptom": "Painful ejaculation",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Coarse hair",
+        "HPO_symptom": "Coarse hair",
+        "HPO_synonyms": "Coarse hair, Rough hair texture, Coarse hair texture",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002208"
+    },
+    {
+        "symptom": "Yellow eyes",
+        "HPO_symptom": "Conjunctival icterus",
+        "HPO_synonyms": "Scleral icterus, Yellowing of the whites of the eyes, Yellow sclera, Yellow conjunctiva",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0032106"
+    },
+    {
+        "symptom": "Frequent infections",
+        "HPO_symptom": "Recurrent infections",
+        "HPO_synonyms": "Recurrent infections, Frequent, severe infections, Predisposition to infections, Frequent infections, Susceptibility to infection, Increased frequency of infection, infections, recurrent",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002719"
+    },
+    {
+        "symptom": "Warm to touch",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Bleeding",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Bad breath",
+        "HPO_symptom": "Halitosis",
+        "HPO_synonyms": "Bad breath, Foetor ex ore",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0100812"
+    },
+    {
+        "symptom": "Blank stare",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Hunched or stooped posture",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Unable to bear weight",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Damaged teeth enamel",
+        "HPO_symptom": "Abnormality of dental enamel",
+        "HPO_synonyms": "Dystrophic tooth enamel, Defective tooth enamel, Malformation of tooth enamel, Malformation of dental enamel, Abnormal tooth enamel, Enamel abnormalities, Enamel abnormality",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0000682"
+    },
+    {
+        "symptom": "Clicking or popping sound from jaw",
+        "HPO_symptom": "Temporomandibular joint crepitus",
+        "HPO_synonyms": "emporomandibular joint sounds, Temporomandibular joint clicking sound, Temporomandibular joint grating sound, Jaw joint grating sound, Temporomandibular joint noise, Jaw joint noise, Jaw joint clicking sound, Temporomandibular joint popping sound, Jaw joint popping sound, Jaw joint crepitus, Jaw joint sounds",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0012479"
+    },
+    {
+        "symptom": "Heartburn",
+        "HPO_symptom": "Gastroesophageal reflux",
+        "HPO_synonyms": "Acid reflux, Heartburn, GERD, Gastroesophageal reflux disease, Acid reflux disease",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002020"
+    },
+    {
+        "symptom": "Loss of balance",
+        "HPO_symptom": "Postural instability",
+        "HPO_synonyms": "Balance impairment, Imbalance, Abnormal retropulsion test",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002172"
+    },
+    {
+        "symptom": "Regurgitation of food or liquid",
+        "HPO_symptom": "",
+        "HPO_synonyms": "",
+        "HPO_url": ""
+    },
+    {
+        "symptom": "Dizziness",
+        "HPO_symptom": "Vertigo",
+        "HPO_synonyms": "Dizzy spell, Dizziness",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002321"
+    },
+    {
+        "symptom": "Rapid breathing",
+        "HPO_symptom": "Hyperventilation",
+        "HPO_synonyms": "Rapid breathing",
+        "HPO_url": "https://hpo.jax.org/app/browse/term/HP:0002883"
+    }
+]
